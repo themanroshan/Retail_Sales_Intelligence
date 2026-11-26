@@ -16,7 +16,7 @@ dashboard.
 
 ## Tech stack
 
-Python 3.11 · Pandas · MySQL 8 · SQLAlchemy · Statsmodels (SARIMA) · Streamlit · Plotly · Pytest
+Python 3.11 · Pandas · MySQL 8 · SQL · Statsmodels (SARIMA) · Streamlit · Plotly · Pytest
 
 ## Project structure
 
