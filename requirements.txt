@@ -1,0 +1,13 @@
+pandas
+numpy
+sqlalchemy
+pymysql
+python-dotenv
+statsmodels
+streamlit
+plotly
+matplotlib
+seaborn
+pytest
+jupyter
+openpyxl
