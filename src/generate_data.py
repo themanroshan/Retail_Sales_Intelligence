@@ -211,14 +211,14 @@ def save_raw(df: pd.DataFrame) -> None:
     DATA_RAW.mkdir(parents=True, exist_ok=True)
     out_path = DATA_RAW / RAW_FILENAME
     df.to_csv(out_path, index=False)
-    print(f"[generate_data] Saved {len(df):,} rows → {out_path}")
+    print(f"[generate_data] Saved {len(df):,} rows -> {out_path}")
 
 
 if __name__ == "__main__":
-    print("[generate_data] Generating synthetic dataset …")
+    print("[generate_data] Generating synthetic dataset ...")
     print(f"  Rows       : {SYNTHETIC_N_ROWS:,}")
     print(f"  Seed       : {SYNTHETIC_SEED}")
-    print(f"  Date range : {SYNTHETIC_START_DATE} → {SYNTHETIC_END_DATE}")
+    print(f"  Date range : {SYNTHETIC_START_DATE} to {SYNTHETIC_END_DATE}")
     print()
     df = generate_transactions()
     save_raw(df)

@@ -103,7 +103,7 @@ def validate(df: pd.DataFrame) -> dict:
     # ── KPI sanity: total sales > 0 ───────────────────────────────────────────
     if "sales_amount" in df.columns:
         total = float(df["sales_amount"].sum())
-        check("total_sales_positive", total > 0, note=f"₹{total:,.2f}")
+        check("total_sales_positive", total > 0, note=f"INR {total:,.2f}")
 
     # ── Determine overall status ───────────────────────────────────────────────
     statuses = [c["status"] for c in checks]
@@ -132,7 +132,7 @@ def print_validation_report(report: dict) -> None:
     print("DATA VALIDATION REPORT")
     print("=" * 60)
     for c in report["checks"]:
-        icon = "✓" if c["status"] == "PASS" else ("⚠" if c["status"] == "WARN" else "✗")
+        icon = "OK" if c["status"] == "PASS" else ("!!" if c["status"] == "WARN" else "XX")
         print(f"  {icon} [{c['status']:<4}] {c['check']:<45} {c['note']}")
     print("-" * 60)
     print(f"  {report['summary']}")

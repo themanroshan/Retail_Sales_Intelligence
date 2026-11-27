@@ -1,6 +1,6 @@
 """
-RetailPulse — ETL Pipeline
-===========================
+RetailPulse -- ETL Pipeline
+============================
 Orchestrates the full pipeline:
   1. Generate synthetic data (or load existing raw CSV)
   2. Inspect schema
@@ -23,6 +23,13 @@ import sys
 import json
 import argparse
 from pathlib import Path
+
+# Fix Windows console encoding so UTF-8 characters print without crashing
+if sys.stdout and hasattr(sys.stdout, 'reconfigure'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
@@ -50,14 +57,14 @@ def _ensure_dirs() -> None:
 
 def _save_processed(clean_df: pd.DataFrame) -> None:
     clean_df.to_csv(PROCESSED_FILE, index=False)
-    print(f"[pipeline] Saved processed CSV → {PROCESSED_FILE}")
+    print(f"[pipeline] Saved processed CSV -> {PROCESSED_FILE}")
 
 
 def _save_sample(clean_df: pd.DataFrame, n: int = 500) -> None:
     sample = clean_df.sample(min(n, len(clean_df)), random_state=42)
     sample_path = DATA_SAMPLE / "retailpulse_sample.csv"
     sample.to_csv(sample_path, index=False)
-    print(f"[pipeline] Saved sample ({len(sample)} rows) → {sample_path}")
+    print(f"[pipeline] Saved sample ({len(sample)} rows) -> {sample_path}")
 
 
 def _load_to_mysql(clean_df: pd.DataFrame) -> None:
@@ -78,7 +85,7 @@ def _load_to_mysql(clean_df: pd.DataFrame) -> None:
             print("           Run with --no-db to suppress this warning.")
             return
 
-        print("[pipeline] Loading into MySQL …")
+        print("[pipeline] Loading into MySQL ...")
         create_database()
         create_tables(sql_dir=SQL_DIR)
 
@@ -99,7 +106,7 @@ def _load_to_mysql(clean_df: pd.DataFrame) -> None:
     except ImportError:
         print("[pipeline] mysql-connector-python not installed. Skipping DB load.")
     except Exception as e:
-        print(f"[pipeline] WARNING: MySQL load failed — {e}")
+        print(f"[pipeline] WARNING: MySQL load failed - {e}")
         print("           Data was saved to CSV. Configure .env to enable MySQL.")
 
 
@@ -117,7 +124,7 @@ def print_audit(audit: dict) -> None:
     for rule in audit["cleaning_rules_applied"]:
         flagged = rule.get("rows_flagged", rule.get("rows_affected", 0))
         note    = rule.get("note", rule.get("action", ""))
-        print(f"    {rule['rule']:<45} → {flagged} rows  {note}")
+        print(f"    {rule['rule']:<45} -> {flagged} rows  {note}")
     print("=" * 60 + "\n")
 
 
@@ -130,33 +137,33 @@ def main(force_generate: bool = False, skip_db: bool = False) -> None:
 
     # ── Step 1: Generate or load raw data ─────────────────────────────────────
     if force_generate or not RAW_FILE_PATH.exists():
-        print("[pipeline] Generating synthetic dataset …")
+        print("[pipeline] Generating synthetic dataset ...")
         raw_df = generate_transactions()
         save_raw(raw_df)
     else:
         print(f"[pipeline] Raw file found: {RAW_FILE_PATH.name}")
 
-    # ── Step 2: Load & inspect ─────────────────────────────────────────────────
-    print("[pipeline] Loading raw data …")
+    # Step 2: Load & inspect
+    print("[pipeline] Loading raw data ...")
     raw_df = load_raw(RAW_FILE_PATH)
     schema = inspect_schema(raw_df)
-    print(f"[pipeline] Raw shape  : {schema['rows']:,} rows × {schema['columns']} columns")
-    print(f"[pipeline] Date range : {schema['date_min'][:10]} → {schema['date_max'][:10]}")
+    print(f"[pipeline] Raw shape  : {schema['rows']:,} rows x {schema['columns']} columns")
+    print(f"[pipeline] Date range : {schema['date_min'][:10]} to {schema['date_max'][:10]}")
 
     # ── Step 3: Clean ──────────────────────────────────────────────────────────
-    print("[pipeline] Cleaning data …")
+    print("[pipeline] Cleaning data ...")
     clean_df, audit = clean(raw_df)
     print_audit(audit)
 
     # ── Step 4: Validate ───────────────────────────────────────────────────────
-    print("[pipeline] Validating cleaned data …")
+    print("[pipeline] Validating cleaned data ...")
     report = validate(clean_df)
     print_validation_report(report)
     if report["overall"] == "FAIL":
         print("[pipeline] WARNING: Validation FAILED. Review the report above.")
 
     # ── Step 5: Enrich with date parts ────────────────────────────────────────
-    print("[pipeline] Applying transformations …")
+    print("[pipeline] Applying transformations ...")
     enriched_df = add_date_parts(clean_df)
 
     # ── Step 6: Save processed CSV ────────────────────────────────────────────

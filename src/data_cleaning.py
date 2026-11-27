@@ -110,7 +110,7 @@ def clean(df: pd.DataFrame) -> tuple[pd.DataFrame, dict]:
     n_mismatch = int(mismatch_flag.sum())
     work["sales_mismatch_flag"] = mismatch_flag.astype(int)
     audit_log.append({"rule": "sales_amount_mismatch_gt1pct", "rows_flagged": n_mismatch,
-                      "note": "Flagged but not quarantined — rounding differences retained"})
+                      "note": "Flagged but not quarantined - rounding differences retained"})
 
     # ── 10. Duplicate rows ─────────────────────────────────────────────────────
     dup_mask = work.duplicated(subset=["order_id", "product_id"], keep="first")
