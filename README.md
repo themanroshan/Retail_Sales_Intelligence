@@ -4,6 +4,8 @@
 
 A data analytics project where I analyse 10,000 Indian retail sales transactions from 2022 to 2024, store them in MySQL, and show the results in a Streamlit dashboard.
 
+**Live Dashboard:** [retaisalesintelligence.streamlit.app](https://retaisalesintelligence.streamlit.app)
+
 ---
 
 ## Why I Built This
@@ -57,7 +59,7 @@ The data is synthetic — I generated it myself using Python.
 
 ---
 
-## How to Run It
+## How to Run It Locally
 
 ```bash
 # 1. Clone the repo
@@ -97,4 +99,5 @@ This is a learning project. The data is synthetic. I do not claim any of the num
 ---
 
 Made by **Roshan Manjal**  
-GitHub: [themanroshan/Retail_Sales_Intelligence](https://github.com/themanroshan/Retail_Sales_Intelligence)
+GitHub: [themanroshan/Retail_Sales_Intelligence](https://github.com/themanroshan/Retail_Sales_Intelligence)  
+Live: [retaisalesintelligence.streamlit.app](https://retaisalesintelligence.streamlit.app)
