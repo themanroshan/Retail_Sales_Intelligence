@@ -20,7 +20,7 @@ from src.analytics import (
     sales_by_state, sales_by_city, quarterly_sales,
     sales_by_day_of_week, sales_by_payment_method, discount_impact
 )
-from dashboard.components import sidebar_filters, download_csv
+from dashboard.components import download_csv
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -30,9 +30,9 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# ── Style constants ───────────────────────────────────────────────────────────
-BLUE  = "#2E75B6"
-BLUES = "Blues"
+# ── Style ─────────────────────────────────────────────────────────────────────
+BLUE   = "#2E75B6"
+BLUES  = "Blues"
 GREENS = "Greens"
 CHART_H = 420
 
@@ -53,13 +53,73 @@ def _fmt(val):
     return f"₹{val:.0f}"
 
 
-# ── Load data — always from CSV ───────────────────────────────────────────────
+# ── Load data ─────────────────────────────────────────────────────────────────
 @st.cache_data(show_spinner="Loading data...")
 def load_data():
     if PROCESSED_FILE.exists():
         from src.data_loader import load_processed
         return load_processed()
     return None
+
+
+# ── Sidebar — project name + page navigation ONLY ────────────────────────────
+def build_sidebar():
+    st.sidebar.markdown(
+        "<h2 style='margin-bottom:0px'>📊 RetailPulse</h2>"
+        "<p style='color:gray;margin-top:2px;font-size:13px'>"
+        "Indian Retail Sales Intelligence</p>",
+        unsafe_allow_html=True,
+    )
+    st.sidebar.markdown("---")
+
+    page = st.sidebar.radio(
+        "Pages",
+        ["Overview", "Products", "Time Trends", "Regional", "Data Quality"],
+        key="nav",
+        label_visibility="collapsed",
+    )
+
+    st.sidebar.markdown("---")
+    st.sidebar.caption("Made by Roshan Manjal")
+    return page
+
+
+# ── Top-of-page filters — rendered inside each page ──────────────────────────
+def top_filters(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Renders Year / Category / State filters as 3 columns
+    at the very top of the main content area.
+    Returns the filtered DataFrame.
+    """
+    f1, f2, f3 = st.columns(3)
+
+    years = sorted(df["year"].dropna().unique().astype(int).tolist())
+    selected_years = f1.multiselect(
+        "Year", years, default=years, key="filter_year"
+    )
+
+    categories = sorted(df["category"].dropna().unique().tolist())
+    selected_cats = f2.multiselect(
+        "Category", categories, default=categories, key="filter_cat"
+    )
+
+    states = sorted(df["state"].dropna().unique().tolist())
+    selected_states = f3.multiselect(
+        "State", states, default=states, key="filter_state"
+    )
+
+    mask = (
+        df["year"].isin(selected_years) &
+        df["category"].isin(selected_cats) &
+        df["state"].isin(selected_states)
+    )
+    filtered = df[mask].copy()
+
+    # Row count right below filters
+    st.caption(f"Showing **{len(filtered):,}** of {len(df):,} rows")
+    st.markdown("---")
+
+    return filtered
 
 
 # ── App ───────────────────────────────────────────────────────────────────────
@@ -70,50 +130,39 @@ def main():
         st.error("Data not found. Run:  python src/pipeline.py --no-db")
         return
 
-    # Sidebar: name + filters + nav (in that order)
-    df = sidebar_filters(df_full, page="")
+    page = build_sidebar()
 
-    page = st.sidebar.radio(
-        "Pages",
-        ["Overview", "Products", "Time Trends", "Regional", "Data Quality"],
-        key="nav"
-    )
-    st.sidebar.markdown("---")
-    st.sidebar.caption("Made by Roshan Manjal")
-
-    if   page == "Overview":      page_overview(df)
-    elif page == "Products":      page_products(df)
-    elif page == "Time Trends":   page_time(df)
-    elif page == "Regional":      page_regional(df)
-    elif page == "Data Quality":  page_data_quality(df, df_full)
+    if   page == "Overview":      page_overview(df_full)
+    elif page == "Products":      page_products(df_full)
+    elif page == "Time Trends":   page_time(df_full)
+    elif page == "Regional":      page_regional(df_full)
+    elif page == "Data Quality":  page_data_quality(df_full)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE 1 — OVERVIEW
 # ══════════════════════════════════════════════════════════════════════════════
-def page_overview(df):
+def page_overview(df_full):
     st.header("Overview")
-    st.caption("Synthetic dataset — 10,000 Indian retail transactions, 2022–2024")
+    df = top_filters(df_full)                  # filters at top of page
 
     kpis = kpi_summary(df)
 
-    # Row 1
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Total Sales",     _fmt(kpis["total_sales"]))
-    c2.metric("Total Orders",    f"{kpis['total_orders']:,}")
-    c3.metric("Units Sold",      f"{kpis['total_units_sold']:,}")
-    c4.metric("Avg Order Value", f"₹{kpis['avg_order_value']:,.0f}")
+    c1.metric("Total Sales",      _fmt(kpis["total_sales"]))
+    c2.metric("Total Orders",     f"{kpis['total_orders']:,}")
+    c3.metric("Units Sold",       f"{kpis['total_units_sold']:,}")
+    c4.metric("Avg Order Value",  f"₹{kpis['avg_order_value']:,.0f}")
 
-    # Row 2
     c5, c6, c7, c8 = st.columns(4)
-    c5.metric("Total Profit",    _fmt(kpis["total_profit"]))
-    c6.metric("Profit Margin",   f"{kpis['profit_margin_pct']}%")
-    c7.metric("Avg Sell Price",  f"₹{kpis['avg_selling_price']:,.0f}")
-    c8.metric("Avg Discount",    f"{kpis['avg_discount_pct']}%")
+    c5.metric("Total Profit",     _fmt(kpis["total_profit"]))
+    c6.metric("Profit Margin",    f"{kpis['profit_margin_pct']}%")
+    c7.metric("Avg Sell Price",   f"₹{kpis['avg_selling_price']:,.0f}")
+    c8.metric("Avg Discount",     f"{kpis['avg_discount_pct']}%")
 
     st.markdown("---")
 
-    # Monthly trend — full width
+    # Monthly trend
     monthly = monthly_sales_trend(df)
     fig = px.line(
         monthly, x="year_month", y="total_sales", markers=True,
@@ -123,17 +172,15 @@ def page_overview(df):
     )
     fig.update_traces(line_width=2.5, marker_size=7)
     fig.update_layout(
-        xaxis_tickangle=-45,
-        hovermode="x unified",
-        yaxis_tickprefix="₹",
-        yaxis_tickformat=",.0f",
+        xaxis_tickangle=-45, hovermode="x unified",
+        yaxis_tickprefix="₹", yaxis_tickformat=",.0f",
     )
     _base(fig, h=380)
     st.plotly_chart(fig, use_container_width=True)
 
     st.markdown("---")
 
-    # Category — donut + bar side by side
+    # Category — donut + bar
     cat_df = sales_by_category(df)
     col_l, col_r = st.columns(2)
 
@@ -183,7 +230,7 @@ def page_overview(df):
 
     st.markdown("---")
 
-    # Key observations — auto-generated from real data
+    # Key observations
     top_cat    = cat_df.iloc[0]
     top_margin = cat_df.loc[cat_df["profit_margin_pct"].idxmax()]
     state_df   = sales_by_state(df)
@@ -191,9 +238,9 @@ def page_overview(df):
 
     st.subheader("Key Observations")
     st.markdown(f"""
-- **Top revenue category:** {top_cat['category']} contributes {top_cat['sales_share_pct']}% of total sales
-- **Best profit margin:** {top_margin['category']} at {top_margin['profit_margin_pct']:.1f}%
-- **Top state:** {top_state['state']} with {top_state['sales_share_pct']}% of total sales
+- **Top revenue category:** {top_cat['category']} — {top_cat['sales_share_pct']}% of total sales
+- **Best profit margin:** {top_margin['category']} — {top_margin['profit_margin_pct']:.1f}%
+- **Top state:** {top_state['state']} — {top_state['sales_share_pct']}% of total sales
 - **Average order value:** ₹{kpis['avg_order_value']:,.0f} per transaction
     """)
 
@@ -203,18 +250,19 @@ def page_overview(df):
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE 2 — PRODUCTS
 # ══════════════════════════════════════════════════════════════════════════════
-def page_products(df):
+def page_products(df_full):
     st.header("Products & Categories")
+    df = top_filters(df_full)
 
-    tab1, tab2, tab3 = st.tabs(["  Category Performance  ",
-                                  "  Top Products  ",
-                                  "  Discount Impact  "])
+    tab1, tab2, tab3 = st.tabs([
+        "  Category Performance  ",
+        "  Top Products  ",
+        "  Discount Impact  ",
+    ])
 
-    # ── Tab 1 ─────────────────────────────────────────────────────────────
     with tab1:
         cat_df = sales_by_category(df)
 
-        # Profit margin bar — full width
         fig_m = px.bar(
             cat_df.sort_values("profit_margin_pct", ascending=False),
             x="category", y="profit_margin_pct",
@@ -238,7 +286,6 @@ def page_products(df):
 
         st.markdown("---")
 
-        # Treemap — sub-category breakdown
         subcat = sales_by_subcategory(df)
         fig_tree = px.treemap(
             subcat,
@@ -253,12 +300,16 @@ def page_products(df):
         fig_tree.update_traces(
             texttemplate="<b>%{label}</b><br>%{percentParent:.1%}",
             textfont_size=13,
-            hovertemplate="<b>%{label}</b><br>Sales: ₹%{value:,.0f}<br>Margin: %{color:.1f}%<extra></extra>",
+            hovertemplate=(
+                "<b>%{label}</b><br>"
+                "Sales: ₹%{value:,.0f}<br>"
+                "Margin: %{color:.1f}%"
+                "<extra></extra>"
+            ),
         )
         fig_tree.update_layout(
             paper_bgcolor="white",
             margin=dict(l=10, r=10, t=50, b=10),
-            coloraxis_colorbar=dict(title="Margin %"),
         )
         _base(fig_tree, h=520)
         st.plotly_chart(fig_tree, use_container_width=True)
@@ -278,11 +329,9 @@ def page_products(df):
             height=330,
         )
 
-    # ── Tab 2 ─────────────────────────────────────────────────────────────
     with tab2:
         top_prods = top_products_by_sales(df, n=15)
         df_plot = top_prods.sort_values("total_sales", ascending=True).copy()
-        # Truncate long names cleanly
         df_plot["label"] = df_plot["product_name"].str[:45]
 
         fig_p = px.bar(
@@ -320,7 +369,6 @@ def page_products(df):
             height=430,
         )
 
-    # ── Tab 3 ─────────────────────────────────────────────────────────────
     with tab3:
         st.markdown("#### How discount levels affect sales and profit margins")
         disc = discount_impact(df)
@@ -347,7 +395,6 @@ def page_products(df):
         _base(fig_d)
         st.plotly_chart(fig_d, use_container_width=True)
 
-        st.markdown("**Discount Breakdown**")
         st.dataframe(
             disc.style.format({
                 "total_sales":     "₹{:,.0f}",
@@ -358,7 +405,7 @@ def page_products(df):
         )
         st.info(
             "Orders with no discount have the highest profit margins. "
-            "Each 10% increase in discount reduces margin by roughly 1–2 percentage points.",
+            "Each 10% more discount reduces margin by roughly 1–2 percentage points.",
             icon="💡",
         )
 
@@ -368,12 +415,16 @@ def page_products(df):
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE 3 — TIME TRENDS
 # ══════════════════════════════════════════════════════════════════════════════
-def page_time(df):
+def page_time(df_full):
     st.header("Time Trends")
+    df = top_filters(df_full)
 
-    tab1, tab2, tab3 = st.tabs(["  Monthly  ", "  Quarterly & Weekly  ", "  Payment Methods  "])
+    tab1, tab2, tab3 = st.tabs([
+        "  Monthly  ",
+        "  Quarterly & Weekly  ",
+        "  Payment Methods  ",
+    ])
 
-    # ── Tab 1 ─────────────────────────────────────────────────────────────
     with tab1:
         monthly = monthly_sales_trend(df)
 
@@ -394,22 +445,20 @@ def page_time(df):
             ),
         )
         fig.update_layout(
-            xaxis_tickangle=-45,
-            hovermode="x unified",
-            yaxis_tickprefix="₹",
-            yaxis_tickformat=",.0f",
+            xaxis_tickangle=-45, hovermode="x unified",
+            yaxis_tickprefix="₹", yaxis_tickformat=",.0f",
         )
         _base(fig, h=400)
         st.plotly_chart(fig, use_container_width=True)
 
-        # Heatmap
         df2 = df.copy()
         df2["year"]  = df2["order_date"].dt.year
         df2["month"] = df2["order_date"].dt.month
         heat_data = df2.groupby(["year", "month"])["sales_amount"].sum().reset_index()
         heat_data.columns = ["year", "month", "total_sales"]
         pivot = heat_data.pivot_table(
-            index="year", columns="month", values="total_sales", aggfunc="sum"
+            index="year", columns="month",
+            values="total_sales", aggfunc="sum"
         ).fillna(0)
         mnames = ["Jan","Feb","Mar","Apr","May","Jun",
                   "Jul","Aug","Sep","Oct","Nov","Dec"]
@@ -431,8 +480,8 @@ def page_time(df):
 
         st.markdown("**Monthly Detail**")
         st.dataframe(
-            monthly[["year_month","total_sales","total_orders",
-                      "total_units","mom_growth_pct"]].style.format({
+            monthly[["year_month", "total_sales", "total_orders",
+                      "total_units", "mom_growth_pct"]].style.format({
                 "total_sales":    "₹{:,.0f}",
                 "mom_growth_pct": "{:.1f}%",
                 "total_orders":   "{:,}",
@@ -442,7 +491,6 @@ def page_time(df):
             height=320,
         )
 
-    # ── Tab 2 ─────────────────────────────────────────────────────────────
     with tab2:
         col_l, col_r = st.columns(2)
 
@@ -484,7 +532,6 @@ def page_time(df):
             _base(fig_w)
             st.plotly_chart(fig_w, use_container_width=True)
 
-    # ── Tab 3 ─────────────────────────────────────────────────────────────
     with tab3:
         payments = sales_by_payment_method(df)
         col_l, col_r = st.columns(2)
@@ -535,13 +582,13 @@ def page_time(df):
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE 4 — REGIONAL
 # ══════════════════════════════════════════════════════════════════════════════
-def page_regional(df):
+def page_regional(df_full):
     st.header("Regional Analytics")
+    df = top_filters(df_full)
     st.caption("Geographic data is randomly assigned — for demonstration only")
 
     states_df = sales_by_state(df)
 
-    # State bar — full width
     fig_s = px.bar(
         states_df.sort_values("total_sales", ascending=True),
         x="total_sales", y="state",
@@ -566,7 +613,6 @@ def page_regional(df):
 
     st.markdown("---")
 
-    # Cities + heatmap
     col_l, col_r = st.columns(2)
 
     with col_l:
@@ -635,8 +681,10 @@ def page_regional(df):
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE 5 — DATA QUALITY
 # ══════════════════════════════════════════════════════════════════════════════
-def page_data_quality(df, df_full):
+def page_data_quality(df_full):
     st.header("Data Quality")
+    # No filters on this page — always shows full dataset stats
+
     st.info(
         "This project uses a synthetic dataset — 10,000 rows generated by Python "
         "with a fixed random seed (42). No real company data is used.",
@@ -647,10 +695,10 @@ def page_data_quality(df, df_full):
     schema = inspect_schema(df_full)
 
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Total Rows",   f"{schema['rows']:,}")
-    c2.metric("Columns",      f"{schema['columns']}")
-    c3.metric("Duplicates",   f"{schema['duplicate_rows']}")
-    c4.metric("Date Range",   f"{schema['date_min'][:10]}  to  {schema['date_max'][:10]}")
+    c1.metric("Total Rows",  f"{schema['rows']:,}")
+    c2.metric("Columns",     f"{schema['columns']}")
+    c3.metric("Duplicates",  f"{schema['duplicate_rows']}")
+    c4.metric("Date Range",  f"{schema['date_min'][:10]}  to  {schema['date_max'][:10]}")
 
     st.markdown("---")
     col_l, col_r = st.columns(2)
@@ -660,20 +708,22 @@ def page_data_quality(df, df_full):
         nulls_df = pd.DataFrame.from_dict(
             schema["null_counts"], orient="index", columns=["Null Count"]
         )
-        nulls_df["Null %"] = (nulls_df["Null Count"] / schema["rows"] * 100).round(2)
+        nulls_df["Null %"] = (
+            nulls_df["Null Count"] / schema["rows"] * 100
+        ).round(2)
         st.dataframe(nulls_df, use_container_width=True, height=400)
 
     with col_r:
         st.markdown("**Cleaning Rules — All Passed**")
         rules = pd.DataFrame([
-            ("Unparseable dates",          "0 quarantined"),
-            ("Quantity <= 0",              "0 quarantined"),
-            ("Unit price <= 0",            "0 quarantined"),
-            ("Discount outside 0 to 1",    "0 quarantined"),
-            ("Sales amount <= 0",          "0 quarantined"),
-            ("Sales mismatch > 1%",        "0 flagged"),
-            ("Duplicate order + product",  "0 removed"),
-            ("Missing payment method",     "filled Unknown"),
+            ("Unparseable dates",         "0 quarantined"),
+            ("Quantity <= 0",             "0 quarantined"),
+            ("Unit price <= 0",           "0 quarantined"),
+            ("Discount outside 0 to 1",   "0 quarantined"),
+            ("Sales amount <= 0",         "0 quarantined"),
+            ("Sales mismatch > 1%",       "0 flagged"),
+            ("Duplicate order+product",   "0 removed"),
+            ("Missing payment method",    "filled Unknown"),
         ], columns=["Rule", "Result"])
         st.dataframe(rules, use_container_width=True, height=330)
         st.success("17 out of 17 validation checks passed.  Retention rate: 100%")
