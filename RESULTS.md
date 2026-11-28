@@ -1,128 +1,90 @@
-# RetailPulse — Project Results & Findings
+# RetailPulse — Results
 
-> Dataset: Synthetic Indian retail transactions | 10,000 rows | Jan 2022 – Dec 2024  
-> All figures are simulated for portfolio demonstration purposes.
+This is what I found after analysing the dataset.
 
----
-
-## Headline KPIs
-
-| Metric | Value |
-|--------|-------|
-| Total Sales | ₹7.44 Crore |
-| Total Orders | 10,000 |
-| Total Units Sold | 22,682 |
-| Average Order Value | ₹7,444 |
-| Total Profit | ₹2.29 Crore |
-| Overall Profit Margin | 30.8% |
-| Average Discount | 11.4% |
+**Reminder:** The data is **synthetic**. I generated it myself in Python. These numbers are not from a real company — they are from my own fake data. I am showing them to explain what my analysis can do.
 
 ---
 
-## Category Performance
+## Overall numbers
 
-| Category | Sales (INR) | Share % | Profit Margin % |
-|----------|-------------|---------|-----------------|
-| Electronics | ₹1.49 Cr | 20.0% | 11% |
-| Clothing | ₹1.34 Cr | 18.0% | 32% |
-| Home & Kitchen | ₹1.04 Cr | 14.0% | 24% |
-| Beauty & Personal Care | ₹0.89 Cr | 12.0% | 42% |
-| Sports & Fitness | ₹0.74 Cr | 10.0% | 25% |
-| Grocery & Food | ₹0.74 Cr | 10.0% | 14% |
-| Books | ₹0.61 Cr | 8.2% | 17% |
-| Toys & Games | ₹0.60 Cr | 8.0% | 30% |
+- **Total sales:** ₹7.44 Crore
+- **Total orders:** 10,000
+- **Units sold:** 22,682
+- **Average order value:** ₹7,444
+- **Overall profit margin:** 30.8%
 
-**Key finding:** Electronics drives the most revenue (20%) but has the lowest margin (11%). Beauty & Personal Care has the highest margin (42%) despite lower sales volume — the most profitable category per rupee sold.
+So the average customer in this data spends around ₹7,400 per order, and the business keeps about ₹30 out of every ₹100 in sales as profit.
 
 ---
 
-## Regional Performance — Top 5 States
+## Which categories do best?
 
-| State | Sales (INR) | Share % |
-|-------|-------------|---------|
-| Maharashtra | ₹0.86 Cr | 11.5% |
-| Karnataka | ₹0.79 Cr | 10.6% |
-| Tamil Nadu | ₹0.71 Cr | 9.5% |
-| Delhi | ₹0.68 Cr | 9.1% |
-| Gujarat | ₹0.65 Cr | 8.7% |
+I compared the 8 product categories on sales and profit margin.
 
-Top 5 states account for ~49% of total sales. No single state dominates — revenue is reasonably spread.
+| Category | Share of sales | Profit margin |
+|---|---|---|
+| Electronics | 20% | 11% |
+| Clothing | 18% | 32% |
+| Home & Kitchen | 14% | 24% |
+| Beauty & Personal Care | 12% | 42% |
+| Sports & Fitness | 10% | 25% |
+| Grocery & Food | 10% | 14% |
+| Books | 8.2% | 17% |
+| Toys & Games | 8% | 30% |
 
----
-
-## Monthly Sales Trend
-
-- **Peak months:** October, November, December (festive season)
-- **Weakest months:** February, April
-- Q4 (Oct–Dec) consistently outperforms all other quarters
-- Month-over-month growth fluctuates between -15% and +20%
-
----
-
-## Discount Impact on Profit Margins
-
-| Discount Level | Avg Profit Margin |
-|---------------|-------------------|
-| 0% (no discount) | 29% |
-| 1–10% | 27% |
-| 11–20% | 25% |
-| 21–30% | 23% |
-| 31–40% | 22% |
-
-Every 10% increase in discount reduces margin by approximately 1.5–2 percentage points.
+**What this means:**
+- **Electronics sell the most but earn the least per rupee.** They bring in 20% of all sales but the profit margin is only 11%.
+- **Beauty & Personal Care is the opposite.** It is only 12% of sales but has the highest profit margin at 42%.
+- **Clothing is a good middle ground** — it sells a lot (18%) and still keeps a healthy 32% margin.
+- If this were a real business, I would say pushing Beauty & Personal Care and Clothing would grow profit faster than pushing Electronics.
 
 ---
 
-## Payment Methods
+## Which states drive the most sales?
 
-UPI, Credit Card, Debit Card, Net Banking, Cash on Delivery, and EMI are all used. Distribution is approximately even across payment methods in this synthetic dataset.
+- **Maharashtra** is the top state at 11.5% of total sales.
+- The **top 5 states** (Maharashtra, Karnataka, Tamil Nadu, Delhi, Gujarat) make up **49% of all sales**.
 
----
-
-## Data Quality Summary
-
-| Check | Result |
-|-------|--------|
-| Total rows processed | 10,000 |
-| Rows passing all validation | 10,000 (100%) |
-| Duplicate records | 0 |
-| Null values in key columns | 0 |
-| Sales amount consistency check | 0 mismatches |
-| Validation checks run | 17 / 17 PASS |
+This is roughly in line with where India's bigger cities and consumer spending sit.
 
 ---
 
-## SQL Analysis — Business Questions Answered
+## When do people buy?
 
-All 14 business questions were answered using SQL queries in `sql/05_business_analysis.sql`:
+- **October, November, and December** are the peak months. This makes sense — it is the festive season in India (Dussehra, Diwali, Christmas, year-end sales).
+- **February and April** are the weakest months.
 
-1. Total sales revenue
-2. Total orders and units sold
-3. Category contribution to sales
-4. Top performing products
-5. Regional performance by state
-6. Monthly sales trend with MoM growth
-7. Strongest and weakest sales months
-8. Average order value
-9. Average quantity per transaction
-10. Year-over-year product growth vs decline
-11. Sales concentration (HHI index)
-12. Discount impact on margins
-13. Profit contribution by category
-14. Payment method distribution
-
-Advanced SQL techniques used: CTEs, window functions (LAG, RANK, ROW_NUMBER, SUM OVER), subqueries, CASE statements, date functions.
+If this were a real store, I would plan bigger inventory and marketing spend for October to December, and run clearance sales in February and April.
 
 ---
 
-## Key Business Recommendations
+## Does discounting help or hurt?
 
-1. **Grow Beauty & Personal Care** — highest margin category, strong candidate for increased marketing investment
-2. **Protect Electronics margins** — high revenue but thin margins, avoid deep discounting
-3. **Festive season planning** — stock up and run campaigns before October
-4. **Discount discipline** — high discounts (30%+) show measurable margin erosion with limited evidence of volume compensation
-5. **Regional expansion** — Tier 2 cities within top states represent untapped potential
+I bucketed orders by discount level and compared profit margin.
+
+- Orders with **no discount** have a **29% profit margin**.
+- Orders with a **30-40% discount** have only **22% profit margin**.
+
+So each extra 10% of discount costs roughly 1.5 to 2 percentage points of margin. Discounts bring in more volume, but they eat into profit. A business would need to decide whether the extra sales are worth the lower margin.
 
 ---
 
-*All findings are from a synthetic dataset. They demonstrate analytical methodology and do not represent any real business or market.*
+## What I learned from this project
+
+- Even basic SQL (joins, group by, window functions) can answer most business questions.
+- Cleaning and validating data takes longer than I expected. I had 11 cleaning rules and 17 validation checks before I could trust the dataset.
+- A dashboard is only useful if the data behind it is clean. I kept going back to fix my pipeline whenever a chart looked wrong.
+- Writing up findings in plain English is a separate skill from writing code.
+
+---
+
+## What this project does NOT do
+
+- The data is fake, so no real company decision should be based on these numbers.
+- I do not have real costs, so profit numbers are also made up in the generator.
+- I did not build any forecasting or ML models — that is on my list for the next project.
+
+---
+
+Made by **Roshan Manjal**

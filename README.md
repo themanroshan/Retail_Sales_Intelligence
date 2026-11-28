@@ -1,103 +1,49 @@
-# RetailPulse — Indian Retail Sales Intelligence
+RetailPulse — Indian Retail Sales Intelligence
+> Python · Pandas · MySQL · Streamlit · Plotly
 
-An end-to-end data analytics project analysing retail sales performance across product categories, regions, and time periods.
+A data analytics project where I analyse 10,000 Indian retail sales transactions from 2022 to 2024, store them in MySQL, and show the results in a Streamlit dashboard.
 
-Built with Python, MySQL, SQL, and Streamlit.
+Why I built this
 
-> **Note:** Uses a synthetic dataset generated for portfolio demonstration. All figures are simulated.
+I am a final year student looking for Data Analyst jobs. I built this project to practice the full workflow of a real data job — cleaning data, loading it into a database, writing SQL, and building a dashboard — and to have something I can show in interviews.
 
----
+About the dataset
 
-## Dashboard
+The data is synthetic. I generated it myself in Python using a fixed random seed so the results are always the same. It is not real company data. I use it only to show my skills.
 
-### Overview
-![Overview](screenshots/01_overview.png)
+10,000 rows of fake Indian retail transactions
+Date range: January 2022 to December 2024
+8 product categories, 12 Indian states
+Columns include order date, product, category, quantity, unit price, discount, sales amount, profit, state, city, and payment method
+Currency is INR
+What's inside
+Python pipeline that generates the data, cleans it (11 rules), validates it (17 checks), and loads it into MySQL
+MySQL star schema with one fact table (sales) and three dimensions (product, location, date)
+50+ SQL queries that answer 14 business questions, using joins, CTEs, and window functions
+Streamlit dashboard with 5 pages: Overview, Products, Time Trends, Regional, Data Quality
+All charts are made with Plotly
+Tools used
 
-### Product & Category
-![Products](screenshots/02_product_category.png)
+Python, Pandas, MySQL, SQL, Streamlit, Plotly
 
-### Time Trends
-![Time](screenshots/04_time_trends.png)
-
-### Regional
-![Regional](screenshots/03_regional.png)
-
----
-
-## Tech Stack
-
-Python · Pandas · MySQL · SQL · Streamlit · Plotly · OpenPyXL · Pytest
-
----
-
-## Project Structure
-
-```
-├── app.py                  → Streamlit dashboard (5 pages)
-├── requirements.txt        → Python dependencies
-├── .env.example            → MySQL credentials template
-│
-├── src/                    → Python pipeline and analytics
-│   ├── generate_data.py    → Synthetic data generator
-│   ├── pipeline.py         → ETL: clean, validate, load
-│   ├── data_cleaning.py    → 11 cleaning rules
-│   ├── data_validation.py  → 17 validation checks
-│   ├── analytics.py        → KPI calculations
-│   ├── database.py         → MySQL connection
-│   └── ...
-│
-├── dashboard/              → Chart and UI components
-├── sql/                    → 6 SQL scripts, 50+ queries
-├── data/                   → Raw and processed CSV files
-├── screenshots/            → Dashboard screenshots
-│
-├── README.md               → This file
-└── RESULTS.md              → All findings and KPIs
-```
-
----
-
-## Quickstart
-
-```bash
-# 1. Clone
-git clone https://github.com/themanroshan/Retail_Sales_Intelligence.git
-cd Retail_Sales_Intelligence
-
-# 2. Create virtual environment
+How to run it
+bash
 python -m venv .venv
 .venv\Scripts\activate
-
-# 3. Install dependencies
 pip install -r requirements.txt
-
-# 4. Generate data and run pipeline
 python src/pipeline.py --no-db
-
-# 5. Launch dashboard
 streamlit run app.py
-```
 
-Dashboard opens at **http://localhost:8501**
+That opens the dashboard at http://localhost:8501.
 
----
+If you want to use MySQL too, copy .env.example to .env, add your password, and run python src/pipeline.py without the --no-db flag.
 
-## MySQL Setup (Optional)
+Results
 
-```bash
-copy .env.example .env       # fill in your MySQL password
-python src/pipeline.py       # loads data into MySQL
-# Then open sql/ scripts in MySQL Workbench
-```
+See RESULTS.md for what I found.
 
----
+Note
 
-## Results
+This is a learning project. The data is synthetic. I do not claim any of the numbers reflect a real business.
 
-See **[RESULTS.md](RESULTS.md)** for all KPIs, findings, and business insights.
-
----
-
-## Author
-
-**Roshan Manjal**
+Made by Roshan Manjal GitHub: https://github.com/themanroshan/Retail_Sales_Intelligence
