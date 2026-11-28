@@ -19,7 +19,6 @@ Before starting, verify you have:
 | MySQL Workbench| 8.0+             | GUI app                   | (included in MySQL installer)          |
 | VS Code        | Latest           | —                         | https://code.visualstudio.com          |
 
-**Power BI Desktop** (optional — not required for MVP dashboard)
 
 ---
 
