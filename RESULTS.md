@@ -6,84 +6,96 @@ This is what I found after analysing the dataset.
 
 ---
 
-## Overall numbers
+## Overall Numbers
 
-- **Total sales:** ₹7.44 Crore
-- **Total orders:** 10,000
-- **Units sold:** 22,682
-- **Average order value:** ₹7,444
-- **Overall profit margin:** 30.8%
+| Metric | Value |
+|--------|-------|
+| Total Sales | ₹7.44 Crore |
+| Total Orders | 10,000 |
+| Units Sold | 16,517 |
+| Average Order Value | ₹7,444 |
+| Total Profit | ₹1.21 Crore |
+| Profit Margin | 16.2% |
+| Average Discount | 14.1% |
 
-So the average customer in this data spends around ₹7,400 per order, and the business keeps about ₹30 out of every ₹100 in sales as profit.
+So the average customer spends around ₹7,400 per order, and the business keeps about ₹16 out of every ₹100 in sales as profit.
 
 ---
 
-## Which categories do best?
+## Which Categories Do Best?
 
-I compared the 8 product categories on sales and profit margin.
-
-| Category | Share of sales | Profit margin |
-|---|---|---|
-| Electronics | 20% | 11% |
-| Clothing | 18% | 32% |
-| Home & Kitchen | 14% | 24% |
-| Beauty & Personal Care | 12% | 42% |
-| Sports & Fitness | 10% | 25% |
-| Grocery & Food | 10% | 14% |
-| Books | 8.2% | 17% |
-| Toys & Games | 8% | 30% |
+| Category | Share of Sales | Profit Margin |
+|----------|---------------|---------------|
+| Electronics | 64.9% | 10.2% |
+| Home & Kitchen | 15.5% | 25.1% |
+| Clothing | 6.6% | 32.8% |
+| Sports & Fitness | 6.4% | 24.7% |
+| Beauty & Personal Care | 2.7% | 38.4% |
+| Toys & Games | 2.2% | 30.2% |
+| Grocery & Food | 1.0% | 13.9% |
+| Books | 0.7% | 17.6% |
 
 **What this means:**
-- **Electronics sell the most but earn the least per rupee.** They bring in 20% of all sales but the profit margin is only 11%.
-- **Beauty & Personal Care is the opposite.** It is only 12% of sales but has the highest profit margin at 42%.
-- **Clothing is a good middle ground** — it sells a lot (18%) and still keeps a healthy 32% margin.
-- If this were a real business, I would say pushing Beauty & Personal Care and Clothing would grow profit faster than pushing Electronics.
+- **Electronics dominates sales** — almost 65% of all revenue comes from this one category. But the profit margin is only 10%.
+- **Beauty & Personal Care has the highest margin at 38%** — even though it is only 2.7% of sales, every rupee sold here returns much more profit.
+- **Clothing is a good balance** — 6.6% of sales with a healthy 32.8% margin.
+- If this were a real business, growing the high-margin categories would be more profitable than just chasing Electronics volume.
 
 ---
 
-## Which states drive the most sales?
+## Which States Drive the Most Sales?
 
-- **Maharashtra** is the top state at 11.5% of total sales.
-- The **top 5 states** (Maharashtra, Karnataka, Tamil Nadu, Delhi, Gujarat) make up **49% of all sales**.
+| State | Share of Sales |
+|-------|---------------|
+| Rajasthan | 9.8% |
+| West Bengal | 9.3% |
+| Tamil Nadu | 9.0% |
+| Maharashtra | 8.8% |
+| Telangana | 8.6% |
 
-This is roughly in line with where India's bigger cities and consumer spending sit.
-
----
-
-## When do people buy?
-
-- **October, November, and December** are the peak months. This makes sense — it is the festive season in India (Dussehra, Diwali, Christmas, year-end sales).
-- **February and April** are the weakest months.
-
-If this were a real store, I would plan bigger inventory and marketing spend for October to December, and run clearance sales in February and April.
+The top 5 states make up about 45% of total sales. No single state is too dominant — revenue is spread reasonably across the country.
 
 ---
 
-## Does discounting help or hurt?
+## When Do People Buy?
 
-I bucketed orders by discount level and compared profit margin.
+- **Peak months:** November 2022, December 2022, October 2023 — festive season (Diwali, year-end sales)
+- **Weakest months:** January 2024, April 2023, February 2024
 
-- Orders with **no discount** have a **29% profit margin**.
-- Orders with a **30-40% discount** have only **22% profit margin**.
-
-So each extra 10% of discount costs roughly 1.5 to 2 percentage points of margin. Discounts bring in more volume, but they eat into profit. A business would need to decide whether the extra sales are worth the lower margin.
+If this were a real store, I would plan bigger inventory and marketing spend before October, and run clearance sales in the slow months.
 
 ---
 
-## What I learned from this project
+## Does Discounting Help or Hurt?
 
-- Even basic SQL (joins, group by, window functions) can answer most business questions.
-- Cleaning and validating data takes longer than I expected. I had 11 cleaning rules and 17 validation checks before I could trust the dataset.
-- A dashboard is only useful if the data behind it is clean. I kept going back to fix my pipeline whenever a chart looked wrong.
-- Writing up findings in plain English is a separate skill from writing code.
+I grouped orders by discount level and checked the profit margin.
+
+| Discount Level | Profit Margin |
+|---------------|---------------|
+| 0% | ~18% |
+| 1–10% | ~17% |
+| 11–20% | ~16% |
+| 21–30% | ~15% |
+| 31–40% | ~14% |
+
+Each extra 10% of discount reduces the profit margin by roughly 1 to 1.5 percentage points. Discounts bring in more orders, but they eat into profit. A business would need to decide if the extra volume is worth it.
 
 ---
 
-## What this project does NOT do
+## What I Learned From This Project
 
-- The data is fake, so no real company decision should be based on these numbers.
-- I do not have real costs, so profit numbers are also made up in the generator.
-- I did not build any forecasting or ML models — that is on my list for the next project.
+- Writing SQL queries using JOINs, CTEs, and window functions is enough to answer most real business questions.
+- Cleaning data took longer than I expected — I had 11 cleaning rules and 17 validation checks before I could trust the numbers.
+- Building a dashboard is only useful if the data behind it is clean. I kept going back to fix my pipeline whenever a chart looked wrong.
+- Writing findings in plain English is a separate skill from writing code. Both matter.
+
+---
+
+## What This Project Does Not Do
+
+- The data is fake, so no real business decision should be based on these numbers.
+- I do not have real cost data, so profit figures are simulated in the generator.
+- I did not build any forecasting or ML models — that is something I want to do next.
 
 ---
 
