@@ -28,7 +28,7 @@ MYSQL_DATABASE = os.getenv("MYSQL_DATABASE", "retailpulse")
 
 # ── Data source toggle ────────────────────────────────────────────────────────
 # Set DATA_SOURCE=csv in .env to run dashboard without MySQL
-DATA_SOURCE    = os.getenv("DATA_SOURCE", "mysql")   # "mysql" or "csv"
+DATA_SOURCE    = os.getenv("DATA_SOURCE", "csv")     # "mysql" or "csv"
 
 # ── Raw data filename (actual Kaggle file or synthetic) ───────────────────────
 RAW_FILENAME   = "retailpulse_transactions.csv"
