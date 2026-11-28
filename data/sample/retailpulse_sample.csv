@@ -1,501 +1,501 @@
 order_id,order_date,product_id,product_name,category,sub_category,quantity,unit_price,discount,sales_amount,profit,state,city,payment_method,year,month,month_name,quarter,quarter_label,week,day_of_week,day_name,year_month,is_weekend
-RP-001820,2023-11-27,P-21821,Prestige Pro Bedding,Home & Kitchen,Bedding,2,4734.6,0.1,8522.28,2845.4,Telangana,Warangal,EMI,2023,11,Nov,4,Q4,48,0,Mon,2023-11,0
-RP-007866,2023-06-28,P-32828,Disha Smart Academic,Books,Academic,2,175.98,0.05,334.36,34.82,Uttar Pradesh,Varanasi,Cash on Delivery,2023,6,Jun,2,Q2,26,2,Wed,2023-06,0
-RP-003100,2022-08-16,P-23057,Havells Pro Bedding,Home & Kitchen,Bedding,2,24253.77,0.3,33955.28,10691.36,Telangana,Hyderabad,Net Banking,2022,8,Aug,3,Q3,33,1,Tue,2022-08,0
-RP-004998,2023-07-07,P-52093,Noise Premium Mobile Phones,Electronics,Mobile Phones,1,1527.93,0.1,1375.14,87.05,Karnataka,Hubli,Net Banking,2023,7,Jul,3,Q3,27,4,Fri,2023-07,0
-RP-005292,2023-06-06,P-56911,Samsung Pro Accessories,Electronics,Accessories,3,4952.33,0.1,13371.29,1876.71,Madhya Pradesh,Indore,EMI,2023,6,Jun,2,Q2,23,1,Tue,2023-06,0
-RP-004932,2023-12-04,P-18511,Samsung Lite Audio,Electronics,Audio,2,2224.1,0.25,3336.15,297.56,Madhya Pradesh,Indore,Cash on Delivery,2023,12,Dec,4,Q4,49,0,Mon,2023-12,0
-RP-003138,2022-03-20,P-51872,FabIndia Essential Accessories,Clothing,Accessories,1,1540.94,0.1,1386.85,530.02,Uttar Pradesh,Lucknow,Net Banking,2022,3,Mar,1,Q1,11,6,Sun,2022-03,1
-RP-009439,2023-09-03,P-49721,FabIndia Deluxe Kids' Wear,Clothing,Kids' Wear,2,3800.7,0.05,7221.33,2674.73,Rajasthan,Jodhpur,Debit Card,2023,9,Sep,3,Q3,35,6,Sun,2023-09,1
-RP-002043,2023-12-06,P-49840,Mattel Deluxe Board Games,Toys & Games,Board Games,4,557.25,0.05,2117.55,425.35,Tamil Nadu,Madurai,UPI,2023,12,Dec,4,Q4,49,2,Wed,2023-12,0
-RP-006868,2022-03-03,P-45250,Rupa Lite Children,Books,Children,4,442.71,0.05,1682.3,350.48,Uttar Pradesh,Lucknow,Cash on Delivery,2022,3,Mar,1,Q1,9,3,Thu,2022-03,0
-RP-007088,2022-11-17,P-43036,Biba Smart Kids' Wear,Clothing,Kids' Wear,1,226.58,0.05,215.25,93.55,Madhya Pradesh,Jabalpur,UPI,2022,11,Nov,4,Q4,46,3,Thu,2022-11,0
-RP-006830,2024-04-17,P-30192,Nivia Essential Nutrition,Sports & Fitness,Nutrition,1,260.84,0.1,234.76,58.76,Karnataka,Hubli,UPI,2024,4,Apr,2,Q2,16,2,Wed,2024-04,0
-RP-009758,2023-09-10,P-38990,Manyavar Essential Women's Wear,Clothing,Women'S Wear,2,423.6,0.3,593.04,122.43,West Bengal,Kolkata,Net Banking,2023,9,Sep,3,Q3,36,6,Sun,2023-09,1
-RP-005391,2023-10-16,P-38488,Prestige Essential Furniture,Home & Kitchen,Furniture,1,359.17,0.05,341.21,111.32,Punjab,Amritsar,Debit Card,2023,10,Oct,4,Q4,42,0,Mon,2023-10,0
-RP-006207,2023-03-28,P-26781,Funskool Pro Action Figures,Toys & Games,Action Figures,2,724.74,0.25,1087.11,236.35,Tamil Nadu,Madurai,Credit Card,2023,3,Mar,1,Q1,13,1,Tue,2023-03,0
-RP-007003,2023-11-13,P-42991,Mi Classic Tablets,Electronics,Tablets,1,20183.05,0.2,16146.44,1850.75,Kerala,Kozhikode,Debit Card,2023,11,Nov,4,Q4,46,0,Mon,2023-11,0
-RP-003158,2022-03-20,P-48947,Prestige Lite Decor,Home & Kitchen,Decor,2,17966.62,0.05,34136.58,8751.68,Madhya Pradesh,Jabalpur,Debit Card,2022,3,Mar,1,Q1,11,6,Sun,2022-03,1
-RP-009733,2024-12-27,P-38990,Manyavar Essential Women's Wear,Clothing,Women'S Wear,1,326.65,0.05,310.32,138.92,West Bengal,Howrah,Cash on Delivery,2024,12,Dec,4,Q4,52,4,Fri,2024-12,0
-RP-003485,2024-02-17,P-59515,Nilkamal Smart Appliances,Home & Kitchen,Appliances,1,623.71,0.3,436.6,89.93,Maharashtra,Pune,Debit Card,2024,2,Feb,1,Q1,7,5,Sat,2024-02,1
-RP-003406,2024-07-17,P-28250,Havells Lite Decor,Home & Kitchen,Decor,1,1807.12,0.05,1716.76,593.51,Karnataka,Bengaluru,Debit Card,2024,7,Jul,3,Q3,29,2,Wed,2024-07,0
-RP-006473,2024-12-25,P-50746,Biba Premium Footwear,Clothing,Footwear,1,1077.53,0.3,754.27,291.36,Delhi,New Delhi,UPI,2024,12,Dec,4,Q4,52,2,Wed,2024-12,0
-RP-002465,2022-10-10,P-40874,MTR Pro Beverages,Grocery & Food,Beverages,1,73.48,0.05,69.81,11.65,Delhi,Gurgaon,Cash on Delivery,2022,10,Oct,4,Q4,41,0,Mon,2022-10,0
-RP-008649,2023-06-22,P-43598,Realme Deluxe Laptops,Electronics,Laptops,2,7637.79,0.0,15275.58,1042.11,Delhi,Gurgaon,Net Banking,2023,6,Jun,2,Q2,25,3,Thu,2023-06,0
-RP-004856,2024-11-24,P-39681,Cosco Essential Sportswear,Sports & Fitness,Sportswear,1,222.62,0.2,178.1,53.48,Punjab,Chandigarh,Net Banking,2024,11,Nov,4,Q4,47,6,Sun,2024-11,1
-RP-004190,2023-08-04,P-50190,Patanjali Deluxe Snacks,Grocery & Food,Snacks,1,259.07,0.1,233.16,24.36,Kerala,Kozhikode,Credit Card,2023,8,Aug,3,Q3,31,4,Fri,2023-08,0
-RP-004469,2024-12-26,P-16338,United Colors Pro Footwear,Clothing,Footwear,2,1388.22,0.25,2082.33,691.06,Delhi,Noida,Cash on Delivery,2024,12,Dec,4,Q4,52,3,Thu,2024-12,0
-RP-001277,2022-09-12,P-33465,Realme Standard Accessories,Electronics,Accessories,1,54427.55,0.0,54427.55,6609.6,Rajasthan,Jodhpur,UPI,2022,9,Sep,3,Q3,37,0,Mon,2022-09,0
-RP-006977,2024-07-27,P-50643,Boat Lite Mobile Phones,Electronics,Mobile Phones,1,8835.39,0.1,7951.85,872.65,Maharashtra,Nashik,Debit Card,2024,7,Jul,3,Q3,30,5,Sat,2024-07,1
-RP-006918,2023-12-22,P-34183,Realme Classic Laptops,Electronics,Laptops,2,65653.68,0.1,118176.62,10224.3,Telangana,Hyderabad,Net Banking,2023,12,Dec,4,Q4,51,4,Fri,2023-12,0
-RP-008060,2024-10-05,P-57966,MTR Classic Dairy,Grocery & Food,Dairy,4,1956.09,0.1,7041.92,609.44,Delhi,New Delhi,UPI,2024,10,Oct,4,Q4,40,5,Sat,2024-10,1
-RP-009010,2022-02-15,P-21785,Decathlon Lite Footwear,Sports & Fitness,Footwear,1,406.87,0.05,386.53,123.65,Rajasthan,Jaipur,Credit Card,2022,2,Feb,1,Q1,7,1,Tue,2022-02,0
-RP-001860,2022-11-11,P-22293,Orient Classic Fiction,Books,Fiction,3,966.35,0.15,2464.19,410.78,Karnataka,Bengaluru,Net Banking,2022,11,Nov,4,Q4,45,4,Fri,2022-11,0
-RP-007319,2023-06-20,P-48947,Prestige Lite Decor,Home & Kitchen,Decor,2,5985.38,0.1,10773.68,2803.03,Madhya Pradesh,Bhopal,Credit Card,2023,6,Jun,2,Q2,25,1,Tue,2023-06,0
-RP-006942,2023-08-05,P-50498,Penguin Premium Children,Books,Children,1,343.35,0.1,309.02,72.71,Tamil Nadu,Chennai,EMI,2023,8,Aug,3,Q3,31,5,Sat,2023-08,1
-RP-007293,2024-08-06,P-20778,Mattel Standard Puzzles,Toys & Games,Puzzles,1,286.34,0.2,229.07,88.5,West Bengal,Durgapur,Debit Card,2024,8,Aug,3,Q3,32,1,Tue,2024-08,0
-RP-008953,2022-12-29,P-51913,Funskool Smart Board Games,Toys & Games,Board Games,1,363.16,0.15,308.69,120.08,Tamil Nadu,Madurai,UPI,2022,12,Dec,4,Q4,52,3,Thu,2022-12,0
-RP-009576,2023-10-11,P-19707,Mi Lite Audio,Electronics,Audio,2,2153.49,0.15,3660.93,262.57,Delhi,Noida,Credit Card,2023,10,Oct,4,Q4,41,2,Wed,2023-10,0
-RP-002130,2022-02-05,P-22086,MTR Deluxe Staples,Grocery & Food,Staples,1,875.1,0.1,787.59,103.58,Maharashtra,Nagpur,UPI,2022,2,Feb,1,Q1,5,5,Sat,2022-02,1
-RP-002729,2023-03-25,P-26245,Butterfly Pro Appliances,Home & Kitchen,Appliances,2,24363.54,0.25,36545.31,12432.91,Tamil Nadu,Coimbatore,Net Banking,2023,3,Mar,1,Q1,12,5,Sat,2023-03,1
-RP-001043,2023-12-24,P-41089,Himalaya Classic Haircare,Beauty & Personal Care,Haircare,1,1374.13,0.2,1099.3,483.04,Rajasthan,Jaipur,Debit Card,2023,12,Dec,4,Q4,51,6,Sun,2023-12,1
-RP-007703,2023-10-08,P-19085,Biba Pro Men's Wear,Clothing,Men'S Wear,3,216.31,0.4,389.36,98.39,Telangana,Warangal,Debit Card,2023,10,Oct,4,Q4,40,6,Sun,2023-10,1
-RP-003207,2022-01-05,P-52432,Godrej Premium Furniture,Home & Kitchen,Furniture,6,20752.94,0.1,112065.88,35568.0,Punjab,Amritsar,UPI,2022,1,Jan,1,Q1,1,2,Wed,2022-01,0
-RP-009430,2024-08-12,P-37819,Lego Premium Puzzles,Toys & Games,Puzzles,1,2256.55,0.1,2030.9,674.05,Tamil Nadu,Coimbatore,Cash on Delivery,2024,8,Aug,3,Q3,33,0,Mon,2024-08,0
-RP-002383,2022-07-23,P-58621,Himalaya Essential Skincare,Beauty & Personal Care,Skincare,1,234.81,0.25,176.11,59.46,Rajasthan,Jaipur,EMI,2022,7,Jul,3,Q3,29,5,Sat,2022-07,1
-RP-001948,2024-11-11,P-38488,Prestige Essential Furniture,Home & Kitchen,Furniture,2,521.23,0.1,938.21,311.41,Kerala,Thiruvananthapuram,Cash on Delivery,2024,11,Nov,4,Q4,46,0,Mon,2024-11,0
-RP-003606,2022-01-06,P-34134,Decathlon Lite Nutrition,Sports & Fitness,Nutrition,1,2163.25,0.05,2055.09,563.01,Uttar Pradesh,Kanpur,UPI,2022,1,Jan,1,Q1,1,3,Thu,2022-01,0
-RP-004497,2023-07-17,P-41726,Funskool Classic Educational,Toys & Games,Educational,1,563.35,0.1,507.02,167.13,Telangana,Hyderabad,Credit Card,2023,7,Jul,3,Q3,29,0,Mon,2023-07,0
-RP-002096,2023-01-14,P-13104,Havells Classic Bedding,Home & Kitchen,Bedding,1,2623.68,0.15,2230.13,525.15,Karnataka,Bengaluru,Cash on Delivery,2023,1,Jan,1,Q1,2,5,Sat,2023-01,1
-RP-007209,2022-08-20,P-52611,MTR Standard Staples,Grocery & Food,Staples,3,261.79,0.0,785.37,130.49,Madhya Pradesh,Bhopal,Cash on Delivery,2022,8,Aug,3,Q3,33,5,Sat,2022-08,1
-RP-002716,2022-10-14,P-47063,FabIndia Premium Men's Wear,Clothing,Men'S Wear,1,461.86,0.15,392.58,125.35,Madhya Pradesh,Jabalpur,Cash on Delivery,2022,10,Oct,4,Q4,41,4,Fri,2022-10,0
-RP-007690,2023-02-20,P-51663,FabIndia Classic Men's Wear,Clothing,Men'S Wear,1,1104.24,0.3,772.97,238.45,Madhya Pradesh,Jabalpur,Net Banking,2023,2,Feb,1,Q1,8,0,Mon,2023-02,0
-RP-005273,2024-08-02,P-44526,Samsung Deluxe Accessories,Electronics,Accessories,4,16189.04,0.05,61518.35,6259.67,Tamil Nadu,Madurai,Credit Card,2024,8,Aug,3,Q3,31,4,Fri,2024-08,0
-RP-002749,2023-08-09,P-32559,Havells Deluxe Furniture,Home & Kitchen,Furniture,6,520.55,0.25,2342.48,437.15,Telangana,Warangal,Cash on Delivery,2023,8,Aug,3,Q3,32,2,Wed,2023-08,0
-RP-004295,2024-07-13,P-15172,Nilkamal Essential Furniture,Home & Kitchen,Furniture,1,468.84,0.0,468.84,72.91,Uttar Pradesh,Varanasi,Debit Card,2024,7,Jul,3,Q3,28,5,Sat,2024-07,1
-RP-009731,2022-12-06,P-32243,Decathlon Smart Gym Equipment,Sports & Fitness,Gym Equipment,2,5904.85,0.1,10628.73,2475.35,Kerala,Kochi,Credit Card,2022,12,Dec,4,Q4,49,1,Tue,2022-12,0
-RP-007827,2024-06-17,P-13884,Biba Deluxe Footwear,Clothing,Footwear,2,1212.32,0.15,2060.94,428.44,Delhi,Noida,Debit Card,2024,6,Jun,2,Q2,25,0,Mon,2024-06,0
-RP-004518,2022-12-06,P-50643,Boat Lite Mobile Phones,Electronics,Mobile Phones,3,10167.15,0.05,28976.38,3013.53,Uttar Pradesh,Kanpur,UPI,2022,12,Dec,4,Q4,49,1,Tue,2022-12,0
-RP-004061,2024-12-07,P-50643,Boat Lite Mobile Phones,Electronics,Mobile Phones,1,76936.85,0.05,73090.01,3945.23,Kerala,Kozhikode,Credit Card,2024,12,Dec,4,Q4,49,5,Sat,2024-12,1
-RP-004555,2022-11-02,P-21783,Nivia Classic Nutrition,Sports & Fitness,Nutrition,1,311.27,0.05,295.71,65.73,Telangana,Karimnagar,EMI,2022,11,Nov,4,Q4,44,2,Wed,2022-11,0
-RP-002689,2022-11-05,P-43895,Realme Lite Tablets,Electronics,Tablets,1,78278.42,0.15,66536.66,5143.15,Karnataka,Hubli,Cash on Delivery,2022,11,Nov,4,Q4,44,5,Sat,2022-11,1
-RP-008306,2022-06-12,P-52811,Himalaya Smart Haircare,Beauty & Personal Care,Haircare,1,1080.91,0.25,810.68,379.24,Uttar Pradesh,Agra,Credit Card,2022,6,Jun,2,Q2,23,6,Sun,2022-06,1
-RP-003775,2024-06-20,P-46818,Patanjali Smart Dairy,Grocery & Food,Dairy,1,527.1,0.05,500.74,58.52,Gujarat,Vadodara,Credit Card,2024,6,Jun,2,Q2,25,3,Thu,2024-06,0
-RP-002378,2023-11-15,P-40364,Patanjali Smart Beverages,Grocery & Food,Beverages,1,834.47,0.1,751.02,127.95,West Bengal,Durgapur,Debit Card,2023,11,Nov,4,Q4,46,2,Wed,2023-11,0
-RP-009617,2022-01-15,P-38681,MTR Smart Dairy,Grocery & Food,Dairy,1,50.8,0.15,43.18,5.44,Madhya Pradesh,Jabalpur,Net Banking,2022,1,Jan,1,Q1,2,5,Sat,2022-01,1
-RP-007339,2022-06-29,P-19634,Nivia Premium Footwear,Sports & Fitness,Footwear,3,298.31,0.1,805.44,206.99,Tamil Nadu,Coimbatore,UPI,2022,6,Jun,2,Q2,26,2,Wed,2022-06,0
-RP-005998,2024-07-21,P-24379,Manyavar Smart Accessories,Clothing,Accessories,1,1612.44,0.3,1128.71,442.51,Maharashtra,Mumbai,Credit Card,2024,7,Jul,3,Q3,29,6,Sun,2024-07,1
-RP-006603,2022-11-17,P-48243,Noise Deluxe Audio,Electronics,Audio,1,28248.79,0.25,21186.59,2606.54,Telangana,Karimnagar,Credit Card,2022,11,Nov,4,Q4,46,3,Thu,2022-11,0
-RP-001066,2024-12-14,P-37853,United Colors Premium Kids' Wear,Clothing,Kids' Wear,2,4453.6,0.25,6680.4,2355.85,Gujarat,Surat,UPI,2024,12,Dec,4,Q4,50,5,Sat,2024-12,1
-RP-006832,2023-11-26,P-20966,Cosco Classic Nutrition,Sports & Fitness,Nutrition,2,8203.96,0.2,13126.34,3479.85,Tamil Nadu,Coimbatore,EMI,2023,11,Nov,4,Q4,47,6,Sun,2023-11,1
-RP-001055,2022-11-25,P-37853,United Colors Premium Kids' Wear,Clothing,Kids' Wear,3,469.35,0.3,985.64,417.7,Uttar Pradesh,Agra,EMI,2022,11,Nov,4,Q4,47,4,Fri,2022-11,0
-RP-007653,2023-09-15,P-22682,OnePlus Deluxe Laptops,Electronics,Laptops,1,1264.51,0.0,1264.51,151.45,Rajasthan,Jodhpur,EMI,2023,9,Sep,3,Q3,37,4,Fri,2023-09,0
-RP-006425,2022-04-21,P-17594,Mamaearth Deluxe Haircare,Beauty & Personal Care,Haircare,1,150.67,0.2,120.54,55.99,Karnataka,Mysuru,EMI,2022,4,Apr,2,Q2,16,3,Thu,2022-04,0
-RP-005420,2023-01-28,P-37086,Samsung Standard Accessories,Electronics,Accessories,1,16229.72,0.1,14606.75,1786.77,Telangana,Warangal,Debit Card,2023,1,Jan,1,Q1,4,5,Sat,2023-01,1
-RP-004687,2022-11-26,P-47752,Biba Essential Women's Wear,Clothing,Women'S Wear,4,1136.55,0.25,3409.65,975.47,Punjab,Ludhiana,UPI,2022,11,Nov,4,Q4,47,5,Sat,2022-11,1
-RP-008511,2022-11-28,P-17765,Rupa Deluxe Children,Books,Children,1,801.52,0.15,681.29,93.16,Madhya Pradesh,Bhopal,EMI,2022,11,Nov,4,Q4,48,0,Mon,2022-11,0
-RP-004268,2024-07-20,P-56790,Patanjali Smart Staples,Grocery & Food,Staples,4,68.95,0.15,234.43,34.58,Gujarat,Vadodara,Credit Card,2024,7,Jul,3,Q3,29,5,Sat,2024-07,1
-RP-006746,2022-05-15,P-34528,Orient Pro Children,Books,Children,2,1363.07,0.2,2180.91,382.73,Gujarat,Vadodara,Net Banking,2022,5,May,2,Q2,19,6,Sun,2022-05,1
-RP-000078,2023-12-28,P-11922,Samsung Deluxe Laptops,Electronics,Laptops,3,3363.47,0.2,8072.33,492.54,Maharashtra,Nashik,Debit Card,2023,12,Dec,4,Q4,52,3,Thu,2023-12,0
-RP-002918,2024-09-06,P-46616,Haldiram's Deluxe Beverages,Grocery & Food,Beverages,1,649.89,0.0,649.89,81.19,Delhi,Noida,Cash on Delivery,2024,9,Sep,3,Q3,36,4,Fri,2024-09,0
-RP-005840,2022-09-18,P-42945,Nivia Lite Gym Equipment,Sports & Fitness,Gym Equipment,1,909.73,0.2,727.78,185.5,Uttar Pradesh,Agra,EMI,2022,9,Sep,3,Q3,37,6,Sun,2022-09,1
-RP-005676,2024-10-23,P-19298,Samsung Classic Audio,Electronics,Audio,1,13216.27,0.05,12555.46,1609.54,Punjab,Ludhiana,Credit Card,2024,10,Oct,4,Q4,43,2,Wed,2024-10,0
-RP-007420,2022-05-12,P-41701,Disha Pro Children,Books,Children,1,1012.22,0.05,961.61,227.35,Kerala,Kozhikode,Credit Card,2022,5,May,2,Q2,19,3,Thu,2022-05,0
-RP-000979,2023-09-18,P-23872,Penguin Classic Comics,Books,Comics,1,230.54,0.1,207.49,23.25,Punjab,Ludhiana,Credit Card,2023,9,Sep,3,Q3,38,0,Mon,2023-09,0
-RP-007117,2023-03-11,P-32559,Havells Deluxe Furniture,Home & Kitchen,Furniture,2,9402.78,0.25,14104.17,4430.15,West Bengal,Kolkata,EMI,2023,3,Mar,1,Q1,10,5,Sat,2023-03,1
-RP-008388,2023-11-02,P-55016,Levi's Classic Kids' Wear,Clothing,Kids' Wear,2,1002.97,0.2,1604.75,601.25,Karnataka,Bengaluru,EMI,2023,11,Nov,4,Q4,44,3,Thu,2023-11,0
-RP-008221,2022-12-15,P-56173,Decathlon Pro Footwear,Sports & Fitness,Footwear,1,9165.2,0.2,7332.16,1123.36,Kerala,Kozhikode,UPI,2022,12,Dec,4,Q4,50,3,Thu,2022-12,0
-RP-009222,2022-12-27,P-17421,Mi Essential Mobile Phones,Electronics,Mobile Phones,1,26498.12,0.15,22523.4,3131.34,Maharashtra,Pune,Net Banking,2022,12,Dec,4,Q4,52,1,Tue,2022-12,0
-RP-008111,2022-12-04,P-14578,Himalaya Standard Haircare,Beauty & Personal Care,Haircare,1,164.97,0.05,156.72,59.92,Tamil Nadu,Chennai,Net Banking,2022,12,Dec,4,Q4,48,6,Sun,2022-12,1
-RP-002310,2024-10-18,P-24796,Levi's Standard Men's Wear,Clothing,Men'S Wear,3,414.24,0.2,994.18,206.85,Punjab,Chandigarh,UPI,2024,10,Oct,4,Q4,42,4,Fri,2024-10,0
-RP-006806,2024-05-25,P-19612,MTR Standard Organic,Grocery & Food,Organic,2,576.44,0.15,979.95,115.22,Kerala,Kochi,UPI,2024,5,May,2,Q2,21,5,Sat,2024-05,1
-RP-000641,2024-04-10,P-18749,Speedo Smart Sportswear,Sports & Fitness,Sportswear,1,648.12,0.1,583.31,124.47,Gujarat,Vadodara,EMI,2024,4,Apr,2,Q2,15,2,Wed,2024-04,0
-RP-006477,2024-06-17,P-19446,Britannia Classic Organic,Grocery & Food,Organic,2,245.32,0.1,441.58,70.89,Punjab,Ludhiana,UPI,2024,6,Jun,2,Q2,25,0,Mon,2024-06,0
-RP-003202,2024-11-06,P-31674,Mi Classic Accessories,Electronics,Accessories,3,1284.48,0.2,3082.75,277.2,Kerala,Thiruvananthapuram,Credit Card,2024,11,Nov,4,Q4,45,2,Wed,2024-11,0
-RP-001252,2022-05-26,P-11150,Lakme Lite Skincare,Beauty & Personal Care,Skincare,2,1050.58,0.25,1575.87,679.14,Rajasthan,Jaipur,EMI,2022,5,May,2,Q2,21,3,Thu,2022-05,0
-RP-000731,2022-12-16,P-18010,Godrej Standard Bedding,Home & Kitchen,Bedding,2,3276.11,0.05,6224.61,1281.76,Delhi,Gurgaon,Debit Card,2022,12,Dec,4,Q4,50,4,Fri,2022-12,0
-RP-002546,2023-03-02,P-54542,Himalaya Pro Makeup,Beauty & Personal Care,Makeup,1,171.54,0.15,145.81,69.74,Karnataka,Hubli,Net Banking,2023,3,Mar,1,Q1,9,3,Thu,2023-03,0
-RP-009551,2024-11-03,P-16227,Forest Essentials Lite Fragrances,Beauty & Personal Care,Fragrances,1,779.84,0.25,584.88,275.65,Maharashtra,Mumbai,UPI,2024,11,Nov,4,Q4,44,6,Sun,2024-11,1
-RP-008845,2024-06-01,P-41486,United Colors Essential Men's Wear,Clothing,Men'S Wear,2,1128.49,0.2,1805.58,574.13,West Bengal,Howrah,EMI,2024,6,Jun,2,Q2,22,5,Sat,2024-06,1
-RP-005348,2024-04-23,P-18815,Havells Premium Appliances,Home & Kitchen,Appliances,3,20261.93,0.15,51667.92,11862.22,Telangana,Karimnagar,UPI,2024,4,Apr,2,Q2,17,1,Tue,2024-04,0
-RP-004050,2024-03-12,P-42238,Realme Premium Tablets,Electronics,Tablets,1,9306.93,0.2,7445.54,864.44,Kerala,Kozhikode,Cash on Delivery,2024,3,Mar,1,Q1,11,1,Tue,2024-03,0
-RP-008665,2022-04-15,P-31005,United Colors Smart Men's Wear,Clothing,Men'S Wear,2,588.05,0.4,705.66,197.68,Kerala,Kochi,Debit Card,2022,4,Apr,2,Q2,15,4,Fri,2022-04,0
-RP-004114,2023-08-13,P-30943,Manyavar Premium Accessories,Clothing,Accessories,3,7203.99,0.3,15128.38,6540.44,Uttar Pradesh,Varanasi,Net Banking,2023,8,Aug,3,Q3,32,6,Sun,2023-08,1
-RP-007450,2023-07-30,P-35713,United Colors Standard Men's Wear,Clothing,Men'S Wear,1,2784.22,0.2,2227.38,820.86,Karnataka,Hubli,UPI,2023,7,Jul,3,Q3,30,6,Sun,2023-07,1
-RP-000327,2024-07-06,P-33663,Biba Lite Kids' Wear,Clothing,Kids' Wear,1,756.98,0.3,529.89,112.6,Rajasthan,Jaipur,UPI,2024,7,Jul,3,Q3,27,5,Sat,2024-07,1
-RP-001017,2024-01-17,P-52444,Butterfly Standard Cookware,Home & Kitchen,Cookware,1,7941.11,0.1,7147.0,2249.06,Uttar Pradesh,Agra,Cash on Delivery,2024,1,Jan,1,Q1,3,2,Wed,2024-01,0
-RP-008198,2022-10-03,P-28429,Realme Premium Audio,Electronics,Audio,1,946.74,0.2,757.39,44.7,Tamil Nadu,Coimbatore,Debit Card,2022,10,Oct,4,Q4,40,0,Mon,2022-10,0
-RP-004351,2022-09-01,P-11075,Mi Lite Tablets,Electronics,Tablets,1,52966.22,0.1,47669.6,3414.36,Gujarat,Surat,Credit Card,2022,9,Sep,3,Q3,35,3,Thu,2022-09,0
-RP-000403,2024-06-05,P-46523,Nilkamal Classic Appliances,Home & Kitchen,Appliances,1,670.33,0.2,536.26,133.22,West Bengal,Kolkata,Credit Card,2024,6,Jun,2,Q2,23,2,Wed,2024-06,0
-RP-004444,2024-10-29,P-49620,OnePlus Essential Accessories,Electronics,Accessories,1,31319.98,0.1,28187.98,2807.96,Maharashtra,Pune,Credit Card,2024,10,Oct,4,Q4,44,1,Tue,2024-10,0
-RP-008536,2022-10-17,P-41735,Boat Standard Accessories,Electronics,Accessories,1,1393.14,0.2,1114.51,140.94,Delhi,New Delhi,Debit Card,2022,10,Oct,4,Q4,42,0,Mon,2022-10,0
-RP-009695,2023-10-07,P-22444,Mamaearth Smart Haircare,Beauty & Personal Care,Haircare,1,1027.95,0.3,719.56,237.98,Madhya Pradesh,Indore,Cash on Delivery,2023,10,Oct,4,Q4,40,5,Sat,2023-10,1
-RP-001051,2024-01-03,P-22340,Mi Standard Audio,Electronics,Audio,1,1093.16,0.2,874.53,87.57,Karnataka,Hubli,Cash on Delivery,2024,1,Jan,1,Q1,1,2,Wed,2024-01,0
-RP-002662,2023-03-29,P-26224,United Colors Smart Footwear,Clothing,Footwear,1,1668.54,0.1,1501.69,487.8,Tamil Nadu,Madurai,UPI,2023,3,Mar,1,Q1,13,2,Wed,2023-03,0
-RP-002217,2022-06-04,P-22122,Prestige Pro Decor,Home & Kitchen,Decor,1,12228.63,0.05,11617.2,1835.93,Punjab,Ludhiana,EMI,2022,6,Jun,2,Q2,22,5,Sat,2022-06,1
-RP-004786,2024-09-21,P-52389,Havells Lite Furniture,Home & Kitchen,Furniture,3,3339.58,0.15,8515.93,2580.78,Delhi,Noida,Cash on Delivery,2024,9,Sep,3,Q3,38,5,Sat,2024-09,1
-RP-002878,2023-04-04,P-49524,Mi Pro Mobile Phones,Electronics,Mobile Phones,2,2662.46,0.1,4792.43,241.53,Kerala,Kozhikode,Credit Card,2023,4,Apr,2,Q2,14,1,Tue,2023-04,0
-RP-000117,2024-05-06,P-15358,Funskool Essential Board Games,Toys & Games,Board Games,6,1179.82,0.25,5309.19,2042.51,Delhi,Noida,Cash on Delivery,2024,5,May,2,Q2,19,0,Mon,2024-05,0
-RP-003435,2022-04-15,P-39082,ITC Lite Snacks,Grocery & Food,Snacks,1,129.22,0.15,109.84,12.49,West Bengal,Howrah,EMI,2022,4,Apr,2,Q2,15,4,Fri,2022-04,0
-RP-009633,2022-10-18,P-30906,Nilkamal Smart Bedding,Home & Kitchen,Bedding,4,743.37,0.15,2527.46,628.89,Kerala,Thiruvananthapuram,Debit Card,2022,10,Oct,4,Q4,42,1,Tue,2022-10,0
-RP-008869,2023-04-07,P-39780,Boat Deluxe Audio,Electronics,Audio,1,33375.01,0.15,28368.76,3791.42,Kerala,Thiruvananthapuram,Net Banking,2023,4,Apr,2,Q2,14,4,Fri,2023-04,0
-RP-006666,2024-03-10,P-35365,OnePlus Deluxe Accessories,Electronics,Accessories,2,854.46,0.05,1623.47,82.27,Maharashtra,Pune,Credit Card,2024,3,Mar,1,Q1,10,6,Sun,2024-03,1
-RP-003880,2023-04-28,P-50795,Manyavar Smart Footwear,Clothing,Footwear,2,729.92,0.4,875.9,217.35,Karnataka,Bengaluru,Credit Card,2023,4,Apr,2,Q2,17,4,Fri,2023-04,0
-RP-007584,2024-06-18,P-24857,Manyavar Classic Kids' Wear,Clothing,Kids' Wear,3,4713.98,0.15,12020.65,4202.12,Delhi,New Delhi,Cash on Delivery,2024,6,Jun,2,Q2,25,1,Tue,2024-06,0
-RP-007414,2023-11-10,P-40009,Manyavar Essential Men's Wear,Clothing,Men'S Wear,2,587.19,0.05,1115.66,409.38,Kerala,Kozhikode,Credit Card,2023,11,Nov,4,Q4,45,4,Fri,2023-11,0
-RP-005413,2022-12-30,P-58370,Mamaearth Standard Fragrances,Beauty & Personal Care,Fragrances,1,3264.44,0.15,2774.77,777.36,Gujarat,Ahmedabad,EMI,2022,12,Dec,4,Q4,52,4,Fri,2022-12,0
-RP-000977,2023-06-29,P-20098,Prestige Essential Decor,Home & Kitchen,Decor,1,1105.1,0.1,994.59,322.73,Maharashtra,Pune,Debit Card,2023,6,Jun,2,Q2,26,3,Thu,2023-06,0
-RP-005304,2023-01-04,P-44017,Levi's Essential Men's Wear,Clothing,Men'S Wear,3,234.03,0.35,456.36,182.37,Rajasthan,Jaipur,Credit Card,2023,1,Jan,1,Q1,1,2,Wed,2023-01,0
-RP-004277,2023-04-09,P-42304,Yonex Lite Footwear,Sports & Fitness,Footwear,4,839.24,0.2,2685.57,410.02,Delhi,Noida,Net Banking,2023,4,Apr,2,Q2,14,6,Sun,2023-04,1
-RP-005739,2024-10-31,P-43309,OnePlus Standard Audio,Electronics,Audio,2,7839.42,0.25,11759.13,1544.0,Telangana,Karimnagar,Credit Card,2024,10,Oct,4,Q4,44,3,Thu,2024-10,0
-RP-002099,2022-06-18,P-49136,ITC Lite Staples,Grocery & Food,Staples,2,130.97,0.1,235.75,43.57,Delhi,Gurgaon,Credit Card,2022,6,Jun,2,Q2,24,5,Sat,2022-06,1
-RP-006702,2023-11-30,P-42077,OnePlus Pro Audio,Electronics,Audio,2,612.85,0.15,1041.84,110.51,Punjab,Chandigarh,Credit Card,2023,11,Nov,4,Q4,48,3,Thu,2023-11,0
-RP-004431,2022-12-13,P-35390,United Colors Premium Accessories,Clothing,Accessories,2,648.88,0.1,1167.98,273.01,Kerala,Thiruvananthapuram,Debit Card,2022,12,Dec,4,Q4,50,1,Tue,2022-12,0
-RP-002476,2022-03-12,P-32210,Cosco Pro Outdoor,Sports & Fitness,Outdoor,1,2634.7,0.1,2371.23,802.86,Karnataka,Mysuru,Credit Card,2022,3,Mar,1,Q1,10,5,Sat,2022-03,1
-RP-002740,2023-10-27,P-11969,Himalaya Standard Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,2366.38,0.25,1774.78,759.64,Gujarat,Surat,Net Banking,2023,10,Oct,4,Q4,43,4,Fri,2023-10,0
-RP-002943,2024-07-20,P-36170,Cosco Essential Gym Equipment,Sports & Fitness,Gym Equipment,4,2601.15,0.05,9884.37,3401.26,West Bengal,Durgapur,Cash on Delivery,2024,7,Jul,3,Q3,29,5,Sat,2024-07,1
-RP-000937,2024-11-19,P-17196,Mamaearth Pro Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,194.72,0.2,155.78,69.42,Telangana,Karimnagar,EMI,2024,11,Nov,4,Q4,47,1,Tue,2024-11,0
-RP-008077,2022-01-13,P-20098,Prestige Essential Decor,Home & Kitchen,Decor,1,827.76,0.15,703.6,242.34,Telangana,Hyderabad,Credit Card,2022,1,Jan,1,Q1,2,3,Thu,2022-01,0
-RP-009783,2023-12-28,P-24263,Levi's Deluxe Footwear,Clothing,Footwear,2,841.9,0.1,1515.42,334.22,West Bengal,Kolkata,Cash on Delivery,2023,12,Dec,4,Q4,52,3,Thu,2023-12,0
-RP-002360,2022-07-23,P-49489,Hasbro Smart Puzzles,Toys & Games,Puzzles,1,1685.25,0.2,1348.2,280.08,West Bengal,Howrah,Net Banking,2022,7,Jul,3,Q3,29,5,Sat,2022-07,1
-RP-006386,2024-10-01,P-48188,United Colors Smart Accessories,Clothing,Accessories,1,634.29,0.15,539.15,238.35,Maharashtra,Nashik,Cash on Delivery,2024,10,Oct,4,Q4,40,1,Tue,2024-10,0
-RP-006496,2022-01-17,P-34124,United Colors Standard Accessories,Clothing,Accessories,4,443.14,0.15,1506.68,614.92,Punjab,Ludhiana,Credit Card,2022,1,Jan,1,Q1,3,0,Mon,2022-01,0
-RP-004864,2024-05-27,P-49181,Mi Essential Accessories,Electronics,Accessories,2,9644.98,0.1,17360.96,2435.53,Karnataka,Mysuru,Debit Card,2024,5,May,2,Q2,22,0,Mon,2024-05,0
-RP-000492,2023-12-18,P-11237,Butterfly Smart Furniture,Home & Kitchen,Furniture,1,3824.34,0.1,3441.91,1191.87,West Bengal,Kolkata,Credit Card,2023,12,Dec,4,Q4,51,0,Mon,2023-12,0
-RP-005156,2022-01-05,P-23786,Himalaya Smart Fragrances,Beauty & Personal Care,Fragrances,1,2076.72,0.25,1557.54,401.79,Tamil Nadu,Madurai,UPI,2022,1,Jan,1,Q1,1,2,Wed,2022-01,0
-RP-002727,2024-06-09,P-31602,Haldiram's Deluxe Dairy,Grocery & Food,Dairy,2,55.57,0.15,94.47,15.64,Delhi,New Delhi,Debit Card,2024,6,Jun,2,Q2,23,6,Sun,2024-06,1
-RP-000649,2024-01-16,P-39822,Biba Premium Kids' Wear,Clothing,Kids' Wear,2,628.52,0.15,1068.48,345.27,Telangana,Hyderabad,Debit Card,2024,1,Jan,1,Q1,3,1,Tue,2024-01,0
-RP-007456,2023-09-26,P-55696,Lego Pro Outdoor Toys,Toys & Games,Outdoor Toys,4,192.11,0.15,653.17,142.35,Uttar Pradesh,Lucknow,Debit Card,2023,9,Sep,3,Q3,39,1,Tue,2023-09,0
-RP-006609,2022-05-28,P-36735,Realme Smart Accessories,Electronics,Accessories,1,22431.31,0.0,22431.31,2000.7,Rajasthan,Jaipur,Credit Card,2022,5,May,2,Q2,21,5,Sat,2022-05,1
-RP-001803,2022-07-03,P-26153,Biotique Deluxe Skincare,Beauty & Personal Care,Skincare,1,447.2,0.25,335.4,134.07,Tamil Nadu,Chennai,Debit Card,2022,7,Jul,3,Q3,26,6,Sun,2022-07,1
-RP-002674,2023-07-08,P-30305,Speedo Essential Footwear,Sports & Fitness,Footwear,5,11344.76,0.15,48215.23,8522.18,West Bengal,Howrah,Credit Card,2023,7,Jul,3,Q3,27,5,Sat,2023-07,1
-RP-003440,2023-11-11,P-53692,OnePlus Standard Mobile Phones,Electronics,Mobile Phones,2,550.85,0.2,881.36,88.87,Telangana,Karimnagar,Debit Card,2023,11,Nov,4,Q4,45,5,Sat,2023-11,1
-RP-001919,2023-11-13,P-28997,Funskool Pro Puzzles,Toys & Games,Puzzles,1,1297.54,0.05,1232.66,320.07,Madhya Pradesh,Bhopal,Net Banking,2023,11,Nov,4,Q4,46,0,Mon,2023-11,0
-RP-006250,2023-03-06,P-14578,Himalaya Standard Haircare,Beauty & Personal Care,Haircare,1,4273.22,0.25,3204.92,1299.06,Gujarat,Ahmedabad,Net Banking,2023,3,Mar,1,Q1,10,0,Mon,2023-03,0
-RP-004385,2024-08-22,P-31935,Noise Lite Laptops,Electronics,Laptops,1,7765.15,0.2,6212.12,423.56,Punjab,Amritsar,Debit Card,2024,8,Aug,3,Q3,34,3,Thu,2024-08,0
-RP-009544,2023-09-10,P-47857,S Chand Deluxe Non-Fiction,Books,Non-Fiction,1,188.72,0.05,179.28,32.19,Karnataka,Mysuru,UPI,2023,9,Sep,3,Q3,36,6,Sun,2023-09,1
-RP-002927,2024-01-25,P-52451,Cosco Essential Outdoor,Sports & Fitness,Outdoor,1,1537.6,0.2,1230.08,376.57,Kerala,Kochi,Debit Card,2024,1,Jan,1,Q1,4,3,Thu,2024-01,0
-RP-001823,2023-09-15,P-51989,Biotique Deluxe Makeup,Beauty & Personal Care,Makeup,1,1131.02,0.25,848.26,394.66,Madhya Pradesh,Indore,Credit Card,2023,9,Sep,3,Q3,37,4,Fri,2023-09,0
-RP-006623,2022-01-04,P-46439,Yonex Lite Gym Equipment,Sports & Fitness,Gym Equipment,1,1148.67,0.2,918.94,286.19,Karnataka,Hubli,Credit Card,2022,1,Jan,1,Q1,1,1,Tue,2022-01,0
-RP-003484,2023-10-17,P-12637,Noise Premium Accessories,Electronics,Accessories,1,902.29,0.15,766.95,77.31,Karnataka,Mysuru,EMI,2023,10,Oct,4,Q4,42,1,Tue,2023-10,0
-RP-006677,2023-05-20,P-30554,Mamaearth Essential Makeup,Beauty & Personal Care,Makeup,1,920.16,0.2,736.13,355.88,Delhi,New Delhi,EMI,2023,5,May,2,Q2,20,5,Sat,2023-05,1
-RP-007636,2022-01-04,P-21785,Decathlon Lite Footwear,Sports & Fitness,Footwear,1,4687.57,0.2,3750.06,878.08,Delhi,Noida,Cash on Delivery,2022,1,Jan,1,Q1,1,1,Tue,2022-01,0
-RP-007625,2023-04-26,P-32757,Lego Lite Puzzles,Toys & Games,Puzzles,1,532.82,0.05,506.18,142.65,Delhi,New Delhi,Credit Card,2023,4,Apr,2,Q2,17,2,Wed,2023-04,0
-RP-005168,2024-04-20,P-51045,Speedo Deluxe Nutrition,Sports & Fitness,Nutrition,1,218.19,0.2,174.55,31.53,Tamil Nadu,Coimbatore,Credit Card,2024,4,Apr,2,Q2,16,5,Sat,2024-04,1
-RP-001908,2022-04-09,P-20155,Lakme Essential Makeup,Beauty & Personal Care,Makeup,1,2420.08,0.25,1815.06,741.52,Tamil Nadu,Madurai,EMI,2022,4,Apr,2,Q2,14,5,Sat,2022-04,1
-RP-002443,2022-09-23,P-10381,Prestige Lite Bedding,Home & Kitchen,Bedding,2,774.38,0.15,1316.45,311.46,Karnataka,Bengaluru,EMI,2022,9,Sep,3,Q3,38,4,Fri,2022-09,0
-RP-009893,2022-01-15,P-37200,ITC Standard Staples,Grocery & Food,Staples,3,79.52,0.1,214.7,40.84,Gujarat,Vadodara,Cash on Delivery,2022,1,Jan,1,Q1,2,5,Sat,2022-01,1
-RP-008266,2024-12-05,P-50157,Lakme Premium Fragrances,Beauty & Personal Care,Fragrances,1,2475.49,0.25,1856.62,745.05,Rajasthan,Jaipur,Debit Card,2024,12,Dec,4,Q4,49,3,Thu,2024-12,0
-RP-008791,2024-10-08,P-46779,Butterfly Classic Bedding,Home & Kitchen,Bedding,1,1764.38,0.15,1499.72,340.42,Tamil Nadu,Madurai,UPI,2024,10,Oct,4,Q4,41,1,Tue,2024-10,0
-RP-007164,2024-06-28,P-17421,Mi Essential Mobile Phones,Electronics,Mobile Phones,2,1212.39,0.2,1939.82,282.93,Punjab,Amritsar,UPI,2024,6,Jun,2,Q2,26,4,Fri,2024-06,0
-RP-001976,2022-10-09,P-28963,Biba Classic Men's Wear,Clothing,Men'S Wear,2,2478.59,0.05,4709.32,2076.32,Uttar Pradesh,Varanasi,Debit Card,2022,10,Oct,4,Q4,40,6,Sun,2022-10,1
-RP-005563,2022-05-18,P-16797,Decathlon Smart Outdoor,Sports & Fitness,Outdoor,4,2013.44,0.2,6443.01,1813.16,Kerala,Kozhikode,Credit Card,2022,5,May,2,Q2,20,2,Wed,2022-05,0
-RP-009451,2024-11-19,P-34666,Lakme Pro Men's Grooming,Beauty & Personal Care,Men'S Grooming,2,233.88,0.2,374.21,127.39,Uttar Pradesh,Varanasi,UPI,2024,11,Nov,4,Q4,47,1,Tue,2024-11,0
-RP-006630,2024-02-17,P-38376,Realme Smart Audio,Electronics,Audio,1,55800.68,0.2,44640.54,4657.79,West Bengal,Howrah,Cash on Delivery,2024,2,Feb,1,Q1,7,5,Sat,2024-02,1
-RP-009654,2024-01-10,P-48825,Patanjali Premium Organic,Grocery & Food,Organic,1,499.06,0.15,424.2,39.58,Punjab,Amritsar,UPI,2024,1,Jan,1,Q1,2,2,Wed,2024-01,0
-RP-006679,2022-02-20,P-40874,MTR Pro Beverages,Grocery & Food,Beverages,4,918.45,0.05,3490.11,410.54,Maharashtra,Nashik,UPI,2022,2,Feb,1,Q1,7,6,Sun,2022-02,1
-RP-004147,2022-02-13,P-34328,Levi's Standard Women's Wear,Clothing,Women'S Wear,1,231.13,0.25,173.35,72.61,Rajasthan,Jaipur,UPI,2022,2,Feb,1,Q1,6,6,Sun,2022-02,1
-RP-003868,2022-11-07,P-18599,ITC Standard Snacks,Grocery & Food,Snacks,3,351.88,0.1,950.08,117.85,Maharashtra,Mumbai,UPI,2022,11,Nov,4,Q4,45,0,Mon,2022-11,0
-RP-000182,2024-10-14,P-58199,Cosco Standard Footwear,Sports & Fitness,Footwear,1,678.14,0.25,508.6,161.78,Punjab,Amritsar,Credit Card,2024,10,Oct,4,Q4,42,0,Mon,2024-10,0
-RP-009691,2023-06-05,P-30192,Nivia Essential Nutrition,Sports & Fitness,Nutrition,1,257.58,0.2,206.06,51.64,Maharashtra,Nashik,UPI,2023,6,Jun,2,Q2,23,0,Mon,2023-06,0
-RP-000393,2023-11-05,P-12732,S Chand Lite Children,Books,Children,1,333.35,0.05,316.68,41.68,West Bengal,Durgapur,EMI,2023,11,Nov,4,Q4,44,6,Sun,2023-11,1
-RP-000019,2024-08-05,P-30032,Manyavar Classic Men's Wear,Clothing,Men'S Wear,1,232.42,0.2,185.94,68.91,West Bengal,Durgapur,Cash on Delivery,2024,8,Aug,3,Q3,32,0,Mon,2024-08,0
-RP-004672,2022-12-11,P-21393,OnePlus Classic Laptops,Electronics,Laptops,3,715.54,0.2,1717.3,222.3,Rajasthan,Udaipur,Cash on Delivery,2022,12,Dec,4,Q4,49,6,Sun,2022-12,1
-RP-006240,2023-10-20,P-54538,Funskool Deluxe Educational,Toys & Games,Educational,2,1212.65,0.2,1940.24,628.9,Tamil Nadu,Madurai,Debit Card,2023,10,Oct,4,Q4,42,4,Fri,2023-10,0
-RP-007475,2023-03-17,P-23834,Prestige Smart Appliances,Home & Kitchen,Appliances,1,332.36,0.15,282.51,65.0,Kerala,Kozhikode,UPI,2023,3,Mar,1,Q1,11,4,Fri,2023-03,0
-RP-004819,2023-09-29,P-33539,Penguin Standard Fiction,Books,Fiction,2,193.92,0.05,368.45,82.13,Tamil Nadu,Coimbatore,Credit Card,2023,9,Sep,3,Q3,39,4,Fri,2023-09,0
-RP-004175,2024-06-15,P-30032,Manyavar Classic Men's Wear,Clothing,Men'S Wear,1,7252.08,0.35,4713.85,2049.55,Rajasthan,Udaipur,Cash on Delivery,2024,6,Jun,2,Q2,24,5,Sat,2024-06,1
-RP-002987,2022-03-25,P-14580,ITC Essential Dairy,Grocery & Food,Dairy,3,1440.48,0.15,3673.22,470.17,Telangana,Hyderabad,Debit Card,2022,3,Mar,1,Q1,12,4,Fri,2022-03,0
-RP-005080,2024-03-12,P-52093,Noise Premium Mobile Phones,Electronics,Mobile Phones,5,24381.24,0.2,97524.96,13827.09,Maharashtra,Pune,Debit Card,2024,3,Mar,1,Q1,11,1,Tue,2024-03,0
-RP-009209,2022-10-30,P-58473,Manyavar Lite Kids' Wear,Clothing,Kids' Wear,2,916.98,0.4,1100.38,479.67,West Bengal,Kolkata,UPI,2022,10,Oct,4,Q4,43,6,Sun,2022-10,1
-RP-004551,2022-04-07,P-57394,Biba Standard Accessories,Clothing,Accessories,1,574.4,0.1,516.96,111.03,Punjab,Ludhiana,Cash on Delivery,2022,4,Apr,2,Q2,14,3,Thu,2022-04,0
-RP-002753,2024-08-17,P-57537,Orient Classic Comics,Books,Comics,2,257.41,0.1,463.34,82.97,Uttar Pradesh,Kanpur,Net Banking,2024,8,Aug,3,Q3,33,5,Sat,2024-08,1
-RP-006550,2022-11-23,P-39444,Nilkamal Standard Decor,Home & Kitchen,Decor,1,8392.67,0.1,7553.4,2503.29,Telangana,Hyderabad,Debit Card,2022,11,Nov,4,Q4,47,2,Wed,2022-11,0
-RP-003851,2023-05-05,P-24087,Nilkamal Pro Decor,Home & Kitchen,Decor,3,8208.5,0.1,22162.95,4036.92,Gujarat,Vadodara,Debit Card,2023,5,May,2,Q2,18,4,Fri,2023-05,0
-RP-006812,2022-11-27,P-36509,Lego Essential Action Figures,Toys & Games,Action Figures,1,1946.3,0.15,1654.36,415.42,Tamil Nadu,Chennai,Debit Card,2022,11,Nov,4,Q4,47,6,Sun,2022-11,1
-RP-006594,2024-07-05,P-11370,United Colors Lite Men's Wear,Clothing,Men'S Wear,4,336.19,0.4,806.86,361.67,West Bengal,Kolkata,Credit Card,2024,7,Jul,3,Q3,27,4,Fri,2024-07,0
-RP-008777,2023-06-06,P-56911,Samsung Pro Accessories,Electronics,Accessories,2,4362.77,0.1,7852.99,570.66,Madhya Pradesh,Jabalpur,UPI,2023,6,Jun,2,Q2,23,1,Tue,2023-06,0
-RP-001415,2022-06-22,P-16192,Itsy Bitsy Lite Educational,Toys & Games,Educational,2,1354.66,0.1,2438.39,645.52,Madhya Pradesh,Bhopal,Net Banking,2022,6,Jun,2,Q2,25,2,Wed,2022-06,0
-RP-009340,2022-12-16,P-54495,Forest Essentials Premium Makeup,Beauty & Personal Care,Makeup,1,845.35,0.2,676.28,182.84,Delhi,New Delhi,EMI,2022,12,Dec,4,Q4,50,4,Fri,2022-12,0
-RP-005719,2022-05-15,P-33980,Havells Standard Cookware,Home & Kitchen,Cookware,1,9550.12,0.2,7640.1,1759.53,Karnataka,Hubli,Credit Card,2022,5,May,2,Q2,19,6,Sun,2022-05,1
-RP-009848,2023-03-20,P-47911,Decathlon Deluxe Nutrition,Sports & Fitness,Nutrition,1,1121.73,0.1,1009.56,191.6,Punjab,Ludhiana,EMI,2023,3,Mar,1,Q1,12,0,Mon,2023-03,0
-RP-000860,2023-09-02,P-31157,Nilkamal Lite Decor,Home & Kitchen,Decor,1,5371.56,0.1,4834.4,1179.32,Telangana,Warangal,Credit Card,2023,9,Sep,3,Q3,35,5,Sat,2023-09,1
-RP-002646,2024-10-05,P-14206,Britannia Standard Beverages,Grocery & Food,Beverages,3,53.2,0.1,143.64,23.45,Karnataka,Bengaluru,EMI,2024,10,Oct,4,Q4,40,5,Sat,2024-10,1
-RP-006877,2022-02-06,P-32243,Decathlon Smart Gym Equipment,Sports & Fitness,Gym Equipment,1,1471.99,0.15,1251.19,263.31,Telangana,Karimnagar,Credit Card,2022,2,Feb,1,Q1,5,6,Sun,2022-02,1
-RP-000385,2023-03-03,P-26702,Lakme Premium Haircare,Beauty & Personal Care,Haircare,2,1595.34,0.25,2393.01,611.6,Uttar Pradesh,Lucknow,Cash on Delivery,2023,3,Mar,1,Q1,9,4,Fri,2023-03,0
-RP-002320,2024-11-03,P-25778,ITC Premium Snacks,Grocery & Food,Snacks,1,90.85,0.1,81.76,8.76,Gujarat,Ahmedabad,Debit Card,2024,11,Nov,4,Q4,44,6,Sun,2024-11,1
-RP-007445,2022-03-09,P-54121,Lakme Deluxe Makeup,Beauty & Personal Care,Makeup,2,1757.71,0.15,2988.11,1338.96,Karnataka,Mysuru,Cash on Delivery,2022,3,Mar,1,Q1,10,2,Wed,2022-03,0
-RP-009943,2024-06-12,P-44832,Noise Classic Mobile Phones,Electronics,Mobile Phones,4,54650.1,0.1,196740.36,27343.81,Maharashtra,Nagpur,UPI,2024,6,Jun,2,Q2,24,2,Wed,2024-06,0
-RP-007260,2022-03-13,P-27347,Yonex Pro Outdoor,Sports & Fitness,Outdoor,2,3254.3,0.05,6183.17,1861.1,Tamil Nadu,Coimbatore,Debit Card,2022,3,Mar,1,Q1,10,6,Sun,2022-03,1
-RP-005437,2024-08-08,P-34121,Levi's Deluxe Men's Wear,Clothing,Men'S Wear,2,1963.08,0.1,3533.54,975.74,Gujarat,Vadodara,Debit Card,2024,8,Aug,3,Q3,32,3,Thu,2024-08,0
-RP-002018,2022-02-14,P-17367,MTR Essential Staples,Grocery & Food,Staples,1,98.14,0.0,98.14,15.87,Telangana,Warangal,Debit Card,2022,2,Feb,1,Q1,7,0,Mon,2022-02,0
-RP-001242,2022-12-22,P-44832,Noise Classic Mobile Phones,Electronics,Mobile Phones,2,17857.04,0.1,32142.67,1969.43,Maharashtra,Pune,UPI,2022,12,Dec,4,Q4,51,3,Thu,2022-12,0
-RP-008753,2024-06-15,P-59706,MTR Pro Dairy,Grocery & Food,Dairy,2,395.8,0.1,712.44,105.46,Karnataka,Bengaluru,Debit Card,2024,6,Jun,2,Q2,24,5,Sat,2024-06,1
-RP-009395,2024-04-13,P-13618,Prestige Essential Bedding,Home & Kitchen,Bedding,2,13267.01,0.1,23880.62,7173.09,Punjab,Amritsar,Debit Card,2024,4,Apr,2,Q2,15,5,Sat,2024-04,1
-RP-006703,2024-12-16,P-21568,Noise Standard Audio,Electronics,Audio,2,16271.58,0.05,30916.0,2987.47,Rajasthan,Jodhpur,Cash on Delivery,2024,12,Dec,4,Q4,51,0,Mon,2024-12,0
-RP-009830,2023-08-31,P-59102,Haldiram's Pro Beverages,Grocery & Food,Beverages,2,170.4,0.1,306.72,59.46,Telangana,Warangal,Debit Card,2023,8,Aug,3,Q3,35,3,Thu,2023-08,0
-RP-001650,2024-07-04,P-35393,Patanjali Classic Beverages,Grocery & Food,Beverages,1,103.67,0.05,98.49,9.31,Maharashtra,Nashik,Debit Card,2024,7,Jul,3,Q3,27,3,Thu,2024-07,0
-RP-001224,2023-12-17,P-50532,Godrej Premium Appliances,Home & Kitchen,Appliances,1,450.8,0.15,383.18,126.25,Rajasthan,Jodhpur,EMI,2023,12,Dec,4,Q4,50,6,Sun,2023-12,1
-RP-005865,2024-01-10,P-42075,Yonex Premium Footwear,Sports & Fitness,Footwear,3,248.94,0.15,634.8,170.8,Delhi,Noida,UPI,2024,1,Jan,1,Q1,2,2,Wed,2024-01,0
-RP-009179,2024-05-25,P-12100,Himalaya Pro Skincare,Beauty & Personal Care,Skincare,2,139.21,0.05,264.5,71.55,Karnataka,Hubli,EMI,2024,5,May,2,Q2,21,5,Sat,2024-05,1
-RP-005843,2022-11-16,P-54029,Butterfly Premium Bedding,Home & Kitchen,Bedding,2,310.35,0.2,496.56,144.4,Gujarat,Vadodara,Debit Card,2022,11,Nov,4,Q4,46,2,Wed,2022-11,0
-RP-001429,2024-06-03,P-42237,Mi Smart Laptops,Electronics,Laptops,1,73922.08,0.1,66529.87,6127.51,Rajasthan,Jaipur,EMI,2024,6,Jun,2,Q2,23,0,Mon,2024-06,0
-RP-000600,2023-11-28,P-35313,Patanjali Deluxe Staples,Grocery & Food,Staples,3,593.21,0.15,1512.69,122.63,Gujarat,Vadodara,UPI,2023,11,Nov,4,Q4,48,1,Tue,2023-11,0
-RP-005928,2024-07-23,P-35835,Decathlon Smart Sportswear,Sports & Fitness,Sportswear,2,309.08,0.15,525.44,162.91,Rajasthan,Udaipur,UPI,2024,7,Jul,3,Q3,30,1,Tue,2024-07,0
-RP-008069,2022-06-20,P-15975,Funskool Smart Puzzles,Toys & Games,Puzzles,2,3469.35,0.3,4857.09,1696.87,Maharashtra,Mumbai,Cash on Delivery,2022,6,Jun,2,Q2,25,0,Mon,2022-06,0
-RP-005085,2024-11-13,P-49347,United Colors Essential Women's Wear,Clothing,Women'S Wear,1,5216.71,0.2,4173.37,1869.21,Gujarat,Surat,UPI,2024,11,Nov,4,Q4,46,2,Wed,2024-11,0
-RP-005358,2023-04-25,P-10380,Biba Lite Accessories,Clothing,Accessories,1,3054.74,0.15,2596.53,616.56,Punjab,Amritsar,Net Banking,2023,4,Apr,2,Q2,17,1,Tue,2023-04,0
-RP-006296,2024-06-25,P-26874,Butterfly Classic Furniture,Home & Kitchen,Furniture,1,8419.46,0.05,7998.49,1582.38,Delhi,New Delhi,Net Banking,2024,6,Jun,2,Q2,26,1,Tue,2024-06,0
-RP-005280,2024-03-30,P-14274,Itsy Bitsy Essential Educational,Toys & Games,Educational,1,1689.32,0.15,1435.92,423.1,Karnataka,Bengaluru,Net Banking,2024,3,Mar,1,Q1,13,5,Sat,2024-03,1
-RP-007147,2023-01-09,P-42261,Haldiram's Smart Snacks,Grocery & Food,Snacks,1,400.13,0.15,340.11,40.29,West Bengal,Durgapur,Net Banking,2023,1,Jan,1,Q1,2,0,Mon,2023-01,0
-RP-009823,2023-09-21,P-30460,Boat Lite Laptops,Electronics,Laptops,2,885.19,0.1,1593.34,123.15,Karnataka,Hubli,EMI,2023,9,Sep,3,Q3,38,3,Thu,2023-09,0
-RP-005702,2022-05-13,P-36365,Itsy Bitsy Classic Action Figures,Toys & Games,Action Figures,2,2271.94,0.25,3407.91,970.44,Madhya Pradesh,Jabalpur,UPI,2022,5,May,2,Q2,19,4,Fri,2022-05,0
-RP-000620,2022-02-28,P-36647,Lakme Pro Fragrances,Beauty & Personal Care,Fragrances,1,2225.78,0.2,1780.62,823.74,Rajasthan,Udaipur,Net Banking,2022,2,Feb,1,Q1,9,0,Mon,2022-02,0
-RP-009507,2023-10-23,P-45466,Decathlon Premium Nutrition,Sports & Fitness,Nutrition,1,438.38,0.2,350.7,107.78,Rajasthan,Jaipur,Net Banking,2023,10,Oct,4,Q4,43,0,Mon,2023-10,0
-RP-005349,2023-12-31,P-36370,Butterfly Classic Decor,Home & Kitchen,Decor,1,11821.08,0.1,10638.97,1652.06,Telangana,Hyderabad,UPI,2023,12,Dec,4,Q4,52,6,Sun,2023-12,1
-RP-006593,2023-05-19,P-26529,Biba Smart Men's Wear,Clothing,Men'S Wear,1,886.13,0.2,708.9,262.86,Telangana,Hyderabad,Debit Card,2023,5,May,2,Q2,20,4,Fri,2023-05,0
-RP-009782,2023-09-02,P-15124,Lakme Lite Haircare,Beauty & Personal Care,Haircare,1,2562.08,0.1,2305.87,1001.55,Tamil Nadu,Coimbatore,EMI,2023,9,Sep,3,Q3,35,5,Sat,2023-09,1
-RP-008539,2022-06-02,P-44353,Cosco Pro Sportswear,Sports & Fitness,Sportswear,2,11224.73,0.1,20204.51,5730.65,Karnataka,Bengaluru,Cash on Delivery,2022,6,Jun,2,Q2,22,3,Thu,2022-06,0
-RP-008022,2022-11-12,P-15177,Patanjali Standard Beverages,Grocery & Food,Beverages,2,211.33,0.0,422.66,37.56,Tamil Nadu,Chennai,UPI,2022,11,Nov,4,Q4,45,5,Sat,2022-11,1
-RP-003842,2023-12-14,P-42214,Penguin Smart Fiction,Books,Fiction,1,459.2,0.0,459.2,105.39,Tamil Nadu,Madurai,Cash on Delivery,2023,12,Dec,4,Q4,50,3,Thu,2023-12,0
-RP-005787,2024-10-03,P-54216,Hasbro Classic Outdoor Toys,Toys & Games,Outdoor Toys,2,1255.05,0.05,2384.59,931.47,Gujarat,Vadodara,UPI,2024,10,Oct,4,Q4,40,3,Thu,2024-10,0
-RP-009351,2024-05-30,P-25236,Levi's Lite Women's Wear,Clothing,Women'S Wear,4,2381.46,0.35,6191.8,1627.27,Kerala,Thiruvananthapuram,Cash on Delivery,2024,5,May,2,Q2,22,3,Thu,2024-05,0
-RP-006856,2023-01-06,P-56462,Havells Deluxe Cookware,Home & Kitchen,Cookware,3,4495.33,0.1,12137.39,3858.36,Maharashtra,Pune,EMI,2023,1,Jan,1,Q1,1,4,Fri,2023-01,0
-RP-005031,2022-01-10,P-40011,Haldiram's Classic Snacks,Grocery & Food,Snacks,2,669.5,0.05,1272.05,208.32,Delhi,New Delhi,Credit Card,2022,1,Jan,1,Q1,2,0,Mon,2022-01,0
-RP-007301,2023-06-17,P-40840,Levi's Classic Footwear,Clothing,Footwear,1,390.77,0.3,273.54,59.85,Punjab,Chandigarh,Cash on Delivery,2023,6,Jun,2,Q2,24,5,Sat,2023-06,1
-RP-000341,2022-07-06,P-13102,Biotique Standard Fragrances,Beauty & Personal Care,Fragrances,2,632.09,0.35,821.72,214.09,Delhi,Noida,Net Banking,2022,7,Jul,3,Q3,27,2,Wed,2022-07,0
-RP-006339,2022-07-23,P-13618,Prestige Essential Bedding,Home & Kitchen,Bedding,2,19242.61,0.1,34636.7,10615.41,Tamil Nadu,Madurai,EMI,2022,7,Jul,3,Q3,29,5,Sat,2022-07,1
-RP-009558,2023-12-12,P-11842,Haldiram's Pro Snacks,Grocery & Food,Snacks,1,327.86,0.0,327.86,49.19,Kerala,Kochi,Cash on Delivery,2023,12,Dec,4,Q4,50,1,Tue,2023-12,0
-RP-005063,2022-12-09,P-45434,Penguin Pro Academic,Books,Academic,4,219.81,0.05,835.28,129.61,Gujarat,Vadodara,EMI,2022,12,Dec,4,Q4,49,4,Fri,2022-12,0
-RP-004706,2022-12-04,P-20373,Samsung Lite Mobile Phones,Electronics,Mobile Phones,2,52459.53,0.2,83935.25,9255.88,Punjab,Ludhiana,UPI,2022,12,Dec,4,Q4,48,6,Sun,2022-12,1
-RP-001631,2023-07-17,P-42075,Yonex Premium Footwear,Sports & Fitness,Footwear,1,912.67,0.15,775.77,116.9,Tamil Nadu,Madurai,EMI,2023,7,Jul,3,Q3,29,0,Mon,2023-07,0
-RP-008677,2024-05-31,P-28957,Nivia Essential Footwear,Sports & Fitness,Footwear,1,1502.52,0.1,1352.27,239.61,Tamil Nadu,Coimbatore,EMI,2024,5,May,2,Q2,22,4,Fri,2024-05,0
-RP-008294,2022-01-12,P-44215,Levi's Essential Accessories,Clothing,Accessories,3,1575.6,0.1,4254.12,1762.72,Karnataka,Bengaluru,UPI,2022,1,Jan,1,Q1,2,2,Wed,2022-01,0
-RP-001414,2024-11-20,P-29745,S Chand Lite Comics,Books,Comics,1,749.62,0.05,712.14,120.55,Uttar Pradesh,Lucknow,Cash on Delivery,2024,11,Nov,4,Q4,47,2,Wed,2024-11,0
-RP-007731,2023-12-23,P-22122,Prestige Pro Decor,Home & Kitchen,Decor,1,14076.63,0.15,11965.14,2231.54,Delhi,Gurgaon,Net Banking,2023,12,Dec,4,Q4,51,5,Sat,2023-12,1
-RP-001039,2023-05-26,P-16737,Rupa Lite Non-Fiction,Books,Non-Fiction,1,1224.45,0.05,1163.23,149.55,Maharashtra,Nashik,Debit Card,2023,5,May,2,Q2,21,4,Fri,2023-05,0
-RP-001641,2024-05-01,P-57207,Forest Essentials Essential Makeup,Beauty & Personal Care,Makeup,1,4540.83,0.3,3178.58,1413.88,Delhi,Gurgaon,Debit Card,2024,5,May,2,Q2,18,2,Wed,2024-05,0
-RP-008929,2023-03-08,P-58179,Biotique Deluxe Haircare,Beauty & Personal Care,Haircare,2,1755.35,0.25,2633.02,1164.24,Telangana,Hyderabad,UPI,2023,3,Mar,1,Q1,10,2,Wed,2023-03,0
-RP-007318,2024-12-10,P-56388,Manyavar Pro Accessories,Clothing,Accessories,1,3209.23,0.1,2888.31,719.27,Uttar Pradesh,Agra,Net Banking,2024,12,Dec,4,Q4,50,1,Tue,2024-12,0
-RP-008995,2023-05-11,P-41424,Nilkamal Deluxe Decor,Home & Kitchen,Decor,1,3123.48,0.25,2342.61,636.13,Gujarat,Ahmedabad,Net Banking,2023,5,May,2,Q2,19,3,Thu,2023-05,0
-RP-008738,2023-01-03,P-31551,Decathlon Classic Gym Equipment,Sports & Fitness,Gym Equipment,1,10598.84,0.25,7949.13,1536.34,Uttar Pradesh,Agra,Net Banking,2023,1,Jan,1,Q1,1,1,Tue,2023-01,0
-RP-006457,2023-07-08,P-14787,Lakme Classic Fragrances,Beauty & Personal Care,Fragrances,1,242.86,0.15,206.43,87.73,Rajasthan,Jodhpur,UPI,2023,7,Jul,3,Q3,27,5,Sat,2023-07,1
-RP-000106,2024-03-11,P-34328,Levi's Standard Women's Wear,Clothing,Women'S Wear,2,1023.59,0.15,1740.1,558.69,Uttar Pradesh,Agra,EMI,2024,3,Mar,1,Q1,11,0,Mon,2024-03,0
-RP-005318,2024-11-03,P-33465,Realme Standard Accessories,Electronics,Accessories,1,14871.01,0.1,13383.91,1140.93,Telangana,Karimnagar,Debit Card,2024,11,Nov,4,Q4,44,6,Sun,2024-11,1
-RP-000243,2022-10-19,P-28655,Biba Deluxe Women's Wear,Clothing,Women'S Wear,1,497.35,0.25,373.01,113.93,Uttar Pradesh,Kanpur,UPI,2022,10,Oct,4,Q4,42,2,Wed,2022-10,0
-RP-007177,2022-06-06,P-36335,Speedo Premium Outdoor,Sports & Fitness,Outdoor,2,11710.63,0.15,19908.07,6221.25,Punjab,Amritsar,Credit Card,2022,6,Jun,2,Q2,23,0,Mon,2022-06,0
-RP-003242,2023-10-17,P-24796,Levi's Standard Men's Wear,Clothing,Men'S Wear,2,1809.61,0.2,2895.38,1055.42,Telangana,Warangal,Cash on Delivery,2023,10,Oct,4,Q4,42,1,Tue,2023-10,0
-RP-008573,2024-07-04,P-40796,Havells Classic Furniture,Home & Kitchen,Furniture,1,997.61,0.05,947.73,215.44,Punjab,Chandigarh,Credit Card,2024,7,Jul,3,Q3,27,3,Thu,2024-07,0
-RP-000560,2023-08-04,P-17692,MTR Deluxe Beverages,Grocery & Food,Beverages,1,1948.08,0.05,1850.68,206.71,Tamil Nadu,Coimbatore,Debit Card,2023,8,Aug,3,Q3,31,4,Fri,2023-08,0
-RP-009557,2023-02-12,P-14703,Boat Pro Audio,Electronics,Audio,1,1094.13,0.1,984.72,132.65,Uttar Pradesh,Lucknow,UPI,2023,2,Feb,1,Q1,6,6,Sun,2023-02,1
-RP-000442,2022-07-29,P-29779,Godrej Pro Appliances,Home & Kitchen,Appliances,2,845.57,0.1,1522.03,246.38,Madhya Pradesh,Indore,Debit Card,2022,7,Jul,3,Q3,30,4,Fri,2022-07,0
-RP-007693,2023-04-14,P-31636,Hasbro Lite Puzzles,Toys & Games,Puzzles,1,2101.43,0.2,1681.14,478.29,Rajasthan,Jodhpur,EMI,2023,4,Apr,2,Q2,15,4,Fri,2023-04,0
-RP-007950,2024-10-23,P-32094,Patanjali Pro Organic,Grocery & Food,Organic,1,715.82,0.0,715.82,102.76,Gujarat,Vadodara,Credit Card,2024,10,Oct,4,Q4,43,2,Wed,2024-10,0
-RP-001306,2024-11-09,P-15099,Rupa Pro Children,Books,Children,1,1107.43,0.1,996.69,245.12,Gujarat,Vadodara,EMI,2024,11,Nov,4,Q4,45,5,Sat,2024-11,1
-RP-003723,2024-09-02,P-56288,Cosco Premium Outdoor,Sports & Fitness,Outdoor,1,600.67,0.2,480.54,130.07,Maharashtra,Mumbai,UPI,2024,9,Sep,3,Q3,36,0,Mon,2024-09,0
-RP-007377,2022-04-19,P-47597,Itsy Bitsy Premium Board Games,Toys & Games,Board Games,3,4668.09,0.2,11203.42,2564.72,Kerala,Kozhikode,UPI,2022,4,Apr,2,Q2,16,1,Tue,2022-04,0
-RP-006628,2023-11-02,P-57535,Disha Pro Academic,Books,Academic,1,806.76,0.05,766.42,186.74,Punjab,Amritsar,Credit Card,2023,11,Nov,4,Q4,44,3,Thu,2023-11,0
-RP-002302,2024-05-04,P-39572,Havells Essential Bedding,Home & Kitchen,Bedding,1,12696.63,0.25,9522.47,2447.79,West Bengal,Durgapur,Cash on Delivery,2024,5,May,2,Q2,18,5,Sat,2024-05,1
-RP-004671,2022-08-01,P-38576,Havells Smart Furniture,Home & Kitchen,Furniture,2,559.88,0.25,839.82,189.4,Punjab,Amritsar,UPI,2022,8,Aug,3,Q3,31,0,Mon,2022-08,0
-RP-009763,2024-04-06,P-45634,Disha Classic Fiction,Books,Fiction,1,293.15,0.1,263.83,35.81,Punjab,Amritsar,UPI,2024,4,Apr,2,Q2,14,5,Sat,2024-04,1
-RP-003403,2023-09-09,P-30260,FabIndia Lite Accessories,Clothing,Accessories,1,642.5,0.25,481.88,113.05,West Bengal,Howrah,Debit Card,2023,9,Sep,3,Q3,36,5,Sat,2023-09,1
-RP-008059,2024-03-02,P-40364,Patanjali Smart Beverages,Grocery & Food,Beverages,1,154.66,0.05,146.93,13.89,Maharashtra,Mumbai,Credit Card,2024,3,Mar,1,Q1,9,5,Sat,2024-03,1
-RP-006744,2022-01-12,P-49599,Decathlon Standard Nutrition,Sports & Fitness,Nutrition,1,227.23,0.2,181.78,41.98,Punjab,Ludhiana,Net Banking,2022,1,Jan,1,Q1,2,2,Wed,2022-01,0
-RP-009162,2024-09-19,P-32572,Lakme Premium Skincare,Beauty & Personal Care,Skincare,2,1093.06,0.3,1530.28,715.96,Gujarat,Vadodara,Cash on Delivery,2024,9,Sep,3,Q3,38,3,Thu,2024-09,0
-RP-008999,2024-12-12,P-24445,Yonex Lite Outdoor,Sports & Fitness,Outdoor,2,3667.73,0.15,6235.14,1373.6,Tamil Nadu,Madurai,Debit Card,2024,12,Dec,4,Q4,50,3,Thu,2024-12,0
-RP-009142,2024-11-21,P-22984,Mattel Lite Puzzles,Toys & Games,Puzzles,1,1959.83,0.15,1665.86,606.89,Maharashtra,Pune,Debit Card,2024,11,Nov,4,Q4,47,3,Thu,2024-11,0
-RP-008191,2024-01-04,P-57752,Mattel Premium Puzzles,Toys & Games,Puzzles,1,434.21,0.2,347.37,118.54,Delhi,Noida,Net Banking,2024,1,Jan,1,Q1,1,3,Thu,2024-01,0
-RP-003923,2023-01-18,P-11415,Butterfly Smart Cookware,Home & Kitchen,Cookware,1,387.33,0.05,367.96,123.35,Maharashtra,Pune,Cash on Delivery,2023,1,Jan,1,Q1,3,2,Wed,2023-01,0
-RP-005848,2022-10-09,P-58991,Realme Deluxe Tablets,Electronics,Tablets,1,16746.98,0.05,15909.63,1131.36,Delhi,Gurgaon,Debit Card,2022,10,Oct,4,Q4,40,6,Sun,2022-10,1
-RP-009546,2022-11-19,P-52505,Britannia Deluxe Snacks,Grocery & Food,Snacks,1,83.17,0.05,79.01,10.8,Uttar Pradesh,Agra,UPI,2022,11,Nov,4,Q4,46,5,Sat,2022-11,1
-RP-009756,2023-05-24,P-13057,Speedo Premium Footwear,Sports & Fitness,Footwear,2,8903.47,0.2,14245.55,4161.59,West Bengal,Durgapur,Cash on Delivery,2023,5,May,2,Q2,21,2,Wed,2023-05,0
-RP-006870,2023-10-17,P-29651,Yonex Standard Outdoor,Sports & Fitness,Outdoor,2,11019.42,0.2,17631.07,5107.75,Telangana,Karimnagar,Net Banking,2023,10,Oct,4,Q4,42,1,Tue,2023-10,0
-RP-000446,2024-03-03,P-53374,Noise Pro Tablets,Electronics,Tablets,1,946.34,0.05,899.02,131.18,Kerala,Thiruvananthapuram,Debit Card,2024,3,Mar,1,Q1,9,6,Sun,2024-03,1
-RP-001720,2024-08-07,P-24612,Hasbro Essential Outdoor Toys,Toys & Games,Outdoor Toys,1,395.9,0.1,356.31,119.76,Rajasthan,Udaipur,EMI,2024,8,Aug,3,Q3,32,2,Wed,2024-08,0
-RP-007033,2022-10-01,P-19210,Penguin Deluxe Non-Fiction,Books,Non-Fiction,2,201.49,0.05,382.83,60.08,Maharashtra,Nagpur,Net Banking,2022,10,Oct,4,Q4,39,5,Sat,2022-10,1
-RP-008450,2024-06-20,P-18742,Levi's Essential Footwear,Clothing,Footwear,2,3310.94,0.25,4966.41,1557.71,Rajasthan,Jaipur,UPI,2024,6,Jun,2,Q2,25,3,Thu,2024-06,0
-RP-008958,2023-12-20,P-56911,Samsung Pro Accessories,Electronics,Accessories,1,3175.48,0.2,2540.38,191.91,Maharashtra,Mumbai,Credit Card,2023,12,Dec,4,Q4,51,2,Wed,2023-12,0
-RP-005704,2024-05-06,P-18232,ITC Lite Organic,Grocery & Food,Organic,1,1796.28,0.15,1526.84,132.24,Uttar Pradesh,Kanpur,Debit Card,2024,5,May,2,Q2,19,0,Mon,2024-05,0
-RP-001932,2023-11-21,P-15674,Orient Standard Fiction,Books,Fiction,1,553.15,0.05,525.49,69.51,West Bengal,Durgapur,Cash on Delivery,2023,11,Nov,4,Q4,47,1,Tue,2023-11,0
-RP-000849,2022-07-21,P-15487,Himalaya Deluxe Fragrances,Beauty & Personal Care,Fragrances,1,2541.45,0.25,1906.09,773.96,Uttar Pradesh,Kanpur,Credit Card,2022,7,Jul,3,Q3,29,3,Thu,2022-07,0
-RP-002318,2024-05-13,P-51147,Disha Essential Fiction,Books,Fiction,1,223.01,0.2,178.41,28.58,Telangana,Karimnagar,Credit Card,2024,5,May,2,Q2,20,0,Mon,2024-05,0
-RP-007199,2024-02-24,P-57027,Prestige Smart Furniture,Home & Kitchen,Furniture,1,12889.92,0.25,9667.44,3366.25,Delhi,Noida,Debit Card,2024,2,Feb,1,Q1,8,5,Sat,2024-02,1
-RP-003572,2022-07-10,P-38666,Mi Standard Mobile Phones,Electronics,Mobile Phones,2,677.31,0.2,1083.7,87.82,Maharashtra,Pune,UPI,2022,7,Jul,3,Q3,27,6,Sun,2022-07,1
-RP-007904,2023-12-29,P-22450,Boat Premium Laptops,Electronics,Laptops,3,2241.23,0.0,6723.69,871.91,Karnataka,Hubli,Debit Card,2023,12,Dec,4,Q4,52,4,Fri,2023-12,0
-RP-002956,2023-01-05,P-39526,Manyavar Lite Footwear,Clothing,Footwear,1,580.31,0.25,435.23,115.74,Karnataka,Hubli,EMI,2023,1,Jan,1,Q1,1,3,Thu,2023-01,0
-RP-001911,2022-01-15,P-36406,ITC Deluxe Dairy,Grocery & Food,Dairy,1,1388.65,0.05,1319.22,220.13,Gujarat,Vadodara,Debit Card,2022,1,Jan,1,Q1,2,5,Sat,2022-01,1
-RP-003357,2023-10-15,P-52514,United Colors Pro Men's Wear,Clothing,Men'S Wear,1,821.06,0.25,615.79,148.06,Punjab,Ludhiana,Debit Card,2023,10,Oct,4,Q4,41,6,Sun,2023-10,1
-RP-006312,2024-08-27,P-22444,Mamaearth Smart Haircare,Beauty & Personal Care,Haircare,1,1003.89,0.1,903.5,263.43,Uttar Pradesh,Lucknow,Credit Card,2024,8,Aug,3,Q3,35,1,Tue,2024-08,0
-RP-002569,2023-12-23,P-10392,Lego Premium Action Figures,Toys & Games,Action Figures,1,538.57,0.2,430.86,122.73,Gujarat,Surat,Cash on Delivery,2023,12,Dec,4,Q4,51,5,Sat,2023-12,1
-RP-008449,2022-05-30,P-14810,Havells Lite Cookware,Home & Kitchen,Cookware,1,4700.82,0.05,4465.78,973.86,Karnataka,Mysuru,EMI,2022,5,May,2,Q2,22,0,Mon,2022-05,0
-RP-009846,2023-10-09,P-44412,Biba Standard Women's Wear,Clothing,Women'S Wear,1,278.62,0.05,264.69,114.44,Karnataka,Bengaluru,Cash on Delivery,2023,10,Oct,4,Q4,41,0,Mon,2023-10,0
-RP-008487,2024-11-19,P-15543,Haldiram's Premium Beverages,Grocery & Food,Beverages,1,172.42,0.05,163.8,19.18,Telangana,Karimnagar,EMI,2024,11,Nov,4,Q4,47,1,Tue,2024-11,0
-RP-004340,2024-07-15,P-44610,Nilkamal Essential Cookware,Home & Kitchen,Cookware,1,1572.15,0.2,1257.72,384.13,Delhi,Gurgaon,Cash on Delivery,2024,7,Jul,3,Q3,29,0,Mon,2024-07,0
-RP-008817,2024-09-16,P-17029,Biotique Essential Skincare,Beauty & Personal Care,Skincare,1,537.49,0.15,456.87,175.13,Telangana,Warangal,Net Banking,2024,9,Sep,3,Q3,38,0,Mon,2024-09,0
-RP-002997,2023-12-23,P-28708,MTR Essential Beverages,Grocery & Food,Beverages,2,592.82,0.0,1185.64,219.21,Uttar Pradesh,Kanpur,EMI,2023,12,Dec,4,Q4,51,5,Sat,2023-12,1
-RP-006632,2022-03-25,P-53692,OnePlus Standard Mobile Phones,Electronics,Mobile Phones,1,2134.68,0.2,1707.74,105.18,Kerala,Kochi,Net Banking,2022,3,Mar,1,Q1,12,4,Fri,2022-03,0
-RP-004812,2024-01-21,P-29856,Manyavar Deluxe Women's Wear,Clothing,Women'S Wear,1,3184.74,0.15,2707.03,1001.38,Uttar Pradesh,Kanpur,Net Banking,2024,1,Jan,1,Q1,3,6,Sun,2024-01,1
-RP-008636,2023-07-16,P-23786,Himalaya Smart Fragrances,Beauty & Personal Care,Fragrances,1,130.71,0.05,124.17,38.03,Maharashtra,Mumbai,EMI,2023,7,Jul,3,Q3,28,6,Sun,2023-07,1
-RP-009017,2023-12-20,P-19634,Nivia Premium Footwear,Sports & Fitness,Footwear,2,325.42,0.1,585.76,93.59,West Bengal,Howrah,Credit Card,2023,12,Dec,4,Q4,51,2,Wed,2023-12,0
-RP-001538,2024-04-22,P-12299,Noise Classic Accessories,Electronics,Accessories,1,26247.77,0.0,26247.77,3018.12,Tamil Nadu,Coimbatore,Credit Card,2024,4,Apr,2,Q2,17,0,Mon,2024-04,0
-RP-006567,2023-10-27,P-26984,OnePlus Smart Accessories,Electronics,Accessories,1,6714.59,0.1,6043.13,640.22,Telangana,Karimnagar,UPI,2023,10,Oct,4,Q4,43,4,Fri,2023-10,0
-RP-008535,2024-04-10,P-48896,Manyavar Premium Men's Wear,Clothing,Men'S Wear,2,658.63,0.2,1053.81,255.59,Uttar Pradesh,Lucknow,Debit Card,2024,4,Apr,2,Q2,15,2,Wed,2024-04,0
-RP-005661,2023-04-28,P-20563,Lego Smart Puzzles,Toys & Games,Puzzles,1,313.41,0.25,235.06,92.68,Maharashtra,Nashik,UPI,2023,4,Apr,2,Q2,17,4,Fri,2023-04,0
-RP-009494,2023-11-07,P-35229,Manyavar Classic Footwear,Clothing,Footwear,1,212.23,0.3,148.56,53.36,Kerala,Kochi,UPI,2023,11,Nov,4,Q4,45,1,Tue,2023-11,0
-RP-006495,2024-08-29,P-15383,Realme Pro Accessories,Electronics,Accessories,1,896.13,0.2,716.9,53.78,Delhi,Noida,Net Banking,2024,8,Aug,3,Q3,35,3,Thu,2024-08,0
-RP-000997,2023-12-11,P-15028,United Colors Premium Women's Wear,Clothing,Women'S Wear,2,473.99,0.35,616.19,221.98,Uttar Pradesh,Lucknow,Debit Card,2023,12,Dec,4,Q4,50,0,Mon,2023-12,0
-RP-003227,2024-01-15,P-10933,Nivia Essential Gym Equipment,Sports & Fitness,Gym Equipment,5,1419.3,0.1,6386.85,1973.16,Tamil Nadu,Chennai,Debit Card,2024,1,Jan,1,Q1,3,0,Mon,2024-01,0
-RP-002867,2023-04-17,P-45102,Levi's Pro Footwear,Clothing,Footwear,1,3450.33,0.2,2760.26,686.72,Telangana,Hyderabad,UPI,2023,4,Apr,2,Q2,16,0,Mon,2023-04,0
-RP-004487,2024-05-28,P-48984,Realme Deluxe Audio,Electronics,Audio,1,13779.3,0.15,11712.4,1218.21,West Bengal,Durgapur,Debit Card,2024,5,May,2,Q2,22,1,Tue,2024-05,0
-RP-001613,2024-05-23,P-26649,United Colors Classic Accessories,Clothing,Accessories,1,516.68,0.3,361.68,155.31,Uttar Pradesh,Kanpur,Debit Card,2024,5,May,2,Q2,21,3,Thu,2024-05,0
-RP-007675,2023-07-03,P-20090,Lakme Premium Makeup,Beauty & Personal Care,Makeup,2,1146.34,0.15,1948.78,943.25,Maharashtra,Nashik,Credit Card,2023,7,Jul,3,Q3,27,0,Mon,2023-07,0
-RP-006836,2022-08-07,P-41652,Havells Classic Appliances,Home & Kitchen,Appliances,1,305.73,0.0,305.73,88.92,Uttar Pradesh,Agra,EMI,2022,8,Aug,3,Q3,31,6,Sun,2022-08,1
-RP-004507,2023-04-18,P-10972,Biotique Lite Makeup,Beauty & Personal Care,Makeup,1,248.64,0.1,223.78,110.86,Kerala,Kochi,Debit Card,2023,4,Apr,2,Q2,16,1,Tue,2023-04,0
-RP-006604,2022-08-04,P-22487,Mi Essential Laptops,Electronics,Laptops,2,7474.59,0.1,13454.26,1667.61,Maharashtra,Pune,Cash on Delivery,2022,8,Aug,3,Q3,31,3,Thu,2022-08,0
-RP-005285,2022-09-19,P-57392,Levi's Standard Footwear,Clothing,Footwear,2,2135.37,0.35,2775.98,1029.93,Tamil Nadu,Madurai,EMI,2022,9,Sep,3,Q3,38,0,Mon,2022-09,0
-RP-000428,2024-08-31,P-27348,Biotique Smart Skincare,Beauty & Personal Care,Skincare,2,283.68,0.05,538.99,241.4,West Bengal,Kolkata,Debit Card,2024,8,Aug,3,Q3,35,5,Sat,2024-08,1
-RP-004018,2023-06-12,P-44017,Levi's Essential Men's Wear,Clothing,Men'S Wear,2,381.35,0.35,495.76,219.13,Gujarat,Vadodara,Credit Card,2023,6,Jun,2,Q2,24,0,Mon,2023-06,0
-RP-006428,2023-03-27,P-50145,Boat Smart Tablets,Electronics,Tablets,1,576.89,0.05,548.05,31.15,Uttar Pradesh,Varanasi,Credit Card,2023,3,Mar,1,Q1,13,0,Mon,2023-03,0
-RP-000862,2024-03-30,P-25937,Lakme Smart Makeup,Beauty & Personal Care,Makeup,1,110.04,0.15,93.53,40.05,Tamil Nadu,Chennai,Net Banking,2024,3,Mar,1,Q1,13,5,Sat,2024-03,1
-RP-005756,2023-11-20,P-35459,FabIndia Pro Kids' Wear,Clothing,Kids' Wear,4,1927.95,0.1,6940.62,2204.65,Maharashtra,Nagpur,EMI,2023,11,Nov,4,Q4,47,0,Mon,2023-11,0
-RP-000746,2023-07-30,P-53235,Prestige Premium Cookware,Home & Kitchen,Cookware,1,4502.88,0.05,4277.74,1093.4,Rajasthan,Udaipur,Debit Card,2023,7,Jul,3,Q3,30,6,Sun,2023-07,1
-RP-008952,2023-08-13,P-26874,Butterfly Classic Furniture,Home & Kitchen,Furniture,2,330.31,0.25,495.46,91.19,Uttar Pradesh,Lucknow,Credit Card,2023,8,Aug,3,Q3,32,6,Sun,2023-08,1
-RP-008811,2024-07-30,P-13236,Biotique Standard Men's Grooming,Beauty & Personal Care,Men'S Grooming,3,1080.24,0.15,2754.61,1220.69,Punjab,Chandigarh,Cash on Delivery,2024,7,Jul,3,Q3,31,1,Tue,2024-07,0
-RP-000551,2023-07-05,P-26971,Funskool Essential Outdoor Toys,Toys & Games,Outdoor Toys,1,446.58,0.05,424.25,118.94,Telangana,Karimnagar,Debit Card,2023,7,Jul,3,Q3,27,2,Wed,2023-07,0
-RP-003045,2024-04-24,P-14425,Itsy Bitsy Premium Outdoor Toys,Toys & Games,Outdoor Toys,1,934.08,0.25,700.56,274.12,Tamil Nadu,Coimbatore,Net Banking,2024,4,Apr,2,Q2,17,2,Wed,2024-04,0
-RP-002027,2024-07-14,P-55417,Patanjali Deluxe Organic,Grocery & Food,Organic,2,342.22,0.05,650.22,68.1,Kerala,Kozhikode,Cash on Delivery,2024,7,Jul,3,Q3,28,6,Sun,2024-07,1
-RP-003657,2022-08-02,P-44201,Lego Classic Board Games,Toys & Games,Board Games,2,1659.17,0.05,3152.42,1100.36,Gujarat,Vadodara,EMI,2022,8,Aug,3,Q3,31,1,Tue,2022-08,0
-RP-009114,2023-07-11,P-20856,Butterfly Deluxe Appliances,Home & Kitchen,Appliances,2,2761.39,0.25,4142.08,940.57,Telangana,Hyderabad,Net Banking,2023,7,Jul,3,Q3,28,1,Tue,2023-07,0
-RP-004186,2024-07-09,P-36735,Realme Smart Accessories,Electronics,Accessories,1,7313.63,0.1,6582.27,479.89,Maharashtra,Pune,UPI,2024,7,Jul,3,Q3,28,1,Tue,2024-07,0
-RP-004638,2024-02-02,P-59579,Orient Pro Non-Fiction,Books,Non-Fiction,1,353.0,0.15,300.05,70.9,Gujarat,Vadodara,Cash on Delivery,2024,2,Feb,1,Q1,5,4,Fri,2024-02,0
-RP-008864,2023-11-11,P-52665,Britannia Essential Snacks,Grocery & Food,Snacks,2,1815.37,0.0,3630.74,621.64,Kerala,Kochi,Credit Card,2023,11,Nov,4,Q4,45,5,Sat,2023-11,1
-RP-007985,2024-05-19,P-57779,Yonex Standard Gym Equipment,Sports & Fitness,Gym Equipment,1,1997.51,0.1,1797.76,556.5,Delhi,Noida,EMI,2024,5,May,2,Q2,20,6,Sun,2024-05,1
-RP-005483,2023-01-24,P-22123,S Chand Deluxe Comics,Books,Comics,1,1471.49,0.1,1324.34,290.89,Madhya Pradesh,Indore,Debit Card,2023,1,Jan,1,Q1,4,1,Tue,2023-01,0
-RP-004644,2022-02-25,P-48825,Forest Essentials Premium Fragrances,Beauty & Personal Care,Fragrances,5,256.75,0.2,1027.0,385.71,Kerala,Kozhikode,EMI,2022,2,Feb,1,Q1,8,4,Fri,2022-02,0
-RP-001184,2022-08-23,P-18442,Haldiram's Standard Beverages,Grocery & Food,Beverages,1,103.36,0.05,98.19,15.73,Tamil Nadu,Madurai,Net Banking,2022,8,Aug,3,Q3,34,1,Tue,2022-08,0
-RP-004656,2024-09-23,P-31674,Mi Classic Accessories,Electronics,Accessories,2,48109.18,0.2,76974.69,4714.02,Tamil Nadu,Chennai,Debit Card,2024,9,Sep,3,Q3,39,0,Mon,2024-09,0
-RP-006232,2023-07-31,P-28869,ITC Standard Organic,Grocery & Food,Organic,2,113.53,0.1,204.35,27.26,Telangana,Hyderabad,UPI,2023,7,Jul,3,Q3,31,0,Mon,2023-07,0
-RP-002883,2023-10-07,P-30943,Manyavar Premium Accessories,Clothing,Accessories,1,3867.51,0.3,2707.26,1078.36,Telangana,Warangal,Net Banking,2023,10,Oct,4,Q4,40,5,Sat,2023-10,1
-RP-004237,2023-03-13,P-35902,Itsy Bitsy Premium Puzzles,Toys & Games,Puzzles,1,815.79,0.2,652.63,201.7,Punjab,Chandigarh,Cash on Delivery,2023,3,Mar,1,Q1,11,0,Mon,2023-03,0
-RP-007566,2024-10-07,P-59946,Biba Standard Men's Wear,Clothing,Men'S Wear,1,517.46,0.3,362.22,95.05,Maharashtra,Pune,Debit Card,2024,10,Oct,4,Q4,41,0,Mon,2024-10,0
-RP-007554,2022-10-10,P-43894,Nilkamal Premium Decor,Home & Kitchen,Decor,1,6123.86,0.15,5205.28,945.63,Karnataka,Mysuru,Net Banking,2022,10,Oct,4,Q4,41,0,Mon,2022-10,0
-RP-006338,2023-01-06,P-55750,Britannia Essential Organic,Grocery & Food,Organic,1,105.15,0.0,105.15,17.16,Karnataka,Hubli,Debit Card,2023,1,Jan,1,Q1,1,4,Fri,2023-01,0
-RP-009447,2023-10-01,P-58071,United Colors Classic Footwear,Clothing,Footwear,1,1824.75,0.15,1551.04,410.91,Tamil Nadu,Chennai,Cash on Delivery,2023,10,Oct,4,Q4,39,6,Sun,2023-10,1
-RP-004498,2023-08-05,P-57194,FabIndia Classic Footwear,Clothing,Footwear,2,230.6,0.25,345.9,118.19,Telangana,Hyderabad,UPI,2023,8,Aug,3,Q3,31,5,Sat,2023-08,1
-RP-001979,2024-04-03,P-41719,Manyavar Smart Women's Wear,Clothing,Women'S Wear,1,338.45,0.4,203.07,61.71,Rajasthan,Udaipur,UPI,2024,4,Apr,2,Q2,14,2,Wed,2024-04,0
-RP-006967,2023-09-25,P-36558,Butterfly Smart Appliances,Home & Kitchen,Appliances,2,13032.15,0.1,23457.87,3555.91,Karnataka,Bengaluru,Credit Card,2023,9,Sep,3,Q3,39,0,Mon,2023-09,0
-RP-002466,2024-04-03,P-28549,Lakme Lite Fragrances,Beauty & Personal Care,Fragrances,3,249.44,0.15,636.07,179.65,Rajasthan,Udaipur,Debit Card,2024,4,Apr,2,Q2,14,2,Wed,2024-04,0
-RP-006468,2024-04-06,P-31358,Hasbro Pro Board Games,Toys & Games,Board Games,2,2903.64,0.3,4065.1,1193.65,Maharashtra,Pune,Debit Card,2024,4,Apr,2,Q2,14,5,Sat,2024-04,1
-RP-004735,2024-10-27,P-16797,Decathlon Smart Outdoor,Sports & Fitness,Outdoor,2,3893.94,0.1,7009.09,1520.45,Maharashtra,Pune,Credit Card,2024,10,Oct,4,Q4,43,6,Sun,2024-10,1
-RP-000966,2023-07-21,P-28429,Realme Premium Audio,Electronics,Audio,2,54424.64,0.0,108849.28,12359.76,Tamil Nadu,Madurai,EMI,2023,7,Jul,3,Q3,29,4,Fri,2023-07,0
-RP-000419,2022-09-18,P-52581,Samsung Deluxe Tablets,Electronics,Tablets,1,3797.61,0.0,3797.61,484.55,Uttar Pradesh,Varanasi,Cash on Delivery,2022,9,Sep,3,Q3,37,6,Sun,2022-09,1
-RP-001304,2022-11-07,P-32094,Patanjali Pro Organic,Grocery & Food,Organic,1,106.46,0.05,101.14,14.14,Kerala,Kochi,EMI,2022,11,Nov,4,Q4,45,0,Mon,2022-11,0
-RP-001973,2024-04-01,P-22108,Funskool Standard Action Figures,Toys & Games,Action Figures,1,412.0,0.05,391.4,85.23,Tamil Nadu,Chennai,Credit Card,2024,4,Apr,2,Q2,14,0,Mon,2024-04,0
-RP-006131,2022-11-28,P-38313,Boat Deluxe Laptops,Electronics,Laptops,3,8809.28,0.15,22463.66,1254.79,Punjab,Amritsar,Net Banking,2022,11,Nov,4,Q4,48,0,Mon,2022-11,0
-RP-009150,2022-06-03,P-40743,Mi Essential Tablets,Electronics,Tablets,2,52534.87,0.05,99816.25,13470.59,Karnataka,Hubli,EMI,2022,6,Jun,2,Q2,22,4,Fri,2022-06,0
-RP-009798,2022-11-27,P-15776,Samsung Pro Audio,Electronics,Audio,1,6099.75,0.25,4574.81,459.92,Maharashtra,Nashik,UPI,2022,11,Nov,4,Q4,47,6,Sun,2022-11,1
-RP-007594,2024-07-15,P-40324,Orient Essential Fiction,Books,Fiction,1,1127.76,0.1,1014.98,166.11,Telangana,Karimnagar,EMI,2024,7,Jul,3,Q3,29,0,Mon,2024-07,0
-RP-003847,2024-03-31,P-45350,Himalaya Deluxe Skincare,Beauty & Personal Care,Skincare,1,1771.81,0.2,1417.45,468.24,Gujarat,Vadodara,Credit Card,2024,3,Mar,1,Q1,13,6,Sun,2024-03,1
-RP-008704,2023-01-15,P-48188,United Colors Smart Accessories,Clothing,Accessories,1,292.06,0.3,204.44,76.58,Uttar Pradesh,Kanpur,Debit Card,2023,1,Jan,1,Q1,2,6,Sun,2023-01,1
-RP-006846,2022-04-20,P-19298,Samsung Classic Audio,Electronics,Audio,1,998.51,0.2,798.81,44.58,Rajasthan,Jaipur,Credit Card,2022,4,Apr,2,Q2,16,2,Wed,2022-04,0
-RP-002209,2022-07-30,P-49899,Biba Premium Accessories,Clothing,Accessories,2,710.0,0.25,1065.0,249.39,Tamil Nadu,Coimbatore,UPI,2022,7,Jul,3,Q3,30,5,Sat,2022-07,1
-RP-001432,2023-11-22,P-11445,Samsung Lite Tablets,Electronics,Tablets,2,6993.59,0.05,13287.82,903.1,West Bengal,Kolkata,EMI,2023,11,Nov,4,Q4,47,2,Wed,2023-11,0
-RP-001800,2023-11-29,P-44017,Levi's Essential Men's Wear,Clothing,Men'S Wear,1,4415.12,0.25,3311.34,841.01,Punjab,Amritsar,EMI,2023,11,Nov,4,Q4,48,2,Wed,2023-11,0
-RP-008078,2022-10-27,P-34525,Butterfly Essential Furniture,Home & Kitchen,Furniture,1,2800.24,0.05,2660.23,745.98,Tamil Nadu,Coimbatore,Credit Card,2022,10,Oct,4,Q4,43,3,Thu,2022-10,0
-RP-008692,2022-12-27,P-32720,United Colors Standard Footwear,Clothing,Footwear,1,4342.42,0.2,3473.94,800.68,Madhya Pradesh,Bhopal,Debit Card,2022,12,Dec,4,Q4,52,1,Tue,2022-12,0
-RP-004653,2022-06-21,P-13729,Butterfly Deluxe Bedding,Home & Kitchen,Bedding,3,20190.05,0.2,48456.12,16565.05,Rajasthan,Udaipur,Debit Card,2022,6,Jun,2,Q2,25,1,Tue,2022-06,0
-RP-007956,2024-01-16,P-26733,Biba Essential Footwear,Clothing,Footwear,1,4611.99,0.35,2997.79,1291.92,Delhi,New Delhi,Cash on Delivery,2024,1,Jan,1,Q1,3,1,Tue,2024-01,0
-RP-003748,2024-10-01,P-42153,Nilkamal Deluxe Bedding,Home & Kitchen,Bedding,1,636.73,0.25,477.55,156.22,West Bengal,Durgapur,Credit Card,2024,10,Oct,4,Q4,40,1,Tue,2024-10,0
-RP-001272,2023-03-09,P-29310,FabIndia Lite Women's Wear,Clothing,Women'S Wear,3,2363.49,0.25,5317.85,1782.34,Delhi,Noida,Debit Card,2023,3,Mar,1,Q1,10,3,Thu,2023-03,0
-RP-001159,2023-05-21,P-52895,Boat Standard Mobile Phones,Electronics,Mobile Phones,1,8896.36,0.05,8451.54,753.18,Delhi,New Delhi,UPI,2023,5,May,2,Q2,20,6,Sun,2023-05,1
-RP-008126,2023-02-01,P-41475,Nilkamal Lite Furniture,Home & Kitchen,Furniture,1,11921.46,0.25,8941.09,2987.04,Rajasthan,Jaipur,UPI,2023,2,Feb,1,Q1,5,2,Wed,2023-02,0
-RP-004780,2023-12-24,P-44844,OnePlus Lite Audio,Electronics,Audio,3,1220.09,0.05,3477.26,267.13,Uttar Pradesh,Agra,Cash on Delivery,2023,12,Dec,4,Q4,51,6,Sun,2023-12,1
-RP-009343,2024-08-15,P-41424,Nilkamal Deluxe Decor,Home & Kitchen,Decor,1,2010.74,0.25,1508.06,289.5,Gujarat,Vadodara,Net Banking,2024,8,Aug,3,Q3,33,3,Thu,2024-08,0
-RP-003489,2022-09-30,P-10913,S Chand Smart Academic,Books,Academic,1,108.71,0.1,97.84,11.15,Uttar Pradesh,Kanpur,Debit Card,2022,9,Sep,3,Q3,39,4,Fri,2022-09,0
-RP-002549,2022-12-22,P-20934,OnePlus Classic Accessories,Electronics,Accessories,1,27012.08,0.2,21609.66,1243.19,West Bengal,Howrah,Cash on Delivery,2022,12,Dec,4,Q4,51,3,Thu,2022-12,0
-RP-003927,2023-09-24,P-23312,Nilkamal Standard Appliances,Home & Kitchen,Appliances,1,18505.45,0.1,16654.91,2779.15,Karnataka,Mysuru,Cash on Delivery,2023,9,Sep,3,Q3,38,6,Sun,2023-09,1
-RP-006944,2023-11-11,P-38622,Mattel Premium Board Games,Toys & Games,Board Games,1,1631.03,0.2,1304.82,268.35,Tamil Nadu,Coimbatore,Net Banking,2023,11,Nov,4,Q4,45,5,Sat,2023-11,1
-RP-002926,2023-11-07,P-48525,OnePlus Smart Laptops,Electronics,Laptops,1,13478.99,0.1,12131.09,1051.84,Uttar Pradesh,Agra,Net Banking,2023,11,Nov,4,Q4,45,1,Tue,2023-11,0
-RP-004641,2022-09-21,P-16797,Decathlon Smart Outdoor,Sports & Fitness,Outdoor,1,541.68,0.1,487.51,117.74,Punjab,Amritsar,Credit Card,2022,9,Sep,3,Q3,38,2,Wed,2022-09,0
-RP-005962,2022-07-30,P-48192,S Chand Pro Fiction,Books,Fiction,1,162.38,0.0,162.38,36.72,Tamil Nadu,Madurai,Net Banking,2022,7,Jul,3,Q3,30,5,Sat,2022-07,1
-RP-000741,2022-01-02,P-32949,Lego Deluxe Board Games,Toys & Games,Board Games,1,169.05,0.25,126.79,45.84,Tamil Nadu,Chennai,Credit Card,2022,1,Jan,1,Q1,52,6,Sun,2022-01,1
-RP-002367,2022-11-11,P-23364,Itsy Bitsy Lite Board Games,Toys & Games,Board Games,1,153.75,0.2,123.0,35.57,Tamil Nadu,Madurai,Debit Card,2022,11,Nov,4,Q4,45,4,Fri,2022-11,0
-RP-005821,2024-02-11,P-20090,Lakme Premium Makeup,Beauty & Personal Care,Makeup,1,551.73,0.3,386.21,161.75,Gujarat,Ahmedabad,Credit Card,2024,2,Feb,1,Q1,6,6,Sun,2024-02,1
-RP-002275,2024-09-22,P-11150,Lakme Lite Skincare,Beauty & Personal Care,Skincare,1,3104.9,0.2,2483.92,1200.88,Gujarat,Surat,UPI,2024,9,Sep,3,Q3,38,6,Sun,2024-09,1
-RP-005726,2024-10-05,P-22323,Biba Smart Footwear,Clothing,Footwear,1,2088.98,0.35,1357.84,392.59,Kerala,Thiruvananthapuram,Cash on Delivery,2024,10,Oct,4,Q4,40,5,Sat,2024-10,1
-RP-004272,2023-07-16,P-20943,Forest Essentials Lite Men's Grooming,Beauty & Personal Care,Men'S Grooming,2,4671.68,0.25,7007.52,2260.84,Delhi,Gurgaon,Credit Card,2023,7,Jul,3,Q3,28,6,Sun,2023-07,1
-RP-004625,2022-05-29,P-14079,Hasbro Pro Educational,Toys & Games,Educational,1,2987.56,0.2,2390.05,536.27,Rajasthan,Jodhpur,Debit Card,2022,5,May,2,Q2,21,6,Sun,2022-05,1
-RP-001321,2023-08-08,P-12186,FabIndia Deluxe Accessories,Clothing,Accessories,1,207.72,0.35,135.02,31.41,Kerala,Kochi,Cash on Delivery,2023,8,Aug,3,Q3,32,1,Tue,2023-08,0
-RP-003173,2024-03-03,P-58794,Patanjali Standard Organic,Grocery & Food,Organic,3,201.82,0.15,514.64,81.36,Madhya Pradesh,Bhopal,Net Banking,2024,3,Mar,1,Q1,9,6,Sun,2024-03,1
-RP-006154,2022-11-25,P-32559,Havells Deluxe Furniture,Home & Kitchen,Furniture,1,1828.62,0.1,1645.76,446.64,Delhi,Gurgaon,Net Banking,2022,11,Nov,4,Q4,47,4,Fri,2022-11,0
-RP-003282,2022-02-17,P-49583,Mi Lite Mobile Phones,Electronics,Mobile Phones,1,959.86,0.15,815.88,105.84,Uttar Pradesh,Kanpur,Credit Card,2022,2,Feb,1,Q1,7,3,Thu,2022-02,0
-RP-006611,2024-03-09,P-35711,FabIndia Premium Accessories,Clothing,Accessories,1,3768.79,0.15,3203.47,1383.9,Gujarat,Surat,Net Banking,2024,3,Mar,1,Q1,10,5,Sat,2024-03,1
-RP-006354,2023-05-17,P-12507,Haldiram's Standard Staples,Grocery & Food,Staples,1,71.32,0.1,64.19,12.05,Madhya Pradesh,Jabalpur,Credit Card,2023,5,May,2,Q2,20,2,Wed,2023-05,0
-RP-000068,2022-12-10,P-37920,Funskool Pro Outdoor Toys,Toys & Games,Outdoor Toys,1,4476.79,0.3,3133.75,1144.72,Uttar Pradesh,Varanasi,Cash on Delivery,2022,12,Dec,4,Q4,49,5,Sat,2022-12,1
-RP-008047,2024-03-09,P-35198,OnePlus Pro Accessories,Electronics,Accessories,4,980.47,0.15,3333.6,391.61,Punjab,Chandigarh,Cash on Delivery,2024,3,Mar,1,Q1,10,5,Sat,2024-03,1
-RP-000810,2024-12-25,P-46860,Mattel Classic Outdoor Toys,Toys & Games,Outdoor Toys,2,797.68,0.25,1196.52,441.41,Punjab,Chandigarh,Net Banking,2024,12,Dec,4,Q4,52,2,Wed,2024-12,0
-RP-001523,2024-10-06,P-22956,Britannia Lite Organic,Grocery & Food,Organic,1,1092.21,0.05,1037.6,87.83,Kerala,Kozhikode,Net Banking,2024,10,Oct,4,Q4,40,6,Sun,2024-10,1
-RP-008106,2022-02-06,P-47911,Decathlon Deluxe Nutrition,Sports & Fitness,Nutrition,2,494.48,0.2,791.17,205.59,West Bengal,Durgapur,Cash on Delivery,2022,2,Feb,1,Q1,5,6,Sun,2022-02,1
-RP-009260,2023-05-13,P-18742,Levi's Essential Footwear,Clothing,Footwear,1,5671.12,0.1,5104.01,1877.19,West Bengal,Durgapur,Debit Card,2023,5,May,2,Q2,19,5,Sat,2023-05,1
-RP-009387,2024-10-09,P-12600,Yonex Smart Sportswear,Sports & Fitness,Sportswear,1,5639.53,0.2,4511.62,1088.26,West Bengal,Durgapur,UPI,2024,10,Oct,4,Q4,41,2,Wed,2024-10,0
-RP-007859,2024-08-22,P-53200,Mi Premium Audio,Electronics,Audio,1,5669.69,0.25,4252.27,325.55,Gujarat,Ahmedabad,EMI,2024,8,Aug,3,Q3,34,3,Thu,2024-08,0
-RP-000130,2023-11-05,P-35167,Godrej Lite Appliances,Home & Kitchen,Appliances,2,381.82,0.25,572.73,113.48,Tamil Nadu,Madurai,Cash on Delivery,2023,11,Nov,4,Q4,44,6,Sun,2023-11,1
-RP-006515,2022-07-22,P-29219,Boat Pro Accessories,Electronics,Accessories,1,36988.85,0.2,29591.08,3514.24,Tamil Nadu,Coimbatore,Cash on Delivery,2022,7,Jul,3,Q3,29,4,Fri,2022-07,0
-RP-008473,2023-04-25,P-45834,Patanjali Classic Organic,Grocery & Food,Organic,2,60.56,0.05,115.06,18.38,Karnataka,Hubli,Debit Card,2023,4,Apr,2,Q2,17,1,Tue,2023-04,0
-RP-007156,2024-04-17,P-18010,Godrej Standard Bedding,Home & Kitchen,Bedding,2,5440.93,0.15,9249.58,1616.48,Rajasthan,Jaipur,EMI,2024,4,Apr,2,Q2,16,2,Wed,2024-04,0
-RP-003620,2024-12-05,P-49150,Mamaearth Classic Skincare,Beauty & Personal Care,Skincare,1,134.92,0.1,121.43,42.46,Kerala,Kozhikode,UPI,2024,12,Dec,4,Q4,49,3,Thu,2024-12,0
-RP-001305,2024-08-04,P-49150,Mamaearth Classic Skincare,Beauty & Personal Care,Skincare,1,863.69,0.2,690.95,296.19,Tamil Nadu,Chennai,Net Banking,2024,8,Aug,3,Q3,31,6,Sun,2024-08,1
-RP-005754,2024-04-29,P-33539,Penguin Standard Fiction,Books,Fiction,2,904.42,0.05,1718.4,215.64,Gujarat,Surat,Net Banking,2024,4,Apr,2,Q2,18,0,Mon,2024-04,0
-RP-009801,2022-03-10,P-45250,Rupa Lite Children,Books,Children,1,603.05,0.1,542.74,92.38,Tamil Nadu,Chennai,Net Banking,2022,3,Mar,1,Q1,10,3,Thu,2022-03,0
-RP-008288,2024-11-01,P-25820,Patanjali Pro Snacks,Grocery & Food,Snacks,4,918.9,0.15,3124.26,569.8,Telangana,Karimnagar,Cash on Delivery,2024,11,Nov,4,Q4,44,4,Fri,2024-11,0
-RP-002888,2024-11-19,P-35229,Manyavar Classic Footwear,Clothing,Footwear,1,3092.9,0.4,1855.74,690.1,Delhi,Gurgaon,Debit Card,2024,11,Nov,4,Q4,47,1,Tue,2024-11,0
-RP-004421,2022-12-11,P-11773,Lego Pro Board Games,Toys & Games,Board Games,1,321.59,0.1,289.43,104.75,Karnataka,Bengaluru,Credit Card,2022,12,Dec,4,Q4,49,6,Sun,2022-12,1
-RP-004481,2023-06-21,P-18777,Forest Essentials Deluxe Haircare,Beauty & Personal Care,Haircare,2,709.39,0.15,1205.96,457.69,Madhya Pradesh,Indore,Debit Card,2023,6,Jun,2,Q2,25,2,Wed,2023-06,0
-RP-007567,2022-02-21,P-58959,Biba Pro Kids' Wear,Clothing,Kids' Wear,1,4507.6,0.2,3606.08,941.59,Kerala,Kochi,EMI,2022,2,Feb,1,Q1,8,0,Mon,2022-02,0
-RP-007674,2023-04-05,P-41486,United Colors Essential Men's Wear,Clothing,Men'S Wear,2,6765.44,0.15,11501.25,4689.07,Kerala,Thiruvananthapuram,Net Banking,2023,4,Apr,2,Q2,14,2,Wed,2023-04,0
-RP-007966,2024-07-19,P-13871,Mamaearth Deluxe Skincare,Beauty & Personal Care,Skincare,1,2628.77,0.15,2234.45,587.87,Telangana,Karimnagar,Cash on Delivery,2024,7,Jul,3,Q3,29,4,Fri,2024-07,0
-RP-000057,2023-06-20,P-48309,Samsung Pro Laptops,Electronics,Laptops,6,63297.19,0.0,379783.14,55925.62,Rajasthan,Jodhpur,UPI,2023,6,Jun,2,Q2,25,1,Tue,2023-06,0
-RP-002155,2023-11-15,P-47969,Lakme Pro Makeup,Beauty & Personal Care,Makeup,1,1976.46,0.25,1482.34,492.01,Gujarat,Vadodara,UPI,2023,11,Nov,4,Q4,46,2,Wed,2023-11,0
-RP-002086,2022-11-11,P-11969,Himalaya Standard Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,167.14,0.1,150.43,46.51,Uttar Pradesh,Varanasi,EMI,2022,11,Nov,4,Q4,45,4,Fri,2022-11,0
-RP-005912,2022-05-23,P-40478,Cosco Smart Outdoor,Sports & Fitness,Outdoor,1,2564.86,0.1,2308.37,594.98,Punjab,Ludhiana,Debit Card,2022,5,May,2,Q2,21,0,Mon,2022-05,0
-RP-002254,2023-11-05,P-21137,Mi Pro Accessories,Electronics,Accessories,1,73454.48,0.15,62436.31,8670.16,Karnataka,Mysuru,EMI,2023,11,Nov,4,Q4,44,6,Sun,2023-11,1
-RP-003345,2023-08-16,P-21206,Mi Lite Accessories,Electronics,Accessories,1,3168.13,0.15,2692.91,384.68,Kerala,Kochi,Debit Card,2023,8,Aug,3,Q3,33,2,Wed,2023-08,0
-RP-008571,2023-12-03,P-55903,Biotique Deluxe Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,122.1,0.15,103.78,46.22,Gujarat,Surat,UPI,2023,12,Dec,4,Q4,48,6,Sun,2023-12,1
-RP-008454,2024-12-12,P-27231,MTR Essential Organic,Grocery & Food,Organic,1,1938.54,0.1,1744.69,335.6,Madhya Pradesh,Indore,Credit Card,2024,12,Dec,4,Q4,50,3,Thu,2024-12,0
-RP-004467,2022-08-11,P-59519,Noise Classic Laptops,Electronics,Laptops,1,10691.07,0.25,8018.3,1119.19,Punjab,Amritsar,EMI,2022,8,Aug,3,Q3,32,3,Thu,2022-08,0
-RP-009231,2022-04-01,P-31194,Himalaya Pro Fragrances,Beauty & Personal Care,Fragrances,2,686.42,0.15,1166.91,327.31,Uttar Pradesh,Agra,UPI,2022,4,Apr,2,Q2,13,4,Fri,2022-04,0
-RP-008137,2023-10-10,P-30943,Manyavar Premium Accessories,Clothing,Accessories,1,776.61,0.05,737.78,288.67,Tamil Nadu,Coimbatore,Credit Card,2023,10,Oct,4,Q4,41,1,Tue,2023-10,0
-RP-007639,2023-10-25,P-36365,Itsy Bitsy Classic Action Figures,Toys & Games,Action Figures,2,359.47,0.15,611.1,154.42,Rajasthan,Jaipur,Net Banking,2023,10,Oct,4,Q4,43,2,Wed,2023-10,0
-RP-005838,2023-08-27,P-11265,Haldiram's Essential Beverages,Grocery & Food,Beverages,2,1070.74,0.05,2034.41,285.86,Kerala,Kochi,EMI,2023,8,Aug,3,Q3,34,6,Sun,2023-08,1
-RP-002390,2022-04-09,P-30554,Mamaearth Essential Makeup,Beauty & Personal Care,Makeup,2,235.78,0.3,330.09,90.89,Kerala,Kochi,Net Banking,2022,4,Apr,2,Q2,14,5,Sat,2022-04,1
-RP-000656,2023-01-21,P-23783,United Colors Classic Women's Wear,Clothing,Women'S Wear,1,248.13,0.15,210.91,68.44,Delhi,New Delhi,UPI,2023,1,Jan,1,Q1,3,5,Sat,2023-01,1
-RP-005137,2022-03-19,P-24588,Samsung Premium Accessories,Electronics,Accessories,3,2368.16,0.1,6394.03,877.44,Karnataka,Mysuru,Net Banking,2022,3,Mar,1,Q1,11,5,Sat,2022-03,1
-RP-008461,2024-11-03,P-46502,United Colors Lite Women's Wear,Clothing,Women'S Wear,1,2850.89,0.4,1710.53,491.77,Punjab,Amritsar,EMI,2024,11,Nov,4,Q4,44,6,Sun,2024-11,1
-RP-006957,2022-11-28,P-32966,OnePlus Deluxe Tablets,Electronics,Tablets,1,16239.47,0.15,13803.55,2010.02,Karnataka,Bengaluru,Debit Card,2022,11,Nov,4,Q4,48,0,Mon,2022-11,0
-RP-008713,2024-06-13,P-14157,Mi Standard Tablets,Electronics,Tablets,1,2275.37,0.05,2161.6,139.74,Kerala,Kozhikode,Debit Card,2024,6,Jun,2,Q2,24,3,Thu,2024-06,0
-RP-003199,2022-07-28,P-50225,Boat Lite Audio,Electronics,Audio,2,6079.27,0.1,10942.69,756.93,Punjab,Ludhiana,UPI,2022,7,Jul,3,Q3,30,3,Thu,2022-07,0
-RP-007435,2022-01-14,P-12158,Biba Classic Accessories,Clothing,Accessories,3,827.26,0.35,1613.16,469.98,West Bengal,Howrah,Credit Card,2022,1,Jan,1,Q1,2,4,Fri,2022-01,0
-RP-004439,2022-12-04,P-41286,FabIndia Smart Kids' Wear,Clothing,Kids' Wear,1,1611.41,0.1,1450.27,292.63,Punjab,Ludhiana,Cash on Delivery,2022,12,Dec,4,Q4,48,6,Sun,2022-12,1
-RP-009266,2024-03-09,P-10392,Lego Premium Action Figures,Toys & Games,Action Figures,1,162.83,0.2,130.26,41.65,Rajasthan,Jodhpur,UPI,2024,3,Mar,1,Q1,10,5,Sat,2024-03,1
-RP-004969,2022-02-13,P-45154,Lakme Essential Men's Grooming,Beauty & Personal Care,Men'S Grooming,3,160.61,0.35,313.19,124.61,Maharashtra,Nashik,EMI,2022,2,Feb,1,Q1,6,6,Sun,2022-02,1
-RP-000052,2022-01-10,P-47602,Noise Premium Tablets,Electronics,Tablets,1,33216.38,0.1,29894.74,4203.78,Delhi,Gurgaon,Credit Card,2022,1,Jan,1,Q1,2,0,Mon,2022-01,0
-RP-005636,2024-01-04,P-32154,Mattel Smart Action Figures,Toys & Games,Action Figures,1,3309.14,0.15,2812.77,1045.5,Karnataka,Mysuru,Debit Card,2024,1,Jan,1,Q1,1,3,Thu,2024-01,0
-RP-002071,2024-09-12,P-23060,Biotique Premium Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,1482.29,0.3,1037.6,425.71,Telangana,Karimnagar,UPI,2024,9,Sep,3,Q3,37,3,Thu,2024-09,0
-RP-006637,2022-06-15,P-13903,Mattel Pro Outdoor Toys,Toys & Games,Outdoor Toys,2,255.28,0.25,382.92,150.47,Rajasthan,Udaipur,Net Banking,2022,6,Jun,2,Q2,24,2,Wed,2022-06,0
-RP-007362,2024-05-21,P-37341,Noise Standard Mobile Phones,Electronics,Mobile Phones,1,26025.46,0.1,23422.91,2068.96,West Bengal,Durgapur,Cash on Delivery,2024,5,May,2,Q2,21,1,Tue,2024-05,0
-RP-005360,2024-07-25,P-57032,Manyavar Classic Accessories,Clothing,Accessories,1,4537.6,0.4,2722.56,1114.64,Telangana,Karimnagar,Cash on Delivery,2024,7,Jul,3,Q3,30,3,Thu,2024-07,0
-RP-006165,2024-10-13,P-42237,Mi Smart Laptops,Electronics,Laptops,1,2362.11,0.2,1889.69,276.84,Punjab,Amritsar,Cash on Delivery,2024,10,Oct,4,Q4,41,6,Sun,2024-10,1
-RP-003483,2024-08-18,P-33959,Manyavar Lite Men's Wear,Clothing,Men'S Wear,1,3820.2,0.4,2292.12,709.66,Tamil Nadu,Chennai,Debit Card,2024,8,Aug,3,Q3,33,6,Sun,2024-08,1
-RP-000272,2022-08-21,P-40364,Patanjali Smart Beverages,Grocery & Food,Beverages,1,958.0,0.05,910.1,155.16,Punjab,Chandigarh,EMI,2022,8,Aug,3,Q3,33,6,Sun,2022-08,1
-RP-004733,2023-01-14,P-22487,Mi Essential Laptops,Electronics,Laptops,1,3765.06,0.15,3200.3,416.32,West Bengal,Kolkata,Cash on Delivery,2023,1,Jan,1,Q1,2,5,Sat,2023-01,1
-RP-003306,2022-03-08,P-37853,United Colors Premium Kids' Wear,Clothing,Kids' Wear,2,1025.23,0.25,1537.84,604.37,Kerala,Thiruvananthapuram,EMI,2022,3,Mar,1,Q1,10,1,Tue,2022-03,0
-RP-007937,2022-10-05,P-13198,Noise Essential Accessories,Electronics,Accessories,3,14776.31,0.0,44328.93,4459.43,Gujarat,Vadodara,Debit Card,2022,10,Oct,4,Q4,40,2,Wed,2022-10,0
-RP-001161,2022-02-19,P-40919,Realme Standard Mobile Phones,Electronics,Mobile Phones,2,990.23,0.0,1980.46,260.86,Telangana,Warangal,Cash on Delivery,2022,2,Feb,1,Q1,7,5,Sat,2022-02,1
-RP-001879,2023-10-04,P-22331,Boat Classic Accessories,Electronics,Accessories,1,981.69,0.1,883.52,111.7,Tamil Nadu,Madurai,Credit Card,2023,10,Oct,4,Q4,40,2,Wed,2023-10,0
-RP-001123,2024-08-11,P-56207,Decathlon Pro Sportswear,Sports & Fitness,Sportswear,1,2028.77,0.05,1927.33,358.57,Telangana,Warangal,Cash on Delivery,2024,8,Aug,3,Q3,32,6,Sun,2024-08,1
-RP-004369,2022-07-18,P-28069,Hasbro Standard Action Figures,Toys & Games,Action Figures,2,2271.87,0.1,4089.37,1442.33,West Bengal,Howrah,Net Banking,2022,7,Jul,3,Q3,29,0,Mon,2022-07,0
-RP-002541,2023-08-21,P-16431,Manyavar Pro Women's Wear,Clothing,Women'S Wear,1,5041.07,0.3,3528.75,1244.0,Karnataka,Mysuru,Cash on Delivery,2023,8,Aug,3,Q3,34,0,Mon,2023-08,0
-RP-000566,2024-01-06,P-36558,Butterfly Smart Appliances,Home & Kitchen,Appliances,2,3712.18,0.1,6681.92,1265.95,Gujarat,Ahmedabad,Debit Card,2024,1,Jan,1,Q1,1,5,Sat,2024-01,1
-RP-003922,2024-09-20,P-48522,Godrej Smart Bedding,Home & Kitchen,Bedding,1,3618.71,0.25,2714.03,770.71,Madhya Pradesh,Jabalpur,Debit Card,2024,9,Sep,3,Q3,38,4,Fri,2024-09,0
-RP-003776,2023-08-02,P-22978,Manyavar Lite Women's Wear,Clothing,Women'S Wear,1,660.32,0.1,594.29,150.42,Madhya Pradesh,Indore,Net Banking,2023,8,Aug,3,Q3,31,2,Wed,2023-08,0
-RP-009522,2023-12-03,P-24705,Itsy Bitsy Premium Educational,Toys & Games,Educational,2,4237.78,0.25,6356.67,2103.19,Madhya Pradesh,Indore,Credit Card,2023,12,Dec,4,Q4,48,6,Sun,2023-12,1
-RP-001173,2022-11-07,P-17029,Biotique Essential Skincare,Beauty & Personal Care,Skincare,4,3302.59,0.35,8586.73,3861.53,Telangana,Hyderabad,Credit Card,2022,11,Nov,4,Q4,45,0,Mon,2022-11,0
-RP-003503,2022-01-01,P-50490,S Chand Premium Fiction,Books,Fiction,1,151.22,0.05,143.66,31.14,Maharashtra,Nagpur,EMI,2022,1,Jan,1,Q1,52,5,Sat,2022-01,1
-RP-002876,2022-10-07,P-42153,Nilkamal Deluxe Bedding,Home & Kitchen,Bedding,1,12959.15,0.1,11663.24,2281.17,West Bengal,Kolkata,EMI,2022,10,Oct,4,Q4,40,4,Fri,2022-10,0
-RP-006585,2023-07-17,P-24612,Hasbro Essential Outdoor Toys,Toys & Games,Outdoor Toys,1,221.55,0.15,188.32,69.45,Telangana,Karimnagar,UPI,2023,7,Jul,3,Q3,29,0,Mon,2023-07,0
-RP-003594,2022-04-30,P-42237,Mi Smart Laptops,Electronics,Laptops,2,13630.5,0.2,21808.8,1351.93,Karnataka,Mysuru,Cash on Delivery,2022,4,Apr,2,Q2,17,5,Sat,2022-04,1
-RP-002786,2024-02-05,P-20646,FabIndia Lite Kids' Wear,Clothing,Kids' Wear,1,219.53,0.2,175.62,65.89,Delhi,Gurgaon,Debit Card,2024,2,Feb,1,Q1,6,0,Mon,2024-02,0
-RP-004784,2023-11-04,P-23670,Lakme Premium Men's Grooming,Beauty & Personal Care,Men'S Grooming,2,471.89,0.1,849.4,290.11,Tamil Nadu,Madurai,EMI,2023,11,Nov,4,Q4,44,5,Sat,2023-11,1
-RP-008395,2022-03-26,P-51288,Manyavar Essential Kids' Wear,Clothing,Kids' Wear,1,1174.96,0.2,939.97,241.73,Maharashtra,Pune,Debit Card,2022,3,Mar,1,Q1,12,5,Sat,2022-03,1
-RP-004542,2022-02-11,P-31322,Hasbro Premium Outdoor Toys,Toys & Games,Outdoor Toys,1,521.81,0.25,391.36,150.5,Uttar Pradesh,Lucknow,Debit Card,2022,2,Feb,1,Q1,6,4,Fri,2022-02,0
-RP-007222,2022-09-18,P-33803,Levi's Essential Kids' Wear,Clothing,Kids' Wear,1,571.35,0.15,485.65,199.49,Gujarat,Vadodara,UPI,2022,9,Sep,3,Q3,37,6,Sun,2022-09,1
-RP-004292,2022-03-31,P-45801,Godrej Standard Cookware,Home & Kitchen,Cookware,1,1318.34,0.3,922.84,184.61,Telangana,Warangal,Credit Card,2022,3,Mar,1,Q1,13,3,Thu,2022-03,0
-RP-005846,2024-10-11,P-55454,FabIndia Pro Footwear,Clothing,Footwear,3,2594.06,0.25,5836.64,2031.47,Tamil Nadu,Coimbatore,Credit Card,2024,10,Oct,4,Q4,41,4,Fri,2024-10,0
-RP-001163,2024-07-30,P-21242,United Colors Smart Women's Wear,Clothing,Women'S Wear,1,553.22,0.2,442.58,177.53,Madhya Pradesh,Indore,UPI,2024,7,Jul,3,Q3,31,1,Tue,2024-07,0
-RP-004480,2024-12-09,P-54677,Butterfly Pro Bedding,Home & Kitchen,Bedding,3,348.92,0.1,942.08,174.96,Uttar Pradesh,Lucknow,EMI,2024,12,Dec,4,Q4,50,0,Mon,2024-12,0
-RP-007489,2022-08-05,P-50490,S Chand Premium Fiction,Books,Fiction,1,164.4,0.2,131.52,17.93,Madhya Pradesh,Jabalpur,UPI,2022,8,Aug,3,Q3,31,4,Fri,2022-08,0
-RP-006590,2023-08-29,P-49956,Prestige Deluxe Furniture,Home & Kitchen,Furniture,1,5599.82,0.15,4759.85,739.59,Gujarat,Ahmedabad,EMI,2023,8,Aug,3,Q3,35,1,Tue,2023-08,0
-RP-004960,2024-03-09,P-55231,United Colors Premium Men's Wear,Clothing,Men'S Wear,1,1004.86,0.25,753.64,322.49,Punjab,Amritsar,UPI,2024,3,Mar,1,Q1,10,5,Sat,2024-03,1
-RP-003649,2022-10-31,P-32966,OnePlus Deluxe Tablets,Electronics,Tablets,1,29111.69,0.1,26200.52,2396.68,Maharashtra,Mumbai,UPI,2022,10,Oct,4,Q4,44,0,Mon,2022-10,0
-RP-006861,2022-10-07,P-21487,Lakme Standard Makeup,Beauty & Personal Care,Makeup,3,1378.56,0.1,3722.11,1007.64,Delhi,New Delhi,EMI,2022,10,Oct,4,Q4,40,4,Fri,2022-10,0
-RP-004950,2024-02-04,P-55646,Prestige Lite Cookware,Home & Kitchen,Cookware,1,6634.59,0.15,5639.4,928.62,Maharashtra,Pune,EMI,2024,2,Feb,1,Q1,5,6,Sun,2024-02,1
+RP-001820,2023-11-27,P-49181,Prestige Pro Bedding,Home & Kitchen,Bedding,2,4734.6,0.1,8522.28,2845.4,Telangana,Warangal,EMI,2023,11,Nov,4,Q4,48,0,Mon,2023-11,0
+RP-007866,2023-06-28,P-40629,Disha Smart Academic,Books,Academic,2,175.98,0.05,334.36,34.82,Uttar Pradesh,Varanasi,Cash on Delivery,2023,6,Jun,2,Q2,26,2,Wed,2023-06,0
+RP-003100,2022-08-16,P-54055,Havells Pro Bedding,Home & Kitchen,Bedding,2,24253.77,0.3,33955.28,10691.36,Telangana,Hyderabad,Net Banking,2022,8,Aug,3,Q3,33,1,Tue,2022-08,0
+RP-004998,2023-07-07,P-19350,Noise Premium Mobile Phones,Electronics,Mobile Phones,1,1527.93,0.1,1375.14,87.05,Karnataka,Hubli,Net Banking,2023,7,Jul,3,Q3,27,4,Fri,2023-07,0
+RP-005292,2023-06-06,P-51205,Samsung Pro Accessories,Electronics,Accessories,3,4952.33,0.1,13371.29,1876.71,Madhya Pradesh,Indore,EMI,2023,6,Jun,2,Q2,23,1,Tue,2023-06,0
+RP-004932,2023-12-04,P-56584,Samsung Lite Audio,Electronics,Audio,2,2224.1,0.25,3336.15,297.56,Madhya Pradesh,Indore,Cash on Delivery,2023,12,Dec,4,Q4,49,0,Mon,2023-12,0
+RP-003138,2022-03-20,P-22231,FabIndia Essential Accessories,Clothing,Accessories,1,1540.94,0.1,1386.85,530.02,Uttar Pradesh,Lucknow,Net Banking,2022,3,Mar,1,Q1,11,6,Sun,2022-03,1
+RP-009439,2023-09-03,P-24899,FabIndia Deluxe Kids' Wear,Clothing,Kids' Wear,2,3800.7,0.05,7221.33,2674.73,Rajasthan,Jodhpur,Debit Card,2023,9,Sep,3,Q3,35,6,Sun,2023-09,1
+RP-002043,2023-12-06,P-55570,Mattel Deluxe Board Games,Toys & Games,Board Games,4,557.25,0.05,2117.55,425.35,Tamil Nadu,Madurai,UPI,2023,12,Dec,4,Q4,49,2,Wed,2023-12,0
+RP-006868,2022-03-03,P-52361,Rupa Lite Children,Books,Children,4,442.71,0.05,1682.3,350.48,Uttar Pradesh,Lucknow,Cash on Delivery,2022,3,Mar,1,Q1,9,3,Thu,2022-03,0
+RP-007088,2022-11-17,P-15612,Biba Smart Kids' Wear,Clothing,Kids' Wear,1,226.58,0.05,215.25,93.55,Madhya Pradesh,Jabalpur,UPI,2022,11,Nov,4,Q4,46,3,Thu,2022-11,0
+RP-006830,2024-04-17,P-59559,Nivia Essential Nutrition,Sports & Fitness,Nutrition,1,260.84,0.1,234.76,58.76,Karnataka,Hubli,UPI,2024,4,Apr,2,Q2,16,2,Wed,2024-04,0
+RP-009758,2023-09-10,P-36946,Manyavar Essential Women's Wear,Clothing,Women'S Wear,2,423.6,0.3,593.04,122.43,West Bengal,Kolkata,Net Banking,2023,9,Sep,3,Q3,36,6,Sun,2023-09,1
+RP-005391,2023-10-16,P-46182,Prestige Essential Furniture,Home & Kitchen,Furniture,1,359.17,0.05,341.21,111.32,Punjab,Amritsar,Debit Card,2023,10,Oct,4,Q4,42,0,Mon,2023-10,0
+RP-006207,2023-03-28,P-17849,Funskool Pro Action Figures,Toys & Games,Action Figures,2,724.74,0.25,1087.11,236.35,Tamil Nadu,Madurai,Credit Card,2023,3,Mar,1,Q1,13,1,Tue,2023-03,0
+RP-007003,2023-11-13,P-51515,Mi Classic Tablets,Electronics,Tablets,1,20183.05,0.2,16146.44,1850.75,Kerala,Kozhikode,Debit Card,2023,11,Nov,4,Q4,46,0,Mon,2023-11,0
+RP-003158,2022-03-20,P-40754,Prestige Lite Decor,Home & Kitchen,Decor,2,17966.62,0.05,34136.58,8751.68,Madhya Pradesh,Jabalpur,Debit Card,2022,3,Mar,1,Q1,11,6,Sun,2022-03,1
+RP-009733,2024-12-27,P-36946,Manyavar Essential Women's Wear,Clothing,Women'S Wear,1,326.65,0.05,310.32,138.92,West Bengal,Howrah,Cash on Delivery,2024,12,Dec,4,Q4,52,4,Fri,2024-12,0
+RP-003485,2024-02-17,P-44175,Nilkamal Smart Appliances,Home & Kitchen,Appliances,1,623.71,0.3,436.6,89.93,Maharashtra,Pune,Debit Card,2024,2,Feb,1,Q1,7,5,Sat,2024-02,1
+RP-003406,2024-07-17,P-55492,Havells Lite Decor,Home & Kitchen,Decor,1,1807.12,0.05,1716.76,593.51,Karnataka,Bengaluru,Debit Card,2024,7,Jul,3,Q3,29,2,Wed,2024-07,0
+RP-006473,2024-12-25,P-11464,Biba Premium Footwear,Clothing,Footwear,1,1077.53,0.3,754.27,291.36,Delhi,New Delhi,UPI,2024,12,Dec,4,Q4,52,2,Wed,2024-12,0
+RP-002465,2022-10-10,P-51941,MTR Pro Beverages,Grocery & Food,Beverages,1,73.48,0.05,69.81,11.65,Delhi,Gurgaon,Cash on Delivery,2022,10,Oct,4,Q4,41,0,Mon,2022-10,0
+RP-008649,2023-06-22,P-43404,Realme Deluxe Laptops,Electronics,Laptops,2,7637.79,0.0,15275.58,1042.11,Delhi,Gurgaon,Net Banking,2023,6,Jun,2,Q2,25,3,Thu,2023-06,0
+RP-004856,2024-11-24,P-32580,Cosco Essential Sportswear,Sports & Fitness,Sportswear,1,222.62,0.2,178.1,53.48,Punjab,Chandigarh,Net Banking,2024,11,Nov,4,Q4,47,6,Sun,2024-11,1
+RP-004190,2023-08-04,P-41633,Patanjali Deluxe Snacks,Grocery & Food,Snacks,1,259.07,0.1,233.16,24.36,Kerala,Kozhikode,Credit Card,2023,8,Aug,3,Q3,31,4,Fri,2023-08,0
+RP-004469,2024-12-26,P-32336,United Colors Pro Footwear,Clothing,Footwear,2,1388.22,0.25,2082.33,691.06,Delhi,Noida,Cash on Delivery,2024,12,Dec,4,Q4,52,3,Thu,2024-12,0
+RP-001277,2022-09-12,P-37808,Realme Standard Accessories,Electronics,Accessories,1,54427.55,0.0,54427.55,6609.6,Rajasthan,Jodhpur,UPI,2022,9,Sep,3,Q3,37,0,Mon,2022-09,0
+RP-006977,2024-07-27,P-19695,Boat Lite Mobile Phones,Electronics,Mobile Phones,1,8835.39,0.1,7951.85,872.65,Maharashtra,Nashik,Debit Card,2024,7,Jul,3,Q3,30,5,Sat,2024-07,1
+RP-006918,2023-12-22,P-13686,Realme Classic Laptops,Electronics,Laptops,2,65653.68,0.1,118176.62,10224.3,Telangana,Hyderabad,Net Banking,2023,12,Dec,4,Q4,51,4,Fri,2023-12,0
+RP-008060,2024-10-05,P-55306,MTR Classic Dairy,Grocery & Food,Dairy,4,1956.09,0.1,7041.92,609.44,Delhi,New Delhi,UPI,2024,10,Oct,4,Q4,40,5,Sat,2024-10,1
+RP-009010,2022-02-15,P-24933,Decathlon Lite Footwear,Sports & Fitness,Footwear,1,406.87,0.05,386.53,123.65,Rajasthan,Jaipur,Credit Card,2022,2,Feb,1,Q1,7,1,Tue,2022-02,0
+RP-001860,2022-11-11,P-21602,Orient Classic Fiction,Books,Fiction,3,966.35,0.15,2464.19,410.78,Karnataka,Bengaluru,Net Banking,2022,11,Nov,4,Q4,45,4,Fri,2022-11,0
+RP-007319,2023-06-20,P-40754,Prestige Lite Decor,Home & Kitchen,Decor,2,5985.38,0.1,10773.68,2803.03,Madhya Pradesh,Bhopal,Credit Card,2023,6,Jun,2,Q2,25,1,Tue,2023-06,0
+RP-006942,2023-08-05,P-49072,Penguin Premium Children,Books,Children,1,343.35,0.1,309.02,72.71,Tamil Nadu,Chennai,EMI,2023,8,Aug,3,Q3,31,5,Sat,2023-08,1
+RP-007293,2024-08-06,P-39116,Mattel Standard Puzzles,Toys & Games,Puzzles,1,286.34,0.2,229.07,88.5,West Bengal,Durgapur,Debit Card,2024,8,Aug,3,Q3,32,1,Tue,2024-08,0
+RP-008953,2022-12-29,P-52638,Funskool Smart Board Games,Toys & Games,Board Games,1,363.16,0.15,308.69,120.08,Tamil Nadu,Madurai,UPI,2022,12,Dec,4,Q4,52,3,Thu,2022-12,0
+RP-009576,2023-10-11,P-52441,Mi Lite Audio,Electronics,Audio,2,2153.49,0.15,3660.93,262.57,Delhi,Noida,Credit Card,2023,10,Oct,4,Q4,41,2,Wed,2023-10,0
+RP-002130,2022-02-05,P-54077,MTR Deluxe Staples,Grocery & Food,Staples,1,875.1,0.1,787.59,103.58,Maharashtra,Nagpur,UPI,2022,2,Feb,1,Q1,5,5,Sat,2022-02,1
+RP-002729,2023-03-25,P-13110,Butterfly Pro Appliances,Home & Kitchen,Appliances,2,24363.54,0.25,36545.31,12432.91,Tamil Nadu,Coimbatore,Net Banking,2023,3,Mar,1,Q1,12,5,Sat,2023-03,1
+RP-001043,2023-12-24,P-49603,Himalaya Classic Haircare,Beauty & Personal Care,Haircare,1,1374.13,0.2,1099.3,483.04,Rajasthan,Jaipur,Debit Card,2023,12,Dec,4,Q4,51,6,Sun,2023-12,1
+RP-007703,2023-10-08,P-46393,Biba Pro Men's Wear,Clothing,Men'S Wear,3,216.31,0.4,389.36,98.39,Telangana,Warangal,Debit Card,2023,10,Oct,4,Q4,40,6,Sun,2023-10,1
+RP-003207,2022-01-05,P-48528,Godrej Premium Furniture,Home & Kitchen,Furniture,6,20752.94,0.1,112065.88,35568.0,Punjab,Amritsar,UPI,2022,1,Jan,1,Q1,1,2,Wed,2022-01,0
+RP-009430,2024-08-12,P-29676,Lego Premium Puzzles,Toys & Games,Puzzles,1,2256.55,0.1,2030.9,674.05,Tamil Nadu,Coimbatore,Cash on Delivery,2024,8,Aug,3,Q3,33,0,Mon,2024-08,0
+RP-002383,2022-07-23,P-25940,Himalaya Essential Skincare,Beauty & Personal Care,Skincare,1,234.81,0.25,176.11,59.46,Rajasthan,Jaipur,EMI,2022,7,Jul,3,Q3,29,5,Sat,2022-07,1
+RP-001948,2024-11-11,P-46182,Prestige Essential Furniture,Home & Kitchen,Furniture,2,521.23,0.1,938.21,311.41,Kerala,Thiruvananthapuram,Cash on Delivery,2024,11,Nov,4,Q4,46,0,Mon,2024-11,0
+RP-003606,2022-01-06,P-10583,Decathlon Lite Nutrition,Sports & Fitness,Nutrition,1,2163.25,0.05,2055.09,563.01,Uttar Pradesh,Kanpur,UPI,2022,1,Jan,1,Q1,1,3,Thu,2022-01,0
+RP-004497,2023-07-17,P-53911,Funskool Classic Educational,Toys & Games,Educational,1,563.35,0.1,507.02,167.13,Telangana,Hyderabad,Credit Card,2023,7,Jul,3,Q3,29,0,Mon,2023-07,0
+RP-002096,2023-01-14,P-36454,Havells Classic Bedding,Home & Kitchen,Bedding,1,2623.68,0.15,2230.13,525.15,Karnataka,Bengaluru,Cash on Delivery,2023,1,Jan,1,Q1,2,5,Sat,2023-01,1
+RP-007209,2022-08-20,P-46452,MTR Standard Staples,Grocery & Food,Staples,3,261.79,0.0,785.37,130.49,Madhya Pradesh,Bhopal,Cash on Delivery,2022,8,Aug,3,Q3,33,5,Sat,2022-08,1
+RP-002716,2022-10-14,P-41204,FabIndia Premium Men's Wear,Clothing,Men'S Wear,1,461.86,0.15,392.58,125.35,Madhya Pradesh,Jabalpur,Cash on Delivery,2022,10,Oct,4,Q4,41,4,Fri,2022-10,0
+RP-007690,2023-02-20,P-17910,FabIndia Classic Men's Wear,Clothing,Men'S Wear,1,1104.24,0.3,772.97,238.45,Madhya Pradesh,Jabalpur,Net Banking,2023,2,Feb,1,Q1,8,0,Mon,2023-02,0
+RP-005273,2024-08-02,P-18495,Samsung Deluxe Accessories,Electronics,Accessories,4,16189.04,0.05,61518.35,6259.67,Tamil Nadu,Madurai,Credit Card,2024,8,Aug,3,Q3,31,4,Fri,2024-08,0
+RP-002749,2023-08-09,P-31150,Havells Deluxe Furniture,Home & Kitchen,Furniture,6,520.55,0.25,2342.48,437.15,Telangana,Warangal,Cash on Delivery,2023,8,Aug,3,Q3,32,2,Wed,2023-08,0
+RP-004295,2024-07-13,P-18329,Nilkamal Essential Furniture,Home & Kitchen,Furniture,1,468.84,0.0,468.84,72.91,Uttar Pradesh,Varanasi,Debit Card,2024,7,Jul,3,Q3,28,5,Sat,2024-07,1
+RP-009731,2022-12-06,P-22991,Decathlon Smart Gym Equipment,Sports & Fitness,Gym Equipment,2,5904.85,0.1,10628.73,2475.35,Kerala,Kochi,Credit Card,2022,12,Dec,4,Q4,49,1,Tue,2022-12,0
+RP-007827,2024-06-17,P-52075,Biba Deluxe Footwear,Clothing,Footwear,2,1212.32,0.15,2060.94,428.44,Delhi,Noida,Debit Card,2024,6,Jun,2,Q2,25,0,Mon,2024-06,0
+RP-004518,2022-12-06,P-19695,Boat Lite Mobile Phones,Electronics,Mobile Phones,3,10167.15,0.05,28976.38,3013.53,Uttar Pradesh,Kanpur,UPI,2022,12,Dec,4,Q4,49,1,Tue,2022-12,0
+RP-004061,2024-12-07,P-19695,Boat Lite Mobile Phones,Electronics,Mobile Phones,1,76936.85,0.05,73090.01,3945.23,Kerala,Kozhikode,Credit Card,2024,12,Dec,4,Q4,49,5,Sat,2024-12,1
+RP-004555,2022-11-02,P-39734,Nivia Classic Nutrition,Sports & Fitness,Nutrition,1,311.27,0.05,295.71,65.73,Telangana,Karimnagar,EMI,2022,11,Nov,4,Q4,44,2,Wed,2022-11,0
+RP-002689,2022-11-05,P-59838,Realme Lite Tablets,Electronics,Tablets,1,78278.42,0.15,66536.66,5143.15,Karnataka,Hubli,Cash on Delivery,2022,11,Nov,4,Q4,44,5,Sat,2022-11,1
+RP-008306,2022-06-12,P-47753,Himalaya Smart Haircare,Beauty & Personal Care,Haircare,1,1080.91,0.25,810.68,379.24,Uttar Pradesh,Agra,Credit Card,2022,6,Jun,2,Q2,23,6,Sun,2022-06,1
+RP-003775,2024-06-20,P-20360,Patanjali Smart Dairy,Grocery & Food,Dairy,1,527.1,0.05,500.74,58.52,Gujarat,Vadodara,Credit Card,2024,6,Jun,2,Q2,25,3,Thu,2024-06,0
+RP-002378,2023-11-15,P-39971,Patanjali Smart Beverages,Grocery & Food,Beverages,1,834.47,0.1,751.02,127.95,West Bengal,Durgapur,Debit Card,2023,11,Nov,4,Q4,46,2,Wed,2023-11,0
+RP-009617,2022-01-15,P-31436,MTR Smart Dairy,Grocery & Food,Dairy,1,50.8,0.15,43.18,5.44,Madhya Pradesh,Jabalpur,Net Banking,2022,1,Jan,1,Q1,2,5,Sat,2022-01,1
+RP-007339,2022-06-29,P-34838,Nivia Premium Footwear,Sports & Fitness,Footwear,3,298.31,0.1,805.44,206.99,Tamil Nadu,Coimbatore,UPI,2022,6,Jun,2,Q2,26,2,Wed,2022-06,0
+RP-005998,2024-07-21,P-37816,Manyavar Smart Accessories,Clothing,Accessories,1,1612.44,0.3,1128.71,442.51,Maharashtra,Mumbai,Credit Card,2024,7,Jul,3,Q3,29,6,Sun,2024-07,1
+RP-006603,2022-11-17,P-40279,Noise Deluxe Audio,Electronics,Audio,1,28248.79,0.25,21186.59,2606.54,Telangana,Karimnagar,Credit Card,2022,11,Nov,4,Q4,46,3,Thu,2022-11,0
+RP-001066,2024-12-14,P-57359,United Colors Premium Kids' Wear,Clothing,Kids' Wear,2,4453.6,0.25,6680.4,2355.85,Gujarat,Surat,UPI,2024,12,Dec,4,Q4,50,5,Sat,2024-12,1
+RP-006832,2023-11-26,P-16213,Cosco Classic Nutrition,Sports & Fitness,Nutrition,2,8203.96,0.2,13126.34,3479.85,Tamil Nadu,Coimbatore,EMI,2023,11,Nov,4,Q4,47,6,Sun,2023-11,1
+RP-001055,2022-11-25,P-57359,United Colors Premium Kids' Wear,Clothing,Kids' Wear,3,469.35,0.3,985.64,417.7,Uttar Pradesh,Agra,EMI,2022,11,Nov,4,Q4,47,4,Fri,2022-11,0
+RP-007653,2023-09-15,P-24672,OnePlus Deluxe Laptops,Electronics,Laptops,1,1264.51,0.0,1264.51,151.45,Rajasthan,Jodhpur,EMI,2023,9,Sep,3,Q3,37,4,Fri,2023-09,0
+RP-006425,2022-04-21,P-26763,Mamaearth Deluxe Haircare,Beauty & Personal Care,Haircare,1,150.67,0.2,120.54,55.99,Karnataka,Mysuru,EMI,2022,4,Apr,2,Q2,16,3,Thu,2022-04,0
+RP-005420,2023-01-28,P-17478,Samsung Standard Accessories,Electronics,Accessories,1,16229.72,0.1,14606.75,1786.77,Telangana,Warangal,Debit Card,2023,1,Jan,1,Q1,4,5,Sat,2023-01,1
+RP-004687,2022-11-26,P-49888,Biba Essential Women's Wear,Clothing,Women'S Wear,4,1136.55,0.25,3409.65,975.47,Punjab,Ludhiana,UPI,2022,11,Nov,4,Q4,47,5,Sat,2022-11,1
+RP-008511,2022-11-28,P-44269,Rupa Deluxe Children,Books,Children,1,801.52,0.15,681.29,93.16,Madhya Pradesh,Bhopal,EMI,2022,11,Nov,4,Q4,48,0,Mon,2022-11,0
+RP-004268,2024-07-20,P-50949,Patanjali Smart Staples,Grocery & Food,Staples,4,68.95,0.15,234.43,34.58,Gujarat,Vadodara,Credit Card,2024,7,Jul,3,Q3,29,5,Sat,2024-07,1
+RP-006746,2022-05-15,P-36831,Orient Pro Children,Books,Children,2,1363.07,0.2,2180.91,382.73,Gujarat,Vadodara,Net Banking,2022,5,May,2,Q2,19,6,Sun,2022-05,1
+RP-000078,2023-12-28,P-57852,Samsung Deluxe Laptops,Electronics,Laptops,3,3363.47,0.2,8072.33,492.54,Maharashtra,Nashik,Debit Card,2023,12,Dec,4,Q4,52,3,Thu,2023-12,0
+RP-002918,2024-09-06,P-48802,Haldiram's Deluxe Beverages,Grocery & Food,Beverages,1,649.89,0.0,649.89,81.19,Delhi,Noida,Cash on Delivery,2024,9,Sep,3,Q3,36,4,Fri,2024-09,0
+RP-005840,2022-09-18,P-32680,Nivia Lite Gym Equipment,Sports & Fitness,Gym Equipment,1,909.73,0.2,727.78,185.5,Uttar Pradesh,Agra,EMI,2022,9,Sep,3,Q3,37,6,Sun,2022-09,1
+RP-005676,2024-10-23,P-13939,Samsung Classic Audio,Electronics,Audio,1,13216.27,0.05,12555.46,1609.54,Punjab,Ludhiana,Credit Card,2024,10,Oct,4,Q4,43,2,Wed,2024-10,0
+RP-007420,2022-05-12,P-23554,Disha Pro Children,Books,Children,1,1012.22,0.05,961.61,227.35,Kerala,Kozhikode,Credit Card,2022,5,May,2,Q2,19,3,Thu,2022-05,0
+RP-000979,2023-09-18,P-41902,Penguin Classic Comics,Books,Comics,1,230.54,0.1,207.49,23.25,Punjab,Ludhiana,Credit Card,2023,9,Sep,3,Q3,38,0,Mon,2023-09,0
+RP-007117,2023-03-11,P-31150,Havells Deluxe Furniture,Home & Kitchen,Furniture,2,9402.78,0.25,14104.17,4430.15,West Bengal,Kolkata,EMI,2023,3,Mar,1,Q1,10,5,Sat,2023-03,1
+RP-008388,2023-11-02,P-17000,Levi's Classic Kids' Wear,Clothing,Kids' Wear,2,1002.97,0.2,1604.75,601.25,Karnataka,Bengaluru,EMI,2023,11,Nov,4,Q4,44,3,Thu,2023-11,0
+RP-008221,2022-12-15,P-18980,Decathlon Pro Footwear,Sports & Fitness,Footwear,1,9165.2,0.2,7332.16,1123.36,Kerala,Kozhikode,UPI,2022,12,Dec,4,Q4,50,3,Thu,2022-12,0
+RP-009222,2022-12-27,P-58316,Mi Essential Mobile Phones,Electronics,Mobile Phones,1,26498.12,0.15,22523.4,3131.34,Maharashtra,Pune,Net Banking,2022,12,Dec,4,Q4,52,1,Tue,2022-12,0
+RP-008111,2022-12-04,P-46118,Himalaya Standard Haircare,Beauty & Personal Care,Haircare,1,164.97,0.05,156.72,59.92,Tamil Nadu,Chennai,Net Banking,2022,12,Dec,4,Q4,48,6,Sun,2022-12,1
+RP-002310,2024-10-18,P-46673,Levi's Standard Men's Wear,Clothing,Men'S Wear,3,414.24,0.2,994.18,206.85,Punjab,Chandigarh,UPI,2024,10,Oct,4,Q4,42,4,Fri,2024-10,0
+RP-006806,2024-05-25,P-31928,MTR Standard Organic,Grocery & Food,Organic,2,576.44,0.15,979.95,115.22,Kerala,Kochi,UPI,2024,5,May,2,Q2,21,5,Sat,2024-05,1
+RP-000641,2024-04-10,P-51124,Speedo Smart Sportswear,Sports & Fitness,Sportswear,1,648.12,0.1,583.31,124.47,Gujarat,Vadodara,EMI,2024,4,Apr,2,Q2,15,2,Wed,2024-04,0
+RP-006477,2024-06-17,P-31528,Britannia Classic Organic,Grocery & Food,Organic,2,245.32,0.1,441.58,70.89,Punjab,Ludhiana,UPI,2024,6,Jun,2,Q2,25,0,Mon,2024-06,0
+RP-003202,2024-11-06,P-54611,Mi Classic Accessories,Electronics,Accessories,3,1284.48,0.2,3082.75,277.2,Kerala,Thiruvananthapuram,Credit Card,2024,11,Nov,4,Q4,45,2,Wed,2024-11,0
+RP-001252,2022-05-26,P-16060,Lakme Lite Skincare,Beauty & Personal Care,Skincare,2,1050.58,0.25,1575.87,679.14,Rajasthan,Jaipur,EMI,2022,5,May,2,Q2,21,3,Thu,2022-05,0
+RP-000731,2022-12-16,P-28973,Godrej Standard Bedding,Home & Kitchen,Bedding,2,3276.11,0.05,6224.61,1281.76,Delhi,Gurgaon,Debit Card,2022,12,Dec,4,Q4,50,4,Fri,2022-12,0
+RP-002546,2023-03-02,P-54934,Himalaya Pro Makeup,Beauty & Personal Care,Makeup,1,171.54,0.15,145.81,69.74,Karnataka,Hubli,Net Banking,2023,3,Mar,1,Q1,9,3,Thu,2023-03,0
+RP-009551,2024-11-03,P-26922,Forest Essentials Lite Fragrances,Beauty & Personal Care,Fragrances,1,779.84,0.25,584.88,275.65,Maharashtra,Mumbai,UPI,2024,11,Nov,4,Q4,44,6,Sun,2024-11,1
+RP-008845,2024-06-01,P-56532,United Colors Essential Men's Wear,Clothing,Men'S Wear,2,1128.49,0.2,1805.58,574.13,West Bengal,Howrah,EMI,2024,6,Jun,2,Q2,22,5,Sat,2024-06,1
+RP-005348,2024-04-23,P-14545,Havells Premium Appliances,Home & Kitchen,Appliances,3,20261.93,0.15,51667.92,11862.22,Telangana,Karimnagar,UPI,2024,4,Apr,2,Q2,17,1,Tue,2024-04,0
+RP-004050,2024-03-12,P-10603,Realme Premium Tablets,Electronics,Tablets,1,9306.93,0.2,7445.54,864.44,Kerala,Kozhikode,Cash on Delivery,2024,3,Mar,1,Q1,11,1,Tue,2024-03,0
+RP-008665,2022-04-15,P-49742,United Colors Smart Men's Wear,Clothing,Men'S Wear,2,588.05,0.4,705.66,197.68,Kerala,Kochi,Debit Card,2022,4,Apr,2,Q2,15,4,Fri,2022-04,0
+RP-004114,2023-08-13,P-57234,Manyavar Premium Accessories,Clothing,Accessories,3,7203.99,0.3,15128.38,6540.44,Uttar Pradesh,Varanasi,Net Banking,2023,8,Aug,3,Q3,32,6,Sun,2023-08,1
+RP-007450,2023-07-30,P-50806,United Colors Standard Men's Wear,Clothing,Men'S Wear,1,2784.22,0.2,2227.38,820.86,Karnataka,Hubli,UPI,2023,7,Jul,3,Q3,30,6,Sun,2023-07,1
+RP-000327,2024-07-06,P-31572,Biba Lite Kids' Wear,Clothing,Kids' Wear,1,756.98,0.3,529.89,112.6,Rajasthan,Jaipur,UPI,2024,7,Jul,3,Q3,27,5,Sat,2024-07,1
+RP-001017,2024-01-17,P-47256,Butterfly Standard Cookware,Home & Kitchen,Cookware,1,7941.11,0.1,7147.0,2249.06,Uttar Pradesh,Agra,Cash on Delivery,2024,1,Jan,1,Q1,3,2,Wed,2024-01,0
+RP-008198,2022-10-03,P-35002,Realme Premium Audio,Electronics,Audio,1,946.74,0.2,757.39,44.7,Tamil Nadu,Coimbatore,Debit Card,2022,10,Oct,4,Q4,40,0,Mon,2022-10,0
+RP-004351,2022-09-01,P-24219,Mi Lite Tablets,Electronics,Tablets,1,52966.22,0.1,47669.6,3414.36,Gujarat,Surat,Credit Card,2022,9,Sep,3,Q3,35,3,Thu,2022-09,0
+RP-000403,2024-06-05,P-23871,Nilkamal Classic Appliances,Home & Kitchen,Appliances,1,670.33,0.2,536.26,133.22,West Bengal,Kolkata,Credit Card,2024,6,Jun,2,Q2,23,2,Wed,2024-06,0
+RP-004444,2024-10-29,P-17951,OnePlus Essential Accessories,Electronics,Accessories,1,31319.98,0.1,28187.98,2807.96,Maharashtra,Pune,Credit Card,2024,10,Oct,4,Q4,44,1,Tue,2024-10,0
+RP-008536,2022-10-17,P-49526,Boat Standard Accessories,Electronics,Accessories,1,1393.14,0.2,1114.51,140.94,Delhi,New Delhi,Debit Card,2022,10,Oct,4,Q4,42,0,Mon,2022-10,0
+RP-009695,2023-10-07,P-55969,Mamaearth Smart Haircare,Beauty & Personal Care,Haircare,1,1027.95,0.3,719.56,237.98,Madhya Pradesh,Indore,Cash on Delivery,2023,10,Oct,4,Q4,40,5,Sat,2023-10,1
+RP-001051,2024-01-03,P-38580,Mi Standard Audio,Electronics,Audio,1,1093.16,0.2,874.53,87.57,Karnataka,Hubli,Cash on Delivery,2024,1,Jan,1,Q1,1,2,Wed,2024-01,0
+RP-002662,2023-03-29,P-10143,United Colors Smart Footwear,Clothing,Footwear,1,1668.54,0.1,1501.69,487.8,Tamil Nadu,Madurai,UPI,2023,3,Mar,1,Q1,13,2,Wed,2023-03,0
+RP-002217,2022-06-04,P-54838,Prestige Pro Decor,Home & Kitchen,Decor,1,12228.63,0.05,11617.2,1835.93,Punjab,Ludhiana,EMI,2022,6,Jun,2,Q2,22,5,Sat,2022-06,1
+RP-004786,2024-09-21,P-36377,Havells Lite Furniture,Home & Kitchen,Furniture,3,3339.58,0.15,8515.93,2580.78,Delhi,Noida,Cash on Delivery,2024,9,Sep,3,Q3,38,5,Sat,2024-09,1
+RP-002878,2023-04-04,P-26417,Mi Pro Mobile Phones,Electronics,Mobile Phones,2,2662.46,0.1,4792.43,241.53,Kerala,Kozhikode,Credit Card,2023,4,Apr,2,Q2,14,1,Tue,2023-04,0
+RP-000117,2024-05-06,P-40420,Funskool Essential Board Games,Toys & Games,Board Games,6,1179.82,0.25,5309.19,2042.51,Delhi,Noida,Cash on Delivery,2024,5,May,2,Q2,19,0,Mon,2024-05,0
+RP-003435,2022-04-15,P-18864,ITC Lite Snacks,Grocery & Food,Snacks,1,129.22,0.15,109.84,12.49,West Bengal,Howrah,EMI,2022,4,Apr,2,Q2,15,4,Fri,2022-04,0
+RP-009633,2022-10-18,P-12123,Nilkamal Smart Bedding,Home & Kitchen,Bedding,4,743.37,0.15,2527.46,628.89,Kerala,Thiruvananthapuram,Debit Card,2022,10,Oct,4,Q4,42,1,Tue,2022-10,0
+RP-008869,2023-04-07,P-16419,Boat Deluxe Audio,Electronics,Audio,1,33375.01,0.15,28368.76,3791.42,Kerala,Thiruvananthapuram,Net Banking,2023,4,Apr,2,Q2,14,4,Fri,2023-04,0
+RP-006666,2024-03-10,P-39103,OnePlus Deluxe Accessories,Electronics,Accessories,2,854.46,0.05,1623.47,82.27,Maharashtra,Pune,Credit Card,2024,3,Mar,1,Q1,10,6,Sun,2024-03,1
+RP-003880,2023-04-28,P-30795,Manyavar Smart Footwear,Clothing,Footwear,2,729.92,0.4,875.9,217.35,Karnataka,Bengaluru,Credit Card,2023,4,Apr,2,Q2,17,4,Fri,2023-04,0
+RP-007584,2024-06-18,P-26998,Manyavar Classic Kids' Wear,Clothing,Kids' Wear,3,4713.98,0.15,12020.65,4202.12,Delhi,New Delhi,Cash on Delivery,2024,6,Jun,2,Q2,25,1,Tue,2024-06,0
+RP-007414,2023-11-10,P-22918,Manyavar Essential Men's Wear,Clothing,Men'S Wear,2,587.19,0.05,1115.66,409.38,Kerala,Kozhikode,Credit Card,2023,11,Nov,4,Q4,45,4,Fri,2023-11,0
+RP-005413,2022-12-30,P-16835,Mamaearth Standard Fragrances,Beauty & Personal Care,Fragrances,1,3264.44,0.15,2774.77,777.36,Gujarat,Ahmedabad,EMI,2022,12,Dec,4,Q4,52,4,Fri,2022-12,0
+RP-000977,2023-06-29,P-42468,Prestige Essential Decor,Home & Kitchen,Decor,1,1105.1,0.1,994.59,322.73,Maharashtra,Pune,Debit Card,2023,6,Jun,2,Q2,26,3,Thu,2023-06,0
+RP-005304,2023-01-04,P-59581,Levi's Essential Men's Wear,Clothing,Men'S Wear,3,234.03,0.35,456.36,182.37,Rajasthan,Jaipur,Credit Card,2023,1,Jan,1,Q1,1,2,Wed,2023-01,0
+RP-004277,2023-04-09,P-35984,Yonex Lite Footwear,Sports & Fitness,Footwear,4,839.24,0.2,2685.57,410.02,Delhi,Noida,Net Banking,2023,4,Apr,2,Q2,14,6,Sun,2023-04,1
+RP-005739,2024-10-31,P-25813,OnePlus Standard Audio,Electronics,Audio,2,7839.42,0.25,11759.13,1544.0,Telangana,Karimnagar,Credit Card,2024,10,Oct,4,Q4,44,3,Thu,2024-10,0
+RP-002099,2022-06-18,P-56402,ITC Lite Staples,Grocery & Food,Staples,2,130.97,0.1,235.75,43.57,Delhi,Gurgaon,Credit Card,2022,6,Jun,2,Q2,24,5,Sat,2022-06,1
+RP-006702,2023-11-30,P-23869,OnePlus Pro Audio,Electronics,Audio,2,612.85,0.15,1041.84,110.51,Punjab,Chandigarh,Credit Card,2023,11,Nov,4,Q4,48,3,Thu,2023-11,0
+RP-004431,2022-12-13,P-44987,United Colors Premium Accessories,Clothing,Accessories,2,648.88,0.1,1167.98,273.01,Kerala,Thiruvananthapuram,Debit Card,2022,12,Dec,4,Q4,50,1,Tue,2022-12,0
+RP-002476,2022-03-12,P-27813,Cosco Pro Outdoor,Sports & Fitness,Outdoor,1,2634.7,0.1,2371.23,802.86,Karnataka,Mysuru,Credit Card,2022,3,Mar,1,Q1,10,5,Sat,2022-03,1
+RP-002740,2023-10-27,P-20072,Himalaya Standard Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,2366.38,0.25,1774.78,759.64,Gujarat,Surat,Net Banking,2023,10,Oct,4,Q4,43,4,Fri,2023-10,0
+RP-002943,2024-07-20,P-15816,Cosco Essential Gym Equipment,Sports & Fitness,Gym Equipment,4,2601.15,0.05,9884.37,3401.26,West Bengal,Durgapur,Cash on Delivery,2024,7,Jul,3,Q3,29,5,Sat,2024-07,1
+RP-000937,2024-11-19,P-11183,Mamaearth Pro Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,194.72,0.2,155.78,69.42,Telangana,Karimnagar,EMI,2024,11,Nov,4,Q4,47,1,Tue,2024-11,0
+RP-008077,2022-01-13,P-42468,Prestige Essential Decor,Home & Kitchen,Decor,1,827.76,0.15,703.6,242.34,Telangana,Hyderabad,Credit Card,2022,1,Jan,1,Q1,2,3,Thu,2022-01,0
+RP-009783,2023-12-28,P-36256,Levi's Deluxe Footwear,Clothing,Footwear,2,841.9,0.1,1515.42,334.22,West Bengal,Kolkata,Cash on Delivery,2023,12,Dec,4,Q4,52,3,Thu,2023-12,0
+RP-002360,2022-07-23,P-22587,Hasbro Smart Puzzles,Toys & Games,Puzzles,1,1685.25,0.2,1348.2,280.08,West Bengal,Howrah,Net Banking,2022,7,Jul,3,Q3,29,5,Sat,2022-07,1
+RP-006386,2024-10-01,P-18219,United Colors Smart Accessories,Clothing,Accessories,1,634.29,0.15,539.15,238.35,Maharashtra,Nashik,Cash on Delivery,2024,10,Oct,4,Q4,40,1,Tue,2024-10,0
+RP-006496,2022-01-17,P-18043,United Colors Standard Accessories,Clothing,Accessories,4,443.14,0.15,1506.68,614.92,Punjab,Ludhiana,Credit Card,2022,1,Jan,1,Q1,3,0,Mon,2022-01,0
+RP-004864,2024-05-27,P-59353,Mi Essential Accessories,Electronics,Accessories,2,9644.98,0.1,17360.96,2435.53,Karnataka,Mysuru,Debit Card,2024,5,May,2,Q2,22,0,Mon,2024-05,0
+RP-000492,2023-12-18,P-48876,Butterfly Smart Furniture,Home & Kitchen,Furniture,1,3824.34,0.1,3441.91,1191.87,West Bengal,Kolkata,Credit Card,2023,12,Dec,4,Q4,51,0,Mon,2023-12,0
+RP-005156,2022-01-05,P-39184,Himalaya Smart Fragrances,Beauty & Personal Care,Fragrances,1,2076.72,0.25,1557.54,401.79,Tamil Nadu,Madurai,UPI,2022,1,Jan,1,Q1,1,2,Wed,2022-01,0
+RP-002727,2024-06-09,P-29466,Haldiram's Deluxe Dairy,Grocery & Food,Dairy,2,55.57,0.15,94.47,15.64,Delhi,New Delhi,Debit Card,2024,6,Jun,2,Q2,23,6,Sun,2024-06,1
+RP-000649,2024-01-16,P-12196,Biba Premium Kids' Wear,Clothing,Kids' Wear,2,628.52,0.15,1068.48,345.27,Telangana,Hyderabad,Debit Card,2024,1,Jan,1,Q1,3,1,Tue,2024-01,0
+RP-007456,2023-09-26,P-28624,Lego Pro Outdoor Toys,Toys & Games,Outdoor Toys,4,192.11,0.15,653.17,142.35,Uttar Pradesh,Lucknow,Debit Card,2023,9,Sep,3,Q3,39,1,Tue,2023-09,0
+RP-006609,2022-05-28,P-57920,Realme Smart Accessories,Electronics,Accessories,1,22431.31,0.0,22431.31,2000.7,Rajasthan,Jaipur,Credit Card,2022,5,May,2,Q2,21,5,Sat,2022-05,1
+RP-001803,2022-07-03,P-36060,Biotique Deluxe Skincare,Beauty & Personal Care,Skincare,1,447.2,0.25,335.4,134.07,Tamil Nadu,Chennai,Debit Card,2022,7,Jul,3,Q3,26,6,Sun,2022-07,1
+RP-002674,2023-07-08,P-11652,Speedo Essential Footwear,Sports & Fitness,Footwear,5,11344.76,0.15,48215.23,8522.18,West Bengal,Howrah,Credit Card,2023,7,Jul,3,Q3,27,5,Sat,2023-07,1
+RP-003440,2023-11-11,P-18315,OnePlus Standard Mobile Phones,Electronics,Mobile Phones,2,550.85,0.2,881.36,88.87,Telangana,Karimnagar,Debit Card,2023,11,Nov,4,Q4,45,5,Sat,2023-11,1
+RP-001919,2023-11-13,P-13850,Funskool Pro Puzzles,Toys & Games,Puzzles,1,1297.54,0.05,1232.66,320.07,Madhya Pradesh,Bhopal,Net Banking,2023,11,Nov,4,Q4,46,0,Mon,2023-11,0
+RP-006250,2023-03-06,P-46118,Himalaya Standard Haircare,Beauty & Personal Care,Haircare,1,4273.22,0.25,3204.92,1299.06,Gujarat,Ahmedabad,Net Banking,2023,3,Mar,1,Q1,10,0,Mon,2023-03,0
+RP-004385,2024-08-22,P-59511,Noise Lite Laptops,Electronics,Laptops,1,7765.15,0.2,6212.12,423.56,Punjab,Amritsar,Debit Card,2024,8,Aug,3,Q3,34,3,Thu,2024-08,0
+RP-009544,2023-09-10,P-43535,S Chand Deluxe Non-Fiction,Books,Non-Fiction,1,188.72,0.05,179.28,32.19,Karnataka,Mysuru,UPI,2023,9,Sep,3,Q3,36,6,Sun,2023-09,1
+RP-002927,2024-01-25,P-17769,Cosco Essential Outdoor,Sports & Fitness,Outdoor,1,1537.6,0.2,1230.08,376.57,Kerala,Kochi,Debit Card,2024,1,Jan,1,Q1,4,3,Thu,2024-01,0
+RP-001823,2023-09-15,P-53918,Biotique Deluxe Makeup,Beauty & Personal Care,Makeup,1,1131.02,0.25,848.26,394.66,Madhya Pradesh,Indore,Credit Card,2023,9,Sep,3,Q3,37,4,Fri,2023-09,0
+RP-006623,2022-01-04,P-59976,Yonex Lite Gym Equipment,Sports & Fitness,Gym Equipment,1,1148.67,0.2,918.94,286.19,Karnataka,Hubli,Credit Card,2022,1,Jan,1,Q1,1,1,Tue,2022-01,0
+RP-003484,2023-10-17,P-44524,Noise Premium Accessories,Electronics,Accessories,1,902.29,0.15,766.95,77.31,Karnataka,Mysuru,EMI,2023,10,Oct,4,Q4,42,1,Tue,2023-10,0
+RP-006677,2023-05-20,P-25903,Mamaearth Essential Makeup,Beauty & Personal Care,Makeup,1,920.16,0.2,736.13,355.88,Delhi,New Delhi,EMI,2023,5,May,2,Q2,20,5,Sat,2023-05,1
+RP-007636,2022-01-04,P-24933,Decathlon Lite Footwear,Sports & Fitness,Footwear,1,4687.57,0.2,3750.06,878.08,Delhi,Noida,Cash on Delivery,2022,1,Jan,1,Q1,1,1,Tue,2022-01,0
+RP-007625,2023-04-26,P-23204,Lego Lite Puzzles,Toys & Games,Puzzles,1,532.82,0.05,506.18,142.65,Delhi,New Delhi,Credit Card,2023,4,Apr,2,Q2,17,2,Wed,2023-04,0
+RP-005168,2024-04-20,P-55458,Speedo Deluxe Nutrition,Sports & Fitness,Nutrition,1,218.19,0.2,174.55,31.53,Tamil Nadu,Coimbatore,Credit Card,2024,4,Apr,2,Q2,16,5,Sat,2024-04,1
+RP-001908,2022-04-09,P-19293,Lakme Essential Makeup,Beauty & Personal Care,Makeup,1,2420.08,0.25,1815.06,741.52,Tamil Nadu,Madurai,EMI,2022,4,Apr,2,Q2,14,5,Sat,2022-04,1
+RP-002443,2022-09-23,P-39147,Prestige Lite Bedding,Home & Kitchen,Bedding,2,774.38,0.15,1316.45,311.46,Karnataka,Bengaluru,EMI,2022,9,Sep,3,Q3,38,4,Fri,2022-09,0
+RP-009893,2022-01-15,P-13474,ITC Standard Staples,Grocery & Food,Staples,3,79.52,0.1,214.7,40.84,Gujarat,Vadodara,Cash on Delivery,2022,1,Jan,1,Q1,2,5,Sat,2022-01,1
+RP-008266,2024-12-05,P-37147,Lakme Premium Fragrances,Beauty & Personal Care,Fragrances,1,2475.49,0.25,1856.62,745.05,Rajasthan,Jaipur,Debit Card,2024,12,Dec,4,Q4,49,3,Thu,2024-12,0
+RP-008791,2024-10-08,P-53411,Butterfly Classic Bedding,Home & Kitchen,Bedding,1,1764.38,0.15,1499.72,340.42,Tamil Nadu,Madurai,UPI,2024,10,Oct,4,Q4,41,1,Tue,2024-10,0
+RP-007164,2024-06-28,P-58316,Mi Essential Mobile Phones,Electronics,Mobile Phones,2,1212.39,0.2,1939.82,282.93,Punjab,Amritsar,UPI,2024,6,Jun,2,Q2,26,4,Fri,2024-06,0
+RP-001976,2022-10-09,P-59453,Biba Classic Men's Wear,Clothing,Men'S Wear,2,2478.59,0.05,4709.32,2076.32,Uttar Pradesh,Varanasi,Debit Card,2022,10,Oct,4,Q4,40,6,Sun,2022-10,1
+RP-005563,2022-05-18,P-33557,Decathlon Smart Outdoor,Sports & Fitness,Outdoor,4,2013.44,0.2,6443.01,1813.16,Kerala,Kozhikode,Credit Card,2022,5,May,2,Q2,20,2,Wed,2022-05,0
+RP-009451,2024-11-19,P-22165,Lakme Pro Men's Grooming,Beauty & Personal Care,Men'S Grooming,2,233.88,0.2,374.21,127.39,Uttar Pradesh,Varanasi,UPI,2024,11,Nov,4,Q4,47,1,Tue,2024-11,0
+RP-006630,2024-02-17,P-48211,Realme Smart Audio,Electronics,Audio,1,55800.68,0.2,44640.54,4657.79,West Bengal,Howrah,Cash on Delivery,2024,2,Feb,1,Q1,7,5,Sat,2024-02,1
+RP-009654,2024-01-10,P-36909,Patanjali Premium Organic,Grocery & Food,Organic,1,499.06,0.15,424.2,39.58,Punjab,Amritsar,UPI,2024,1,Jan,1,Q1,2,2,Wed,2024-01,0
+RP-006679,2022-02-20,P-51941,MTR Pro Beverages,Grocery & Food,Beverages,4,918.45,0.05,3490.11,410.54,Maharashtra,Nashik,UPI,2022,2,Feb,1,Q1,7,6,Sun,2022-02,1
+RP-004147,2022-02-13,P-10715,Levi's Standard Women's Wear,Clothing,Women'S Wear,1,231.13,0.25,173.35,72.61,Rajasthan,Jaipur,UPI,2022,2,Feb,1,Q1,6,6,Sun,2022-02,1
+RP-003868,2022-11-07,P-52562,ITC Standard Snacks,Grocery & Food,Snacks,3,351.88,0.1,950.08,117.85,Maharashtra,Mumbai,UPI,2022,11,Nov,4,Q4,45,0,Mon,2022-11,0
+RP-000182,2024-10-14,P-29590,Cosco Standard Footwear,Sports & Fitness,Footwear,1,678.14,0.25,508.6,161.78,Punjab,Amritsar,Credit Card,2024,10,Oct,4,Q4,42,0,Mon,2024-10,0
+RP-009691,2023-06-05,P-59559,Nivia Essential Nutrition,Sports & Fitness,Nutrition,1,257.58,0.2,206.06,51.64,Maharashtra,Nashik,UPI,2023,6,Jun,2,Q2,23,0,Mon,2023-06,0
+RP-000393,2023-11-05,P-42132,S Chand Lite Children,Books,Children,1,333.35,0.05,316.68,41.68,West Bengal,Durgapur,EMI,2023,11,Nov,4,Q4,44,6,Sun,2023-11,1
+RP-000019,2024-08-05,P-24543,Manyavar Classic Men's Wear,Clothing,Men'S Wear,1,232.42,0.2,185.94,68.91,West Bengal,Durgapur,Cash on Delivery,2024,8,Aug,3,Q3,32,0,Mon,2024-08,0
+RP-004672,2022-12-11,P-12369,OnePlus Classic Laptops,Electronics,Laptops,3,715.54,0.2,1717.3,222.3,Rajasthan,Udaipur,Cash on Delivery,2022,12,Dec,4,Q4,49,6,Sun,2022-12,1
+RP-006240,2023-10-20,P-19464,Funskool Deluxe Educational,Toys & Games,Educational,2,1212.65,0.2,1940.24,628.9,Tamil Nadu,Madurai,Debit Card,2023,10,Oct,4,Q4,42,4,Fri,2023-10,0
+RP-007475,2023-03-17,P-11708,Prestige Smart Appliances,Home & Kitchen,Appliances,1,332.36,0.15,282.51,65.0,Kerala,Kozhikode,UPI,2023,3,Mar,1,Q1,11,4,Fri,2023-03,0
+RP-004819,2023-09-29,P-32494,Penguin Standard Fiction,Books,Fiction,2,193.92,0.05,368.45,82.13,Tamil Nadu,Coimbatore,Credit Card,2023,9,Sep,3,Q3,39,4,Fri,2023-09,0
+RP-004175,2024-06-15,P-24543,Manyavar Classic Men's Wear,Clothing,Men'S Wear,1,7252.08,0.35,4713.85,2049.55,Rajasthan,Udaipur,Cash on Delivery,2024,6,Jun,2,Q2,24,5,Sat,2024-06,1
+RP-002987,2022-03-25,P-33287,ITC Essential Dairy,Grocery & Food,Dairy,3,1440.48,0.15,3673.22,470.17,Telangana,Hyderabad,Debit Card,2022,3,Mar,1,Q1,12,4,Fri,2022-03,0
+RP-005080,2024-03-12,P-19350,Noise Premium Mobile Phones,Electronics,Mobile Phones,5,24381.24,0.2,97524.96,13827.09,Maharashtra,Pune,Debit Card,2024,3,Mar,1,Q1,11,1,Tue,2024-03,0
+RP-009209,2022-10-30,P-10294,Manyavar Lite Kids' Wear,Clothing,Kids' Wear,2,916.98,0.4,1100.38,479.67,West Bengal,Kolkata,UPI,2022,10,Oct,4,Q4,43,6,Sun,2022-10,1
+RP-004551,2022-04-07,P-11722,Biba Standard Accessories,Clothing,Accessories,1,574.4,0.1,516.96,111.03,Punjab,Ludhiana,Cash on Delivery,2022,4,Apr,2,Q2,14,3,Thu,2022-04,0
+RP-002753,2024-08-17,P-11796,Orient Classic Comics,Books,Comics,2,257.41,0.1,463.34,82.97,Uttar Pradesh,Kanpur,Net Banking,2024,8,Aug,3,Q3,33,5,Sat,2024-08,1
+RP-006550,2022-11-23,P-34905,Nilkamal Standard Decor,Home & Kitchen,Decor,1,8392.67,0.1,7553.4,2503.29,Telangana,Hyderabad,Debit Card,2022,11,Nov,4,Q4,47,2,Wed,2022-11,0
+RP-003851,2023-05-05,P-32127,Nilkamal Pro Decor,Home & Kitchen,Decor,3,8208.5,0.1,22162.95,4036.92,Gujarat,Vadodara,Debit Card,2023,5,May,2,Q2,18,4,Fri,2023-05,0
+RP-006812,2022-11-27,P-41281,Lego Essential Action Figures,Toys & Games,Action Figures,1,1946.3,0.15,1654.36,415.42,Tamil Nadu,Chennai,Debit Card,2022,11,Nov,4,Q4,47,6,Sun,2022-11,1
+RP-006594,2024-07-05,P-50282,United Colors Lite Men's Wear,Clothing,Men'S Wear,4,336.19,0.4,806.86,361.67,West Bengal,Kolkata,Credit Card,2024,7,Jul,3,Q3,27,4,Fri,2024-07,0
+RP-008777,2023-06-06,P-51205,Samsung Pro Accessories,Electronics,Accessories,2,4362.77,0.1,7852.99,570.66,Madhya Pradesh,Jabalpur,UPI,2023,6,Jun,2,Q2,23,1,Tue,2023-06,0
+RP-001415,2022-06-22,P-27708,Itsy Bitsy Lite Educational,Toys & Games,Educational,2,1354.66,0.1,2438.39,645.52,Madhya Pradesh,Bhopal,Net Banking,2022,6,Jun,2,Q2,25,2,Wed,2022-06,0
+RP-009340,2022-12-16,P-44764,Forest Essentials Premium Makeup,Beauty & Personal Care,Makeup,1,845.35,0.2,676.28,182.84,Delhi,New Delhi,EMI,2022,12,Dec,4,Q4,50,4,Fri,2022-12,0
+RP-005719,2022-05-15,P-46219,Havells Standard Cookware,Home & Kitchen,Cookware,1,9550.12,0.2,7640.1,1759.53,Karnataka,Hubli,Credit Card,2022,5,May,2,Q2,19,6,Sun,2022-05,1
+RP-009848,2023-03-20,P-28334,Decathlon Deluxe Nutrition,Sports & Fitness,Nutrition,1,1121.73,0.1,1009.56,191.6,Punjab,Ludhiana,EMI,2023,3,Mar,1,Q1,12,0,Mon,2023-03,0
+RP-000860,2023-09-02,P-46907,Nilkamal Lite Decor,Home & Kitchen,Decor,1,5371.56,0.1,4834.4,1179.32,Telangana,Warangal,Credit Card,2023,9,Sep,3,Q3,35,5,Sat,2023-09,1
+RP-002646,2024-10-05,P-56299,Britannia Standard Beverages,Grocery & Food,Beverages,3,53.2,0.1,143.64,23.45,Karnataka,Bengaluru,EMI,2024,10,Oct,4,Q4,40,5,Sat,2024-10,1
+RP-006877,2022-02-06,P-22991,Decathlon Smart Gym Equipment,Sports & Fitness,Gym Equipment,1,1471.99,0.15,1251.19,263.31,Telangana,Karimnagar,Credit Card,2022,2,Feb,1,Q1,5,6,Sun,2022-02,1
+RP-000385,2023-03-03,P-47822,Lakme Premium Haircare,Beauty & Personal Care,Haircare,2,1595.34,0.25,2393.01,611.6,Uttar Pradesh,Lucknow,Cash on Delivery,2023,3,Mar,1,Q1,9,4,Fri,2023-03,0
+RP-002320,2024-11-03,P-31718,ITC Premium Snacks,Grocery & Food,Snacks,1,90.85,0.1,81.76,8.76,Gujarat,Ahmedabad,Debit Card,2024,11,Nov,4,Q4,44,6,Sun,2024-11,1
+RP-007445,2022-03-09,P-22619,Lakme Deluxe Makeup,Beauty & Personal Care,Makeup,2,1757.71,0.15,2988.11,1338.96,Karnataka,Mysuru,Cash on Delivery,2022,3,Mar,1,Q1,10,2,Wed,2022-03,0
+RP-009943,2024-06-12,P-45606,Noise Classic Mobile Phones,Electronics,Mobile Phones,4,54650.1,0.1,196740.36,27343.81,Maharashtra,Nagpur,UPI,2024,6,Jun,2,Q2,24,2,Wed,2024-06,0
+RP-007260,2022-03-13,P-42180,Yonex Pro Outdoor,Sports & Fitness,Outdoor,2,3254.3,0.05,6183.17,1861.1,Tamil Nadu,Coimbatore,Debit Card,2022,3,Mar,1,Q1,10,6,Sun,2022-03,1
+RP-005437,2024-08-08,P-16431,Levi's Deluxe Men's Wear,Clothing,Men'S Wear,2,1963.08,0.1,3533.54,975.74,Gujarat,Vadodara,Debit Card,2024,8,Aug,3,Q3,32,3,Thu,2024-08,0
+RP-002018,2022-02-14,P-39469,MTR Essential Staples,Grocery & Food,Staples,1,98.14,0.0,98.14,15.87,Telangana,Warangal,Debit Card,2022,2,Feb,1,Q1,7,0,Mon,2022-02,0
+RP-001242,2022-12-22,P-45606,Noise Classic Mobile Phones,Electronics,Mobile Phones,2,17857.04,0.1,32142.67,1969.43,Maharashtra,Pune,UPI,2022,12,Dec,4,Q4,51,3,Thu,2022-12,0
+RP-008753,2024-06-15,P-52645,MTR Pro Dairy,Grocery & Food,Dairy,2,395.8,0.1,712.44,105.46,Karnataka,Bengaluru,Debit Card,2024,6,Jun,2,Q2,24,5,Sat,2024-06,1
+RP-009395,2024-04-13,P-46393,Prestige Essential Bedding,Home & Kitchen,Bedding,2,13267.01,0.1,23880.62,7173.09,Punjab,Amritsar,Debit Card,2024,4,Apr,2,Q2,15,5,Sat,2024-04,1
+RP-006703,2024-12-16,P-39296,Noise Standard Audio,Electronics,Audio,2,16271.58,0.05,30916.0,2987.47,Rajasthan,Jodhpur,Cash on Delivery,2024,12,Dec,4,Q4,51,0,Mon,2024-12,0
+RP-009830,2023-08-31,P-11697,Haldiram's Pro Beverages,Grocery & Food,Beverages,2,170.4,0.1,306.72,59.46,Telangana,Warangal,Debit Card,2023,8,Aug,3,Q3,35,3,Thu,2023-08,0
+RP-001650,2024-07-04,P-53126,Patanjali Classic Beverages,Grocery & Food,Beverages,1,103.67,0.05,98.49,9.31,Maharashtra,Nashik,Debit Card,2024,7,Jul,3,Q3,27,3,Thu,2024-07,0
+RP-001224,2023-12-17,P-42136,Godrej Premium Appliances,Home & Kitchen,Appliances,1,450.8,0.15,383.18,126.25,Rajasthan,Jodhpur,EMI,2023,12,Dec,4,Q4,50,6,Sun,2023-12,1
+RP-005865,2024-01-10,P-22214,Yonex Premium Footwear,Sports & Fitness,Footwear,3,248.94,0.15,634.8,170.8,Delhi,Noida,UPI,2024,1,Jan,1,Q1,2,2,Wed,2024-01,0
+RP-009179,2024-05-25,P-25650,Himalaya Pro Skincare,Beauty & Personal Care,Skincare,2,139.21,0.05,264.5,71.55,Karnataka,Hubli,EMI,2024,5,May,2,Q2,21,5,Sat,2024-05,1
+RP-005843,2022-11-16,P-24547,Butterfly Premium Bedding,Home & Kitchen,Bedding,2,310.35,0.2,496.56,144.4,Gujarat,Vadodara,Debit Card,2022,11,Nov,4,Q4,46,2,Wed,2022-11,0
+RP-001429,2024-06-03,P-17666,Mi Smart Laptops,Electronics,Laptops,1,73922.08,0.1,66529.87,6127.51,Rajasthan,Jaipur,EMI,2024,6,Jun,2,Q2,23,0,Mon,2024-06,0
+RP-000600,2023-11-28,P-40923,Patanjali Deluxe Staples,Grocery & Food,Staples,3,593.21,0.15,1512.69,122.63,Gujarat,Vadodara,UPI,2023,11,Nov,4,Q4,48,1,Tue,2023-11,0
+RP-005928,2024-07-23,P-51380,Decathlon Smart Sportswear,Sports & Fitness,Sportswear,2,309.08,0.15,525.44,162.91,Rajasthan,Udaipur,UPI,2024,7,Jul,3,Q3,30,1,Tue,2024-07,0
+RP-008069,2022-06-20,P-29192,Funskool Smart Puzzles,Toys & Games,Puzzles,2,3469.35,0.3,4857.09,1696.87,Maharashtra,Mumbai,Cash on Delivery,2022,6,Jun,2,Q2,25,0,Mon,2022-06,0
+RP-005085,2024-11-13,P-15599,United Colors Essential Women's Wear,Clothing,Women'S Wear,1,5216.71,0.2,4173.37,1869.21,Gujarat,Surat,UPI,2024,11,Nov,4,Q4,46,2,Wed,2024-11,0
+RP-005358,2023-04-25,P-32199,Biba Lite Accessories,Clothing,Accessories,1,3054.74,0.15,2596.53,616.56,Punjab,Amritsar,Net Banking,2023,4,Apr,2,Q2,17,1,Tue,2023-04,0
+RP-006296,2024-06-25,P-46857,Butterfly Classic Furniture,Home & Kitchen,Furniture,1,8419.46,0.05,7998.49,1582.38,Delhi,New Delhi,Net Banking,2024,6,Jun,2,Q2,26,1,Tue,2024-06,0
+RP-005280,2024-03-30,P-20141,Itsy Bitsy Essential Educational,Toys & Games,Educational,1,1689.32,0.15,1435.92,423.1,Karnataka,Bengaluru,Net Banking,2024,3,Mar,1,Q1,13,5,Sat,2024-03,1
+RP-007147,2023-01-09,P-10513,Haldiram's Smart Snacks,Grocery & Food,Snacks,1,400.13,0.15,340.11,40.29,West Bengal,Durgapur,Net Banking,2023,1,Jan,1,Q1,2,0,Mon,2023-01,0
+RP-009823,2023-09-21,P-11725,Boat Lite Laptops,Electronics,Laptops,2,885.19,0.1,1593.34,123.15,Karnataka,Hubli,EMI,2023,9,Sep,3,Q3,38,3,Thu,2023-09,0
+RP-005702,2022-05-13,P-33638,Itsy Bitsy Classic Action Figures,Toys & Games,Action Figures,2,2271.94,0.25,3407.91,970.44,Madhya Pradesh,Jabalpur,UPI,2022,5,May,2,Q2,19,4,Fri,2022-05,0
+RP-000620,2022-02-28,P-21630,Lakme Pro Fragrances,Beauty & Personal Care,Fragrances,1,2225.78,0.2,1780.62,823.74,Rajasthan,Udaipur,Net Banking,2022,2,Feb,1,Q1,9,0,Mon,2022-02,0
+RP-009507,2023-10-23,P-33553,Decathlon Premium Nutrition,Sports & Fitness,Nutrition,1,438.38,0.2,350.7,107.78,Rajasthan,Jaipur,Net Banking,2023,10,Oct,4,Q4,43,0,Mon,2023-10,0
+RP-005349,2023-12-31,P-31937,Butterfly Classic Decor,Home & Kitchen,Decor,1,11821.08,0.1,10638.97,1652.06,Telangana,Hyderabad,UPI,2023,12,Dec,4,Q4,52,6,Sun,2023-12,1
+RP-006593,2023-05-19,P-57589,Biba Smart Men's Wear,Clothing,Men'S Wear,1,886.13,0.2,708.9,262.86,Telangana,Hyderabad,Debit Card,2023,5,May,2,Q2,20,4,Fri,2023-05,0
+RP-009782,2023-09-02,P-45296,Lakme Lite Haircare,Beauty & Personal Care,Haircare,1,2562.08,0.1,2305.87,1001.55,Tamil Nadu,Coimbatore,EMI,2023,9,Sep,3,Q3,35,5,Sat,2023-09,1
+RP-008539,2022-06-02,P-46408,Cosco Pro Sportswear,Sports & Fitness,Sportswear,2,11224.73,0.1,20204.51,5730.65,Karnataka,Bengaluru,Cash on Delivery,2022,6,Jun,2,Q2,22,3,Thu,2022-06,0
+RP-008022,2022-11-12,P-24810,Patanjali Standard Beverages,Grocery & Food,Beverages,2,211.33,0.0,422.66,37.56,Tamil Nadu,Chennai,UPI,2022,11,Nov,4,Q4,45,5,Sat,2022-11,1
+RP-003842,2023-12-14,P-50343,Penguin Smart Fiction,Books,Fiction,1,459.2,0.0,459.2,105.39,Tamil Nadu,Madurai,Cash on Delivery,2023,12,Dec,4,Q4,50,3,Thu,2023-12,0
+RP-005787,2024-10-03,P-31689,Hasbro Classic Outdoor Toys,Toys & Games,Outdoor Toys,2,1255.05,0.05,2384.59,931.47,Gujarat,Vadodara,UPI,2024,10,Oct,4,Q4,40,3,Thu,2024-10,0
+RP-009351,2024-05-30,P-13266,Levi's Lite Women's Wear,Clothing,Women'S Wear,4,2381.46,0.35,6191.8,1627.27,Kerala,Thiruvananthapuram,Cash on Delivery,2024,5,May,2,Q2,22,3,Thu,2024-05,0
+RP-006856,2023-01-06,P-39023,Havells Deluxe Cookware,Home & Kitchen,Cookware,3,4495.33,0.1,12137.39,3858.36,Maharashtra,Pune,EMI,2023,1,Jan,1,Q1,1,4,Fri,2023-01,0
+RP-005031,2022-01-10,P-55444,Haldiram's Classic Snacks,Grocery & Food,Snacks,2,669.5,0.05,1272.05,208.32,Delhi,New Delhi,Credit Card,2022,1,Jan,1,Q1,2,0,Mon,2022-01,0
+RP-007301,2023-06-17,P-29819,Levi's Classic Footwear,Clothing,Footwear,1,390.77,0.3,273.54,59.85,Punjab,Chandigarh,Cash on Delivery,2023,6,Jun,2,Q2,24,5,Sat,2023-06,1
+RP-000341,2022-07-06,P-21033,Biotique Standard Fragrances,Beauty & Personal Care,Fragrances,2,632.09,0.35,821.72,214.09,Delhi,Noida,Net Banking,2022,7,Jul,3,Q3,27,2,Wed,2022-07,0
+RP-006339,2022-07-23,P-46393,Prestige Essential Bedding,Home & Kitchen,Bedding,2,19242.61,0.1,34636.7,10615.41,Tamil Nadu,Madurai,EMI,2022,7,Jul,3,Q3,29,5,Sat,2022-07,1
+RP-009558,2023-12-12,P-26085,Haldiram's Pro Snacks,Grocery & Food,Snacks,1,327.86,0.0,327.86,49.19,Kerala,Kochi,Cash on Delivery,2023,12,Dec,4,Q4,50,1,Tue,2023-12,0
+RP-005063,2022-12-09,P-13590,Penguin Pro Academic,Books,Academic,4,219.81,0.05,835.28,129.61,Gujarat,Vadodara,EMI,2022,12,Dec,4,Q4,49,4,Fri,2022-12,0
+RP-004706,2022-12-04,P-20846,Samsung Lite Mobile Phones,Electronics,Mobile Phones,2,52459.53,0.2,83935.25,9255.88,Punjab,Ludhiana,UPI,2022,12,Dec,4,Q4,48,6,Sun,2022-12,1
+RP-001631,2023-07-17,P-22214,Yonex Premium Footwear,Sports & Fitness,Footwear,1,912.67,0.15,775.77,116.9,Tamil Nadu,Madurai,EMI,2023,7,Jul,3,Q3,29,0,Mon,2023-07,0
+RP-008677,2024-05-31,P-21937,Nivia Essential Footwear,Sports & Fitness,Footwear,1,1502.52,0.1,1352.27,239.61,Tamil Nadu,Coimbatore,EMI,2024,5,May,2,Q2,22,4,Fri,2024-05,0
+RP-008294,2022-01-12,P-18669,Levi's Essential Accessories,Clothing,Accessories,3,1575.6,0.1,4254.12,1762.72,Karnataka,Bengaluru,UPI,2022,1,Jan,1,Q1,2,2,Wed,2022-01,0
+RP-001414,2024-11-20,P-57393,S Chand Lite Comics,Books,Comics,1,749.62,0.05,712.14,120.55,Uttar Pradesh,Lucknow,Cash on Delivery,2024,11,Nov,4,Q4,47,2,Wed,2024-11,0
+RP-007731,2023-12-23,P-54838,Prestige Pro Decor,Home & Kitchen,Decor,1,14076.63,0.15,11965.14,2231.54,Delhi,Gurgaon,Net Banking,2023,12,Dec,4,Q4,51,5,Sat,2023-12,1
+RP-001039,2023-05-26,P-13759,Rupa Lite Non-Fiction,Books,Non-Fiction,1,1224.45,0.05,1163.23,149.55,Maharashtra,Nashik,Debit Card,2023,5,May,2,Q2,21,4,Fri,2023-05,0
+RP-001641,2024-05-01,P-36619,Forest Essentials Essential Makeup,Beauty & Personal Care,Makeup,1,4540.83,0.3,3178.58,1413.88,Delhi,Gurgaon,Debit Card,2024,5,May,2,Q2,18,2,Wed,2024-05,0
+RP-008929,2023-03-08,P-25309,Biotique Deluxe Haircare,Beauty & Personal Care,Haircare,2,1755.35,0.25,2633.02,1164.24,Telangana,Hyderabad,UPI,2023,3,Mar,1,Q1,10,2,Wed,2023-03,0
+RP-007318,2024-12-10,P-37945,Manyavar Pro Accessories,Clothing,Accessories,1,3209.23,0.1,2888.31,719.27,Uttar Pradesh,Agra,Net Banking,2024,12,Dec,4,Q4,50,1,Tue,2024-12,0
+RP-008995,2023-05-11,P-19300,Nilkamal Deluxe Decor,Home & Kitchen,Decor,1,3123.48,0.25,2342.61,636.13,Gujarat,Ahmedabad,Net Banking,2023,5,May,2,Q2,19,3,Thu,2023-05,0
+RP-008738,2023-01-03,P-24131,Decathlon Classic Gym Equipment,Sports & Fitness,Gym Equipment,1,10598.84,0.25,7949.13,1536.34,Uttar Pradesh,Agra,Net Banking,2023,1,Jan,1,Q1,1,1,Tue,2023-01,0
+RP-006457,2023-07-08,P-32727,Lakme Classic Fragrances,Beauty & Personal Care,Fragrances,1,242.86,0.15,206.43,87.73,Rajasthan,Jodhpur,UPI,2023,7,Jul,3,Q3,27,5,Sat,2023-07,1
+RP-000106,2024-03-11,P-10715,Levi's Standard Women's Wear,Clothing,Women'S Wear,2,1023.59,0.15,1740.1,558.69,Uttar Pradesh,Agra,EMI,2024,3,Mar,1,Q1,11,0,Mon,2024-03,0
+RP-005318,2024-11-03,P-37808,Realme Standard Accessories,Electronics,Accessories,1,14871.01,0.1,13383.91,1140.93,Telangana,Karimnagar,Debit Card,2024,11,Nov,4,Q4,44,6,Sun,2024-11,1
+RP-000243,2022-10-19,P-28652,Biba Deluxe Women's Wear,Clothing,Women'S Wear,1,497.35,0.25,373.01,113.93,Uttar Pradesh,Kanpur,UPI,2022,10,Oct,4,Q4,42,2,Wed,2022-10,0
+RP-007177,2022-06-06,P-58079,Speedo Premium Outdoor,Sports & Fitness,Outdoor,2,11710.63,0.15,19908.07,6221.25,Punjab,Amritsar,Credit Card,2022,6,Jun,2,Q2,23,0,Mon,2022-06,0
+RP-003242,2023-10-17,P-46673,Levi's Standard Men's Wear,Clothing,Men'S Wear,2,1809.61,0.2,2895.38,1055.42,Telangana,Warangal,Cash on Delivery,2023,10,Oct,4,Q4,42,1,Tue,2023-10,0
+RP-008573,2024-07-04,P-53942,Havells Classic Furniture,Home & Kitchen,Furniture,1,997.61,0.05,947.73,215.44,Punjab,Chandigarh,Credit Card,2024,7,Jul,3,Q3,27,3,Thu,2024-07,0
+RP-000560,2023-08-04,P-59315,MTR Deluxe Beverages,Grocery & Food,Beverages,1,1948.08,0.05,1850.68,206.71,Tamil Nadu,Coimbatore,Debit Card,2023,8,Aug,3,Q3,31,4,Fri,2023-08,0
+RP-009557,2023-02-12,P-26404,Boat Pro Audio,Electronics,Audio,1,1094.13,0.1,984.72,132.65,Uttar Pradesh,Lucknow,UPI,2023,2,Feb,1,Q1,6,6,Sun,2023-02,1
+RP-000442,2022-07-29,P-54805,Godrej Pro Appliances,Home & Kitchen,Appliances,2,845.57,0.1,1522.03,246.38,Madhya Pradesh,Indore,Debit Card,2022,7,Jul,3,Q3,30,4,Fri,2022-07,0
+RP-007693,2023-04-14,P-25439,Hasbro Lite Puzzles,Toys & Games,Puzzles,1,2101.43,0.2,1681.14,478.29,Rajasthan,Jodhpur,EMI,2023,4,Apr,2,Q2,15,4,Fri,2023-04,0
+RP-007950,2024-10-23,P-34508,Patanjali Pro Organic,Grocery & Food,Organic,1,715.82,0.0,715.82,102.76,Gujarat,Vadodara,Credit Card,2024,10,Oct,4,Q4,43,2,Wed,2024-10,0
+RP-001306,2024-11-09,P-30497,Rupa Pro Children,Books,Children,1,1107.43,0.1,996.69,245.12,Gujarat,Vadodara,EMI,2024,11,Nov,4,Q4,45,5,Sat,2024-11,1
+RP-003723,2024-09-02,P-19761,Cosco Premium Outdoor,Sports & Fitness,Outdoor,1,600.67,0.2,480.54,130.07,Maharashtra,Mumbai,UPI,2024,9,Sep,3,Q3,36,0,Mon,2024-09,0
+RP-007377,2022-04-19,P-50893,Itsy Bitsy Premium Board Games,Toys & Games,Board Games,3,4668.09,0.2,11203.42,2564.72,Kerala,Kozhikode,UPI,2022,4,Apr,2,Q2,16,1,Tue,2022-04,0
+RP-006628,2023-11-02,P-20619,Disha Pro Academic,Books,Academic,1,806.76,0.05,766.42,186.74,Punjab,Amritsar,Credit Card,2023,11,Nov,4,Q4,44,3,Thu,2023-11,0
+RP-002302,2024-05-04,P-32840,Havells Essential Bedding,Home & Kitchen,Bedding,1,12696.63,0.25,9522.47,2447.79,West Bengal,Durgapur,Cash on Delivery,2024,5,May,2,Q2,18,5,Sat,2024-05,1
+RP-004671,2022-08-01,P-23319,Havells Smart Furniture,Home & Kitchen,Furniture,2,559.88,0.25,839.82,189.4,Punjab,Amritsar,UPI,2022,8,Aug,3,Q3,31,0,Mon,2022-08,0
+RP-009763,2024-04-06,P-24259,Disha Classic Fiction,Books,Fiction,1,293.15,0.1,263.83,35.81,Punjab,Amritsar,UPI,2024,4,Apr,2,Q2,14,5,Sat,2024-04,1
+RP-003403,2023-09-09,P-43815,FabIndia Lite Accessories,Clothing,Accessories,1,642.5,0.25,481.88,113.05,West Bengal,Howrah,Debit Card,2023,9,Sep,3,Q3,36,5,Sat,2023-09,1
+RP-008059,2024-03-02,P-39971,Patanjali Smart Beverages,Grocery & Food,Beverages,1,154.66,0.05,146.93,13.89,Maharashtra,Mumbai,Credit Card,2024,3,Mar,1,Q1,9,5,Sat,2024-03,1
+RP-006744,2022-01-12,P-56233,Decathlon Standard Nutrition,Sports & Fitness,Nutrition,1,227.23,0.2,181.78,41.98,Punjab,Ludhiana,Net Banking,2022,1,Jan,1,Q1,2,2,Wed,2022-01,0
+RP-009162,2024-09-19,P-45191,Lakme Premium Skincare,Beauty & Personal Care,Skincare,2,1093.06,0.3,1530.28,715.96,Gujarat,Vadodara,Cash on Delivery,2024,9,Sep,3,Q3,38,3,Thu,2024-09,0
+RP-008999,2024-12-12,P-28040,Yonex Lite Outdoor,Sports & Fitness,Outdoor,2,3667.73,0.15,6235.14,1373.6,Tamil Nadu,Madurai,Debit Card,2024,12,Dec,4,Q4,50,3,Thu,2024-12,0
+RP-009142,2024-11-21,P-51305,Mattel Lite Puzzles,Toys & Games,Puzzles,1,1959.83,0.15,1665.86,606.89,Maharashtra,Pune,Debit Card,2024,11,Nov,4,Q4,47,3,Thu,2024-11,0
+RP-008191,2024-01-04,P-42945,Mattel Premium Puzzles,Toys & Games,Puzzles,1,434.21,0.2,347.37,118.54,Delhi,Noida,Net Banking,2024,1,Jan,1,Q1,1,3,Thu,2024-01,0
+RP-003923,2023-01-18,P-16214,Butterfly Smart Cookware,Home & Kitchen,Cookware,1,387.33,0.05,367.96,123.35,Maharashtra,Pune,Cash on Delivery,2023,1,Jan,1,Q1,3,2,Wed,2023-01,0
+RP-005848,2022-10-09,P-27052,Realme Deluxe Tablets,Electronics,Tablets,1,16746.98,0.05,15909.63,1131.36,Delhi,Gurgaon,Debit Card,2022,10,Oct,4,Q4,40,6,Sun,2022-10,1
+RP-009546,2022-11-19,P-45444,Britannia Deluxe Snacks,Grocery & Food,Snacks,1,83.17,0.05,79.01,10.8,Uttar Pradesh,Agra,UPI,2022,11,Nov,4,Q4,46,5,Sat,2022-11,1
+RP-009756,2023-05-24,P-48204,Speedo Premium Footwear,Sports & Fitness,Footwear,2,8903.47,0.2,14245.55,4161.59,West Bengal,Durgapur,Cash on Delivery,2023,5,May,2,Q2,21,2,Wed,2023-05,0
+RP-006870,2023-10-17,P-20600,Yonex Standard Outdoor,Sports & Fitness,Outdoor,2,11019.42,0.2,17631.07,5107.75,Telangana,Karimnagar,Net Banking,2023,10,Oct,4,Q4,42,1,Tue,2023-10,0
+RP-000446,2024-03-03,P-35788,Noise Pro Tablets,Electronics,Tablets,1,946.34,0.05,899.02,131.18,Kerala,Thiruvananthapuram,Debit Card,2024,3,Mar,1,Q1,9,6,Sun,2024-03,1
+RP-001720,2024-08-07,P-31266,Hasbro Essential Outdoor Toys,Toys & Games,Outdoor Toys,1,395.9,0.1,356.31,119.76,Rajasthan,Udaipur,EMI,2024,8,Aug,3,Q3,32,2,Wed,2024-08,0
+RP-007033,2022-10-01,P-59493,Penguin Deluxe Non-Fiction,Books,Non-Fiction,2,201.49,0.05,382.83,60.08,Maharashtra,Nagpur,Net Banking,2022,10,Oct,4,Q4,39,5,Sat,2022-10,1
+RP-008450,2024-06-20,P-10653,Levi's Essential Footwear,Clothing,Footwear,2,3310.94,0.25,4966.41,1557.71,Rajasthan,Jaipur,UPI,2024,6,Jun,2,Q2,25,3,Thu,2024-06,0
+RP-008958,2023-12-20,P-51205,Samsung Pro Accessories,Electronics,Accessories,1,3175.48,0.2,2540.38,191.91,Maharashtra,Mumbai,Credit Card,2023,12,Dec,4,Q4,51,2,Wed,2023-12,0
+RP-005704,2024-05-06,P-15621,ITC Lite Organic,Grocery & Food,Organic,1,1796.28,0.15,1526.84,132.24,Uttar Pradesh,Kanpur,Debit Card,2024,5,May,2,Q2,19,0,Mon,2024-05,0
+RP-001932,2023-11-21,P-46173,Orient Standard Fiction,Books,Fiction,1,553.15,0.05,525.49,69.51,West Bengal,Durgapur,Cash on Delivery,2023,11,Nov,4,Q4,47,1,Tue,2023-11,0
+RP-000849,2022-07-21,P-29035,Himalaya Deluxe Fragrances,Beauty & Personal Care,Fragrances,1,2541.45,0.25,1906.09,773.96,Uttar Pradesh,Kanpur,Credit Card,2022,7,Jul,3,Q3,29,3,Thu,2022-07,0
+RP-002318,2024-05-13,P-57651,Disha Essential Fiction,Books,Fiction,1,223.01,0.2,178.41,28.58,Telangana,Karimnagar,Credit Card,2024,5,May,2,Q2,20,0,Mon,2024-05,0
+RP-007199,2024-02-24,P-39017,Prestige Smart Furniture,Home & Kitchen,Furniture,1,12889.92,0.25,9667.44,3366.25,Delhi,Noida,Debit Card,2024,2,Feb,1,Q1,8,5,Sat,2024-02,1
+RP-003572,2022-07-10,P-17129,Mi Standard Mobile Phones,Electronics,Mobile Phones,2,677.31,0.2,1083.7,87.82,Maharashtra,Pune,UPI,2022,7,Jul,3,Q3,27,6,Sun,2022-07,1
+RP-007904,2023-12-29,P-50690,Boat Premium Laptops,Electronics,Laptops,3,2241.23,0.0,6723.69,871.91,Karnataka,Hubli,Debit Card,2023,12,Dec,4,Q4,52,4,Fri,2023-12,0
+RP-002956,2023-01-05,P-36988,Manyavar Lite Footwear,Clothing,Footwear,1,580.31,0.25,435.23,115.74,Karnataka,Hubli,EMI,2023,1,Jan,1,Q1,1,3,Thu,2023-01,0
+RP-001911,2022-01-15,P-50963,ITC Deluxe Dairy,Grocery & Food,Dairy,1,1388.65,0.05,1319.22,220.13,Gujarat,Vadodara,Debit Card,2022,1,Jan,1,Q1,2,5,Sat,2022-01,1
+RP-003357,2023-10-15,P-21430,United Colors Pro Men's Wear,Clothing,Men'S Wear,1,821.06,0.25,615.79,148.06,Punjab,Ludhiana,Debit Card,2023,10,Oct,4,Q4,41,6,Sun,2023-10,1
+RP-006312,2024-08-27,P-55969,Mamaearth Smart Haircare,Beauty & Personal Care,Haircare,1,1003.89,0.1,903.5,263.43,Uttar Pradesh,Lucknow,Credit Card,2024,8,Aug,3,Q3,35,1,Tue,2024-08,0
+RP-002569,2023-12-23,P-14119,Lego Premium Action Figures,Toys & Games,Action Figures,1,538.57,0.2,430.86,122.73,Gujarat,Surat,Cash on Delivery,2023,12,Dec,4,Q4,51,5,Sat,2023-12,1
+RP-008449,2022-05-30,P-17004,Havells Lite Cookware,Home & Kitchen,Cookware,1,4700.82,0.05,4465.78,973.86,Karnataka,Mysuru,EMI,2022,5,May,2,Q2,22,0,Mon,2022-05,0
+RP-009846,2023-10-09,P-24555,Biba Standard Women's Wear,Clothing,Women'S Wear,1,278.62,0.05,264.69,114.44,Karnataka,Bengaluru,Cash on Delivery,2023,10,Oct,4,Q4,41,0,Mon,2023-10,0
+RP-008487,2024-11-19,P-34444,Haldiram's Premium Beverages,Grocery & Food,Beverages,1,172.42,0.05,163.8,19.18,Telangana,Karimnagar,EMI,2024,11,Nov,4,Q4,47,1,Tue,2024-11,0
+RP-004340,2024-07-15,P-34239,Nilkamal Essential Cookware,Home & Kitchen,Cookware,1,1572.15,0.2,1257.72,384.13,Delhi,Gurgaon,Cash on Delivery,2024,7,Jul,3,Q3,29,0,Mon,2024-07,0
+RP-008817,2024-09-16,P-27893,Biotique Essential Skincare,Beauty & Personal Care,Skincare,1,537.49,0.15,456.87,175.13,Telangana,Warangal,Net Banking,2024,9,Sep,3,Q3,38,0,Mon,2024-09,0
+RP-002997,2023-12-23,P-12624,MTR Essential Beverages,Grocery & Food,Beverages,2,592.82,0.0,1185.64,219.21,Uttar Pradesh,Kanpur,EMI,2023,12,Dec,4,Q4,51,5,Sat,2023-12,1
+RP-006632,2022-03-25,P-18315,OnePlus Standard Mobile Phones,Electronics,Mobile Phones,1,2134.68,0.2,1707.74,105.18,Kerala,Kochi,Net Banking,2022,3,Mar,1,Q1,12,4,Fri,2022-03,0
+RP-004812,2024-01-21,P-27292,Manyavar Deluxe Women's Wear,Clothing,Women'S Wear,1,3184.74,0.15,2707.03,1001.38,Uttar Pradesh,Kanpur,Net Banking,2024,1,Jan,1,Q1,3,6,Sun,2024-01,1
+RP-008636,2023-07-16,P-39184,Himalaya Smart Fragrances,Beauty & Personal Care,Fragrances,1,130.71,0.05,124.17,38.03,Maharashtra,Mumbai,EMI,2023,7,Jul,3,Q3,28,6,Sun,2023-07,1
+RP-009017,2023-12-20,P-34838,Nivia Premium Footwear,Sports & Fitness,Footwear,2,325.42,0.1,585.76,93.59,West Bengal,Howrah,Credit Card,2023,12,Dec,4,Q4,51,2,Wed,2023-12,0
+RP-001538,2024-04-22,P-51820,Noise Classic Accessories,Electronics,Accessories,1,26247.77,0.0,26247.77,3018.12,Tamil Nadu,Coimbatore,Credit Card,2024,4,Apr,2,Q2,17,0,Mon,2024-04,0
+RP-006567,2023-10-27,P-46419,OnePlus Smart Accessories,Electronics,Accessories,1,6714.59,0.1,6043.13,640.22,Telangana,Karimnagar,UPI,2023,10,Oct,4,Q4,43,4,Fri,2023-10,0
+RP-008535,2024-04-10,P-11801,Manyavar Premium Men's Wear,Clothing,Men'S Wear,2,658.63,0.2,1053.81,255.59,Uttar Pradesh,Lucknow,Debit Card,2024,4,Apr,2,Q2,15,2,Wed,2024-04,0
+RP-005661,2023-04-28,P-23825,Lego Smart Puzzles,Toys & Games,Puzzles,1,313.41,0.25,235.06,92.68,Maharashtra,Nashik,UPI,2023,4,Apr,2,Q2,17,4,Fri,2023-04,0
+RP-009494,2023-11-07,P-44394,Manyavar Classic Footwear,Clothing,Footwear,1,212.23,0.3,148.56,53.36,Kerala,Kochi,UPI,2023,11,Nov,4,Q4,45,1,Tue,2023-11,0
+RP-006495,2024-08-29,P-22259,Realme Pro Accessories,Electronics,Accessories,1,896.13,0.2,716.9,53.78,Delhi,Noida,Net Banking,2024,8,Aug,3,Q3,35,3,Thu,2024-08,0
+RP-000997,2023-12-11,P-56755,United Colors Premium Women's Wear,Clothing,Women'S Wear,2,473.99,0.35,616.19,221.98,Uttar Pradesh,Lucknow,Debit Card,2023,12,Dec,4,Q4,50,0,Mon,2023-12,0
+RP-003227,2024-01-15,P-32545,Nivia Essential Gym Equipment,Sports & Fitness,Gym Equipment,5,1419.3,0.1,6386.85,1973.16,Tamil Nadu,Chennai,Debit Card,2024,1,Jan,1,Q1,3,0,Mon,2024-01,0
+RP-002867,2023-04-17,P-51689,Levi's Pro Footwear,Clothing,Footwear,1,3450.33,0.2,2760.26,686.72,Telangana,Hyderabad,UPI,2023,4,Apr,2,Q2,16,0,Mon,2023-04,0
+RP-004487,2024-05-28,P-23624,Realme Deluxe Audio,Electronics,Audio,1,13779.3,0.15,11712.4,1218.21,West Bengal,Durgapur,Debit Card,2024,5,May,2,Q2,22,1,Tue,2024-05,0
+RP-001613,2024-05-23,P-27080,United Colors Classic Accessories,Clothing,Accessories,1,516.68,0.3,361.68,155.31,Uttar Pradesh,Kanpur,Debit Card,2024,5,May,2,Q2,21,3,Thu,2024-05,0
+RP-007675,2023-07-03,P-34889,Lakme Premium Makeup,Beauty & Personal Care,Makeup,2,1146.34,0.15,1948.78,943.25,Maharashtra,Nashik,Credit Card,2023,7,Jul,3,Q3,27,0,Mon,2023-07,0
+RP-006836,2022-08-07,P-17601,Havells Classic Appliances,Home & Kitchen,Appliances,1,305.73,0.0,305.73,88.92,Uttar Pradesh,Agra,EMI,2022,8,Aug,3,Q3,31,6,Sun,2022-08,1
+RP-004507,2023-04-18,P-15647,Biotique Lite Makeup,Beauty & Personal Care,Makeup,1,248.64,0.1,223.78,110.86,Kerala,Kochi,Debit Card,2023,4,Apr,2,Q2,16,1,Tue,2023-04,0
+RP-006604,2022-08-04,P-47975,Mi Essential Laptops,Electronics,Laptops,2,7474.59,0.1,13454.26,1667.61,Maharashtra,Pune,Cash on Delivery,2022,8,Aug,3,Q3,31,3,Thu,2022-08,0
+RP-005285,2022-09-19,P-34472,Levi's Standard Footwear,Clothing,Footwear,2,2135.37,0.35,2775.98,1029.93,Tamil Nadu,Madurai,EMI,2022,9,Sep,3,Q3,38,0,Mon,2022-09,0
+RP-000428,2024-08-31,P-17066,Biotique Smart Skincare,Beauty & Personal Care,Skincare,2,283.68,0.05,538.99,241.4,West Bengal,Kolkata,Debit Card,2024,8,Aug,3,Q3,35,5,Sat,2024-08,1
+RP-004018,2023-06-12,P-59581,Levi's Essential Men's Wear,Clothing,Men'S Wear,2,381.35,0.35,495.76,219.13,Gujarat,Vadodara,Credit Card,2023,6,Jun,2,Q2,24,0,Mon,2023-06,0
+RP-006428,2023-03-27,P-25319,Boat Smart Tablets,Electronics,Tablets,1,576.89,0.05,548.05,31.15,Uttar Pradesh,Varanasi,Credit Card,2023,3,Mar,1,Q1,13,0,Mon,2023-03,0
+RP-000862,2024-03-30,P-57796,Lakme Smart Makeup,Beauty & Personal Care,Makeup,1,110.04,0.15,93.53,40.05,Tamil Nadu,Chennai,Net Banking,2024,3,Mar,1,Q1,13,5,Sat,2024-03,1
+RP-005756,2023-11-20,P-52273,FabIndia Pro Kids' Wear,Clothing,Kids' Wear,4,1927.95,0.1,6940.62,2204.65,Maharashtra,Nagpur,EMI,2023,11,Nov,4,Q4,47,0,Mon,2023-11,0
+RP-000746,2023-07-30,P-34296,Prestige Premium Cookware,Home & Kitchen,Cookware,1,4502.88,0.05,4277.74,1093.4,Rajasthan,Udaipur,Debit Card,2023,7,Jul,3,Q3,30,6,Sun,2023-07,1
+RP-008952,2023-08-13,P-46857,Butterfly Classic Furniture,Home & Kitchen,Furniture,2,330.31,0.25,495.46,91.19,Uttar Pradesh,Lucknow,Credit Card,2023,8,Aug,3,Q3,32,6,Sun,2023-08,1
+RP-008811,2024-07-30,P-39894,Biotique Standard Men's Grooming,Beauty & Personal Care,Men'S Grooming,3,1080.24,0.15,2754.61,1220.69,Punjab,Chandigarh,Cash on Delivery,2024,7,Jul,3,Q3,31,1,Tue,2024-07,0
+RP-000551,2023-07-05,P-19374,Funskool Essential Outdoor Toys,Toys & Games,Outdoor Toys,1,446.58,0.05,424.25,118.94,Telangana,Karimnagar,Debit Card,2023,7,Jul,3,Q3,27,2,Wed,2023-07,0
+RP-003045,2024-04-24,P-24266,Itsy Bitsy Premium Outdoor Toys,Toys & Games,Outdoor Toys,1,934.08,0.25,700.56,274.12,Tamil Nadu,Coimbatore,Net Banking,2024,4,Apr,2,Q2,17,2,Wed,2024-04,0
+RP-002027,2024-07-14,P-24605,Patanjali Deluxe Organic,Grocery & Food,Organic,2,342.22,0.05,650.22,68.1,Kerala,Kozhikode,Cash on Delivery,2024,7,Jul,3,Q3,28,6,Sun,2024-07,1
+RP-003657,2022-08-02,P-42965,Lego Classic Board Games,Toys & Games,Board Games,2,1659.17,0.05,3152.42,1100.36,Gujarat,Vadodara,EMI,2022,8,Aug,3,Q3,31,1,Tue,2022-08,0
+RP-009114,2023-07-11,P-57711,Butterfly Deluxe Appliances,Home & Kitchen,Appliances,2,2761.39,0.25,4142.08,940.57,Telangana,Hyderabad,Net Banking,2023,7,Jul,3,Q3,28,1,Tue,2023-07,0
+RP-004186,2024-07-09,P-57920,Realme Smart Accessories,Electronics,Accessories,1,7313.63,0.1,6582.27,479.89,Maharashtra,Pune,UPI,2024,7,Jul,3,Q3,28,1,Tue,2024-07,0
+RP-004638,2024-02-02,P-52050,Orient Pro Non-Fiction,Books,Non-Fiction,1,353.0,0.15,300.05,70.9,Gujarat,Vadodara,Cash on Delivery,2024,2,Feb,1,Q1,5,4,Fri,2024-02,0
+RP-008864,2023-11-11,P-59160,Britannia Essential Snacks,Grocery & Food,Snacks,2,1815.37,0.0,3630.74,621.64,Kerala,Kochi,Credit Card,2023,11,Nov,4,Q4,45,5,Sat,2023-11,1
+RP-007985,2024-05-19,P-18447,Yonex Standard Gym Equipment,Sports & Fitness,Gym Equipment,1,1997.51,0.1,1797.76,556.5,Delhi,Noida,EMI,2024,5,May,2,Q2,20,6,Sun,2024-05,1
+RP-005483,2023-01-24,P-43876,S Chand Deluxe Comics,Books,Comics,1,1471.49,0.1,1324.34,290.89,Madhya Pradesh,Indore,Debit Card,2023,1,Jan,1,Q1,4,1,Tue,2023-01,0
+RP-004644,2022-02-25,P-45874,Forest Essentials Premium Fragrances,Beauty & Personal Care,Fragrances,5,256.75,0.2,1027.0,385.71,Kerala,Kozhikode,EMI,2022,2,Feb,1,Q1,8,4,Fri,2022-02,0
+RP-001184,2022-08-23,P-24011,Haldiram's Standard Beverages,Grocery & Food,Beverages,1,103.36,0.05,98.19,15.73,Tamil Nadu,Madurai,Net Banking,2022,8,Aug,3,Q3,34,1,Tue,2022-08,0
+RP-004656,2024-09-23,P-54611,Mi Classic Accessories,Electronics,Accessories,2,48109.18,0.2,76974.69,4714.02,Tamil Nadu,Chennai,Debit Card,2024,9,Sep,3,Q3,39,0,Mon,2024-09,0
+RP-006232,2023-07-31,P-30415,ITC Standard Organic,Grocery & Food,Organic,2,113.53,0.1,204.35,27.26,Telangana,Hyderabad,UPI,2023,7,Jul,3,Q3,31,0,Mon,2023-07,0
+RP-002883,2023-10-07,P-57234,Manyavar Premium Accessories,Clothing,Accessories,1,3867.51,0.3,2707.26,1078.36,Telangana,Warangal,Net Banking,2023,10,Oct,4,Q4,40,5,Sat,2023-10,1
+RP-004237,2023-03-13,P-49880,Itsy Bitsy Premium Puzzles,Toys & Games,Puzzles,1,815.79,0.2,652.63,201.7,Punjab,Chandigarh,Cash on Delivery,2023,3,Mar,1,Q1,11,0,Mon,2023-03,0
+RP-007566,2024-10-07,P-46539,Biba Standard Men's Wear,Clothing,Men'S Wear,1,517.46,0.3,362.22,95.05,Maharashtra,Pune,Debit Card,2024,10,Oct,4,Q4,41,0,Mon,2024-10,0
+RP-007554,2022-10-10,P-24958,Nilkamal Premium Decor,Home & Kitchen,Decor,1,6123.86,0.15,5205.28,945.63,Karnataka,Mysuru,Net Banking,2022,10,Oct,4,Q4,41,0,Mon,2022-10,0
+RP-006338,2023-01-06,P-46319,Britannia Essential Organic,Grocery & Food,Organic,1,105.15,0.0,105.15,17.16,Karnataka,Hubli,Debit Card,2023,1,Jan,1,Q1,1,4,Fri,2023-01,0
+RP-009447,2023-10-01,P-42305,United Colors Classic Footwear,Clothing,Footwear,1,1824.75,0.15,1551.04,410.91,Tamil Nadu,Chennai,Cash on Delivery,2023,10,Oct,4,Q4,39,6,Sun,2023-10,1
+RP-004498,2023-08-05,P-16803,FabIndia Classic Footwear,Clothing,Footwear,2,230.6,0.25,345.9,118.19,Telangana,Hyderabad,UPI,2023,8,Aug,3,Q3,31,5,Sat,2023-08,1
+RP-001979,2024-04-03,P-25060,Manyavar Smart Women's Wear,Clothing,Women'S Wear,1,338.45,0.4,203.07,61.71,Rajasthan,Udaipur,UPI,2024,4,Apr,2,Q2,14,2,Wed,2024-04,0
+RP-006967,2023-09-25,P-44347,Butterfly Smart Appliances,Home & Kitchen,Appliances,2,13032.15,0.1,23457.87,3555.91,Karnataka,Bengaluru,Credit Card,2023,9,Sep,3,Q3,39,0,Mon,2023-09,0
+RP-002466,2024-04-03,P-51919,Lakme Lite Fragrances,Beauty & Personal Care,Fragrances,3,249.44,0.15,636.07,179.65,Rajasthan,Udaipur,Debit Card,2024,4,Apr,2,Q2,14,2,Wed,2024-04,0
+RP-006468,2024-04-06,P-52347,Hasbro Pro Board Games,Toys & Games,Board Games,2,2903.64,0.3,4065.1,1193.65,Maharashtra,Pune,Debit Card,2024,4,Apr,2,Q2,14,5,Sat,2024-04,1
+RP-004735,2024-10-27,P-33557,Decathlon Smart Outdoor,Sports & Fitness,Outdoor,2,3893.94,0.1,7009.09,1520.45,Maharashtra,Pune,Credit Card,2024,10,Oct,4,Q4,43,6,Sun,2024-10,1
+RP-000966,2023-07-21,P-35002,Realme Premium Audio,Electronics,Audio,2,54424.64,0.0,108849.28,12359.76,Tamil Nadu,Madurai,EMI,2023,7,Jul,3,Q3,29,4,Fri,2023-07,0
+RP-000419,2022-09-18,P-48855,Samsung Deluxe Tablets,Electronics,Tablets,1,3797.61,0.0,3797.61,484.55,Uttar Pradesh,Varanasi,Cash on Delivery,2022,9,Sep,3,Q3,37,6,Sun,2022-09,1
+RP-001304,2022-11-07,P-34508,Patanjali Pro Organic,Grocery & Food,Organic,1,106.46,0.05,101.14,14.14,Kerala,Kochi,EMI,2022,11,Nov,4,Q4,45,0,Mon,2022-11,0
+RP-001973,2024-04-01,P-34942,Funskool Standard Action Figures,Toys & Games,Action Figures,1,412.0,0.05,391.4,85.23,Tamil Nadu,Chennai,Credit Card,2024,4,Apr,2,Q2,14,0,Mon,2024-04,0
+RP-006131,2022-11-28,P-33610,Boat Deluxe Laptops,Electronics,Laptops,3,8809.28,0.15,22463.66,1254.79,Punjab,Amritsar,Net Banking,2022,11,Nov,4,Q4,48,0,Mon,2022-11,0
+RP-009150,2022-06-03,P-37772,Mi Essential Tablets,Electronics,Tablets,2,52534.87,0.05,99816.25,13470.59,Karnataka,Hubli,EMI,2022,6,Jun,2,Q2,22,4,Fri,2022-06,0
+RP-009798,2022-11-27,P-46473,Samsung Pro Audio,Electronics,Audio,1,6099.75,0.25,4574.81,459.92,Maharashtra,Nashik,UPI,2022,11,Nov,4,Q4,47,6,Sun,2022-11,1
+RP-007594,2024-07-15,P-37091,Orient Essential Fiction,Books,Fiction,1,1127.76,0.1,1014.98,166.11,Telangana,Karimnagar,EMI,2024,7,Jul,3,Q3,29,0,Mon,2024-07,0
+RP-003847,2024-03-31,P-47987,Himalaya Deluxe Skincare,Beauty & Personal Care,Skincare,1,1771.81,0.2,1417.45,468.24,Gujarat,Vadodara,Credit Card,2024,3,Mar,1,Q1,13,6,Sun,2024-03,1
+RP-008704,2023-01-15,P-18219,United Colors Smart Accessories,Clothing,Accessories,1,292.06,0.3,204.44,76.58,Uttar Pradesh,Kanpur,Debit Card,2023,1,Jan,1,Q1,2,6,Sun,2023-01,1
+RP-006846,2022-04-20,P-13939,Samsung Classic Audio,Electronics,Audio,1,998.51,0.2,798.81,44.58,Rajasthan,Jaipur,Credit Card,2022,4,Apr,2,Q2,16,2,Wed,2022-04,0
+RP-002209,2022-07-30,P-18197,Biba Premium Accessories,Clothing,Accessories,2,710.0,0.25,1065.0,249.39,Tamil Nadu,Coimbatore,UPI,2022,7,Jul,3,Q3,30,5,Sat,2022-07,1
+RP-001432,2023-11-22,P-22367,Samsung Lite Tablets,Electronics,Tablets,2,6993.59,0.05,13287.82,903.1,West Bengal,Kolkata,EMI,2023,11,Nov,4,Q4,47,2,Wed,2023-11,0
+RP-001800,2023-11-29,P-59581,Levi's Essential Men's Wear,Clothing,Men'S Wear,1,4415.12,0.25,3311.34,841.01,Punjab,Amritsar,EMI,2023,11,Nov,4,Q4,48,2,Wed,2023-11,0
+RP-008078,2022-10-27,P-53647,Butterfly Essential Furniture,Home & Kitchen,Furniture,1,2800.24,0.05,2660.23,745.98,Tamil Nadu,Coimbatore,Credit Card,2022,10,Oct,4,Q4,43,3,Thu,2022-10,0
+RP-008692,2022-12-27,P-50226,United Colors Standard Footwear,Clothing,Footwear,1,4342.42,0.2,3473.94,800.68,Madhya Pradesh,Bhopal,Debit Card,2022,12,Dec,4,Q4,52,1,Tue,2022-12,0
+RP-004653,2022-06-21,P-37573,Butterfly Deluxe Bedding,Home & Kitchen,Bedding,3,20190.05,0.2,48456.12,16565.05,Rajasthan,Udaipur,Debit Card,2022,6,Jun,2,Q2,25,1,Tue,2022-06,0
+RP-007956,2024-01-16,P-11578,Biba Essential Footwear,Clothing,Footwear,1,4611.99,0.35,2997.79,1291.92,Delhi,New Delhi,Cash on Delivery,2024,1,Jan,1,Q1,3,1,Tue,2024-01,0
+RP-003748,2024-10-01,P-29528,Nilkamal Deluxe Bedding,Home & Kitchen,Bedding,1,636.73,0.25,477.55,156.22,West Bengal,Durgapur,Credit Card,2024,10,Oct,4,Q4,40,1,Tue,2024-10,0
+RP-001272,2023-03-09,P-54629,FabIndia Lite Women's Wear,Clothing,Women'S Wear,3,2363.49,0.25,5317.85,1782.34,Delhi,Noida,Debit Card,2023,3,Mar,1,Q1,10,3,Thu,2023-03,0
+RP-001159,2023-05-21,P-35091,Boat Standard Mobile Phones,Electronics,Mobile Phones,1,8896.36,0.05,8451.54,753.18,Delhi,New Delhi,UPI,2023,5,May,2,Q2,20,6,Sun,2023-05,1
+RP-008126,2023-02-01,P-53302,Nilkamal Lite Furniture,Home & Kitchen,Furniture,1,11921.46,0.25,8941.09,2987.04,Rajasthan,Jaipur,UPI,2023,2,Feb,1,Q1,5,2,Wed,2023-02,0
+RP-004780,2023-12-24,P-11482,OnePlus Lite Audio,Electronics,Audio,3,1220.09,0.05,3477.26,267.13,Uttar Pradesh,Agra,Cash on Delivery,2023,12,Dec,4,Q4,51,6,Sun,2023-12,1
+RP-009343,2024-08-15,P-19300,Nilkamal Deluxe Decor,Home & Kitchen,Decor,1,2010.74,0.25,1508.06,289.5,Gujarat,Vadodara,Net Banking,2024,8,Aug,3,Q3,33,3,Thu,2024-08,0
+RP-003489,2022-09-30,P-24508,S Chand Smart Academic,Books,Academic,1,108.71,0.1,97.84,11.15,Uttar Pradesh,Kanpur,Debit Card,2022,9,Sep,3,Q3,39,4,Fri,2022-09,0
+RP-002549,2022-12-22,P-23580,OnePlus Classic Accessories,Electronics,Accessories,1,27012.08,0.2,21609.66,1243.19,West Bengal,Howrah,Cash on Delivery,2022,12,Dec,4,Q4,51,3,Thu,2022-12,0
+RP-003927,2023-09-24,P-48149,Nilkamal Standard Appliances,Home & Kitchen,Appliances,1,18505.45,0.1,16654.91,2779.15,Karnataka,Mysuru,Cash on Delivery,2023,9,Sep,3,Q3,38,6,Sun,2023-09,1
+RP-006944,2023-11-11,P-32792,Mattel Premium Board Games,Toys & Games,Board Games,1,1631.03,0.2,1304.82,268.35,Tamil Nadu,Coimbatore,Net Banking,2023,11,Nov,4,Q4,45,5,Sat,2023-11,1
+RP-002926,2023-11-07,P-41288,OnePlus Smart Laptops,Electronics,Laptops,1,13478.99,0.1,12131.09,1051.84,Uttar Pradesh,Agra,Net Banking,2023,11,Nov,4,Q4,45,1,Tue,2023-11,0
+RP-004641,2022-09-21,P-33557,Decathlon Smart Outdoor,Sports & Fitness,Outdoor,1,541.68,0.1,487.51,117.74,Punjab,Amritsar,Credit Card,2022,9,Sep,3,Q3,38,2,Wed,2022-09,0
+RP-005962,2022-07-30,P-40339,S Chand Pro Fiction,Books,Fiction,1,162.38,0.0,162.38,36.72,Tamil Nadu,Madurai,Net Banking,2022,7,Jul,3,Q3,30,5,Sat,2022-07,1
+RP-000741,2022-01-02,P-37535,Lego Deluxe Board Games,Toys & Games,Board Games,1,169.05,0.25,126.79,45.84,Tamil Nadu,Chennai,Credit Card,2022,1,Jan,1,Q1,52,6,Sun,2022-01,1
+RP-002367,2022-11-11,P-47194,Itsy Bitsy Lite Board Games,Toys & Games,Board Games,1,153.75,0.2,123.0,35.57,Tamil Nadu,Madurai,Debit Card,2022,11,Nov,4,Q4,45,4,Fri,2022-11,0
+RP-005821,2024-02-11,P-34889,Lakme Premium Makeup,Beauty & Personal Care,Makeup,1,551.73,0.3,386.21,161.75,Gujarat,Ahmedabad,Credit Card,2024,2,Feb,1,Q1,6,6,Sun,2024-02,1
+RP-002275,2024-09-22,P-16060,Lakme Lite Skincare,Beauty & Personal Care,Skincare,1,3104.9,0.2,2483.92,1200.88,Gujarat,Surat,UPI,2024,9,Sep,3,Q3,38,6,Sun,2024-09,1
+RP-005726,2024-10-05,P-28877,Biba Smart Footwear,Clothing,Footwear,1,2088.98,0.35,1357.84,392.59,Kerala,Thiruvananthapuram,Cash on Delivery,2024,10,Oct,4,Q4,40,5,Sat,2024-10,1
+RP-004272,2023-07-16,P-40146,Forest Essentials Lite Men's Grooming,Beauty & Personal Care,Men'S Grooming,2,4671.68,0.25,7007.52,2260.84,Delhi,Gurgaon,Credit Card,2023,7,Jul,3,Q3,28,6,Sun,2023-07,1
+RP-004625,2022-05-29,P-15862,Hasbro Pro Educational,Toys & Games,Educational,1,2987.56,0.2,2390.05,536.27,Rajasthan,Jodhpur,Debit Card,2022,5,May,2,Q2,21,6,Sun,2022-05,1
+RP-001321,2023-08-08,P-46313,FabIndia Deluxe Accessories,Clothing,Accessories,1,207.72,0.35,135.02,31.41,Kerala,Kochi,Cash on Delivery,2023,8,Aug,3,Q3,32,1,Tue,2023-08,0
+RP-003173,2024-03-03,P-44868,Patanjali Standard Organic,Grocery & Food,Organic,3,201.82,0.15,514.64,81.36,Madhya Pradesh,Bhopal,Net Banking,2024,3,Mar,1,Q1,9,6,Sun,2024-03,1
+RP-006154,2022-11-25,P-31150,Havells Deluxe Furniture,Home & Kitchen,Furniture,1,1828.62,0.1,1645.76,446.64,Delhi,Gurgaon,Net Banking,2022,11,Nov,4,Q4,47,4,Fri,2022-11,0
+RP-003282,2022-02-17,P-43818,Mi Lite Mobile Phones,Electronics,Mobile Phones,1,959.86,0.15,815.88,105.84,Uttar Pradesh,Kanpur,Credit Card,2022,2,Feb,1,Q1,7,3,Thu,2022-02,0
+RP-006611,2024-03-09,P-24512,FabIndia Premium Accessories,Clothing,Accessories,1,3768.79,0.15,3203.47,1383.9,Gujarat,Surat,Net Banking,2024,3,Mar,1,Q1,10,5,Sat,2024-03,1
+RP-006354,2023-05-17,P-12937,Haldiram's Standard Staples,Grocery & Food,Staples,1,71.32,0.1,64.19,12.05,Madhya Pradesh,Jabalpur,Credit Card,2023,5,May,2,Q2,20,2,Wed,2023-05,0
+RP-000068,2022-12-10,P-10269,Funskool Pro Outdoor Toys,Toys & Games,Outdoor Toys,1,4476.79,0.3,3133.75,1144.72,Uttar Pradesh,Varanasi,Cash on Delivery,2022,12,Dec,4,Q4,49,5,Sat,2022-12,1
+RP-008047,2024-03-09,P-26942,OnePlus Pro Accessories,Electronics,Accessories,4,980.47,0.15,3333.6,391.61,Punjab,Chandigarh,Cash on Delivery,2024,3,Mar,1,Q1,10,5,Sat,2024-03,1
+RP-000810,2024-12-25,P-29726,Mattel Classic Outdoor Toys,Toys & Games,Outdoor Toys,2,797.68,0.25,1196.52,441.41,Punjab,Chandigarh,Net Banking,2024,12,Dec,4,Q4,52,2,Wed,2024-12,0
+RP-001523,2024-10-06,P-43665,Britannia Lite Organic,Grocery & Food,Organic,1,1092.21,0.05,1037.6,87.83,Kerala,Kozhikode,Net Banking,2024,10,Oct,4,Q4,40,6,Sun,2024-10,1
+RP-008106,2022-02-06,P-28334,Decathlon Deluxe Nutrition,Sports & Fitness,Nutrition,2,494.48,0.2,791.17,205.59,West Bengal,Durgapur,Cash on Delivery,2022,2,Feb,1,Q1,5,6,Sun,2022-02,1
+RP-009260,2023-05-13,P-10653,Levi's Essential Footwear,Clothing,Footwear,1,5671.12,0.1,5104.01,1877.19,West Bengal,Durgapur,Debit Card,2023,5,May,2,Q2,19,5,Sat,2023-05,1
+RP-009387,2024-10-09,P-55485,Yonex Smart Sportswear,Sports & Fitness,Sportswear,1,5639.53,0.2,4511.62,1088.26,West Bengal,Durgapur,UPI,2024,10,Oct,4,Q4,41,2,Wed,2024-10,0
+RP-007859,2024-08-22,P-28615,Mi Premium Audio,Electronics,Audio,1,5669.69,0.25,4252.27,325.55,Gujarat,Ahmedabad,EMI,2024,8,Aug,3,Q3,34,3,Thu,2024-08,0
+RP-000130,2023-11-05,P-54835,Godrej Lite Appliances,Home & Kitchen,Appliances,2,381.82,0.25,572.73,113.48,Tamil Nadu,Madurai,Cash on Delivery,2023,11,Nov,4,Q4,44,6,Sun,2023-11,1
+RP-006515,2022-07-22,P-31789,Boat Pro Accessories,Electronics,Accessories,1,36988.85,0.2,29591.08,3514.24,Tamil Nadu,Coimbatore,Cash on Delivery,2022,7,Jul,3,Q3,29,4,Fri,2022-07,0
+RP-008473,2023-04-25,P-18453,Patanjali Classic Organic,Grocery & Food,Organic,2,60.56,0.05,115.06,18.38,Karnataka,Hubli,Debit Card,2023,4,Apr,2,Q2,17,1,Tue,2023-04,0
+RP-007156,2024-04-17,P-28973,Godrej Standard Bedding,Home & Kitchen,Bedding,2,5440.93,0.15,9249.58,1616.48,Rajasthan,Jaipur,EMI,2024,4,Apr,2,Q2,16,2,Wed,2024-04,0
+RP-003620,2024-12-05,P-12893,Mamaearth Classic Skincare,Beauty & Personal Care,Skincare,1,134.92,0.1,121.43,42.46,Kerala,Kozhikode,UPI,2024,12,Dec,4,Q4,49,3,Thu,2024-12,0
+RP-001305,2024-08-04,P-12893,Mamaearth Classic Skincare,Beauty & Personal Care,Skincare,1,863.69,0.2,690.95,296.19,Tamil Nadu,Chennai,Net Banking,2024,8,Aug,3,Q3,31,6,Sun,2024-08,1
+RP-005754,2024-04-29,P-32494,Penguin Standard Fiction,Books,Fiction,2,904.42,0.05,1718.4,215.64,Gujarat,Surat,Net Banking,2024,4,Apr,2,Q2,18,0,Mon,2024-04,0
+RP-009801,2022-03-10,P-52361,Rupa Lite Children,Books,Children,1,603.05,0.1,542.74,92.38,Tamil Nadu,Chennai,Net Banking,2022,3,Mar,1,Q1,10,3,Thu,2022-03,0
+RP-008288,2024-11-01,P-50962,Patanjali Pro Snacks,Grocery & Food,Snacks,4,918.9,0.15,3124.26,569.8,Telangana,Karimnagar,Cash on Delivery,2024,11,Nov,4,Q4,44,4,Fri,2024-11,0
+RP-002888,2024-11-19,P-44394,Manyavar Classic Footwear,Clothing,Footwear,1,3092.9,0.4,1855.74,690.1,Delhi,Gurgaon,Debit Card,2024,11,Nov,4,Q4,47,1,Tue,2024-11,0
+RP-004421,2022-12-11,P-15188,Lego Pro Board Games,Toys & Games,Board Games,1,321.59,0.1,289.43,104.75,Karnataka,Bengaluru,Credit Card,2022,12,Dec,4,Q4,49,6,Sun,2022-12,1
+RP-004481,2023-06-21,P-44010,Forest Essentials Deluxe Haircare,Beauty & Personal Care,Haircare,2,709.39,0.15,1205.96,457.69,Madhya Pradesh,Indore,Debit Card,2023,6,Jun,2,Q2,25,2,Wed,2023-06,0
+RP-007567,2022-02-21,P-21227,Biba Pro Kids' Wear,Clothing,Kids' Wear,1,4507.6,0.2,3606.08,941.59,Kerala,Kochi,EMI,2022,2,Feb,1,Q1,8,0,Mon,2022-02,0
+RP-007674,2023-04-05,P-56532,United Colors Essential Men's Wear,Clothing,Men'S Wear,2,6765.44,0.15,11501.25,4689.07,Kerala,Thiruvananthapuram,Net Banking,2023,4,Apr,2,Q2,14,2,Wed,2023-04,0
+RP-007966,2024-07-19,P-55779,Mamaearth Deluxe Skincare,Beauty & Personal Care,Skincare,1,2628.77,0.15,2234.45,587.87,Telangana,Karimnagar,Cash on Delivery,2024,7,Jul,3,Q3,29,4,Fri,2024-07,0
+RP-000057,2023-06-20,P-47286,Samsung Pro Laptops,Electronics,Laptops,6,63297.19,0.0,379783.14,55925.62,Rajasthan,Jodhpur,UPI,2023,6,Jun,2,Q2,25,1,Tue,2023-06,0
+RP-002155,2023-11-15,P-14844,Lakme Pro Makeup,Beauty & Personal Care,Makeup,1,1976.46,0.25,1482.34,492.01,Gujarat,Vadodara,UPI,2023,11,Nov,4,Q4,46,2,Wed,2023-11,0
+RP-002086,2022-11-11,P-20072,Himalaya Standard Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,167.14,0.1,150.43,46.51,Uttar Pradesh,Varanasi,EMI,2022,11,Nov,4,Q4,45,4,Fri,2022-11,0
+RP-005912,2022-05-23,P-37937,Cosco Smart Outdoor,Sports & Fitness,Outdoor,1,2564.86,0.1,2308.37,594.98,Punjab,Ludhiana,Debit Card,2022,5,May,2,Q2,21,0,Mon,2022-05,0
+RP-002254,2023-11-05,P-35816,Mi Pro Accessories,Electronics,Accessories,1,73454.48,0.15,62436.31,8670.16,Karnataka,Mysuru,EMI,2023,11,Nov,4,Q4,44,6,Sun,2023-11,1
+RP-003345,2023-08-16,P-51878,Mi Lite Accessories,Electronics,Accessories,1,3168.13,0.15,2692.91,384.68,Kerala,Kochi,Debit Card,2023,8,Aug,3,Q3,33,2,Wed,2023-08,0
+RP-008571,2023-12-03,P-59782,Biotique Deluxe Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,122.1,0.15,103.78,46.22,Gujarat,Surat,UPI,2023,12,Dec,4,Q4,48,6,Sun,2023-12,1
+RP-008454,2024-12-12,P-24751,MTR Essential Organic,Grocery & Food,Organic,1,1938.54,0.1,1744.69,335.6,Madhya Pradesh,Indore,Credit Card,2024,12,Dec,4,Q4,50,3,Thu,2024-12,0
+RP-004467,2022-08-11,P-51131,Noise Classic Laptops,Electronics,Laptops,1,10691.07,0.25,8018.3,1119.19,Punjab,Amritsar,EMI,2022,8,Aug,3,Q3,32,3,Thu,2022-08,0
+RP-009231,2022-04-01,P-22307,Himalaya Pro Fragrances,Beauty & Personal Care,Fragrances,2,686.42,0.15,1166.91,327.31,Uttar Pradesh,Agra,UPI,2022,4,Apr,2,Q2,13,4,Fri,2022-04,0
+RP-008137,2023-10-10,P-57234,Manyavar Premium Accessories,Clothing,Accessories,1,776.61,0.05,737.78,288.67,Tamil Nadu,Coimbatore,Credit Card,2023,10,Oct,4,Q4,41,1,Tue,2023-10,0
+RP-007639,2023-10-25,P-33638,Itsy Bitsy Classic Action Figures,Toys & Games,Action Figures,2,359.47,0.15,611.1,154.42,Rajasthan,Jaipur,Net Banking,2023,10,Oct,4,Q4,43,2,Wed,2023-10,0
+RP-005838,2023-08-27,P-11677,Haldiram's Essential Beverages,Grocery & Food,Beverages,2,1070.74,0.05,2034.41,285.86,Kerala,Kochi,EMI,2023,8,Aug,3,Q3,34,6,Sun,2023-08,1
+RP-002390,2022-04-09,P-25903,Mamaearth Essential Makeup,Beauty & Personal Care,Makeup,2,235.78,0.3,330.09,90.89,Kerala,Kochi,Net Banking,2022,4,Apr,2,Q2,14,5,Sat,2022-04,1
+RP-000656,2023-01-21,P-59912,United Colors Classic Women's Wear,Clothing,Women'S Wear,1,248.13,0.15,210.91,68.44,Delhi,New Delhi,UPI,2023,1,Jan,1,Q1,3,5,Sat,2023-01,1
+RP-005137,2022-03-19,P-54429,Samsung Premium Accessories,Electronics,Accessories,3,2368.16,0.1,6394.03,877.44,Karnataka,Mysuru,Net Banking,2022,3,Mar,1,Q1,11,5,Sat,2022-03,1
+RP-008461,2024-11-03,P-36894,United Colors Lite Women's Wear,Clothing,Women'S Wear,1,2850.89,0.4,1710.53,491.77,Punjab,Amritsar,EMI,2024,11,Nov,4,Q4,44,6,Sun,2024-11,1
+RP-006957,2022-11-28,P-26862,OnePlus Deluxe Tablets,Electronics,Tablets,1,16239.47,0.15,13803.55,2010.02,Karnataka,Bengaluru,Debit Card,2022,11,Nov,4,Q4,48,0,Mon,2022-11,0
+RP-008713,2024-06-13,P-49118,Mi Standard Tablets,Electronics,Tablets,1,2275.37,0.05,2161.6,139.74,Kerala,Kozhikode,Debit Card,2024,6,Jun,2,Q2,24,3,Thu,2024-06,0
+RP-003199,2022-07-28,P-11533,Boat Lite Audio,Electronics,Audio,2,6079.27,0.1,10942.69,756.93,Punjab,Ludhiana,UPI,2022,7,Jul,3,Q3,30,3,Thu,2022-07,0
+RP-007435,2022-01-14,P-22289,Biba Classic Accessories,Clothing,Accessories,3,827.26,0.35,1613.16,469.98,West Bengal,Howrah,Credit Card,2022,1,Jan,1,Q1,2,4,Fri,2022-01,0
+RP-004439,2022-12-04,P-59711,FabIndia Smart Kids' Wear,Clothing,Kids' Wear,1,1611.41,0.1,1450.27,292.63,Punjab,Ludhiana,Cash on Delivery,2022,12,Dec,4,Q4,48,6,Sun,2022-12,1
+RP-009266,2024-03-09,P-14119,Lego Premium Action Figures,Toys & Games,Action Figures,1,162.83,0.2,130.26,41.65,Rajasthan,Jodhpur,UPI,2024,3,Mar,1,Q1,10,5,Sat,2024-03,1
+RP-004969,2022-02-13,P-25823,Lakme Essential Men's Grooming,Beauty & Personal Care,Men'S Grooming,3,160.61,0.35,313.19,124.61,Maharashtra,Nashik,EMI,2022,2,Feb,1,Q1,6,6,Sun,2022-02,1
+RP-000052,2022-01-10,P-54505,Noise Premium Tablets,Electronics,Tablets,1,33216.38,0.1,29894.74,4203.78,Delhi,Gurgaon,Credit Card,2022,1,Jan,1,Q1,2,0,Mon,2022-01,0
+RP-005636,2024-01-04,P-44594,Mattel Smart Action Figures,Toys & Games,Action Figures,1,3309.14,0.15,2812.77,1045.5,Karnataka,Mysuru,Debit Card,2024,1,Jan,1,Q1,1,3,Thu,2024-01,0
+RP-002071,2024-09-12,P-29672,Biotique Premium Men's Grooming,Beauty & Personal Care,Men'S Grooming,1,1482.29,0.3,1037.6,425.71,Telangana,Karimnagar,UPI,2024,9,Sep,3,Q3,37,3,Thu,2024-09,0
+RP-006637,2022-06-15,P-15452,Mattel Pro Outdoor Toys,Toys & Games,Outdoor Toys,2,255.28,0.25,382.92,150.47,Rajasthan,Udaipur,Net Banking,2022,6,Jun,2,Q2,24,2,Wed,2022-06,0
+RP-007362,2024-05-21,P-32775,Noise Standard Mobile Phones,Electronics,Mobile Phones,1,26025.46,0.1,23422.91,2068.96,West Bengal,Durgapur,Cash on Delivery,2024,5,May,2,Q2,21,1,Tue,2024-05,0
+RP-005360,2024-07-25,P-53655,Manyavar Classic Accessories,Clothing,Accessories,1,4537.6,0.4,2722.56,1114.64,Telangana,Karimnagar,Cash on Delivery,2024,7,Jul,3,Q3,30,3,Thu,2024-07,0
+RP-006165,2024-10-13,P-17666,Mi Smart Laptops,Electronics,Laptops,1,2362.11,0.2,1889.69,276.84,Punjab,Amritsar,Cash on Delivery,2024,10,Oct,4,Q4,41,6,Sun,2024-10,1
+RP-003483,2024-08-18,P-53915,Manyavar Lite Men's Wear,Clothing,Men'S Wear,1,3820.2,0.4,2292.12,709.66,Tamil Nadu,Chennai,Debit Card,2024,8,Aug,3,Q3,33,6,Sun,2024-08,1
+RP-000272,2022-08-21,P-39971,Patanjali Smart Beverages,Grocery & Food,Beverages,1,958.0,0.05,910.1,155.16,Punjab,Chandigarh,EMI,2022,8,Aug,3,Q3,33,6,Sun,2022-08,1
+RP-004733,2023-01-14,P-47975,Mi Essential Laptops,Electronics,Laptops,1,3765.06,0.15,3200.3,416.32,West Bengal,Kolkata,Cash on Delivery,2023,1,Jan,1,Q1,2,5,Sat,2023-01,1
+RP-003306,2022-03-08,P-57359,United Colors Premium Kids' Wear,Clothing,Kids' Wear,2,1025.23,0.25,1537.84,604.37,Kerala,Thiruvananthapuram,EMI,2022,3,Mar,1,Q1,10,1,Tue,2022-03,0
+RP-007937,2022-10-05,P-52693,Noise Essential Accessories,Electronics,Accessories,3,14776.31,0.0,44328.93,4459.43,Gujarat,Vadodara,Debit Card,2022,10,Oct,4,Q4,40,2,Wed,2022-10,0
+RP-001161,2022-02-19,P-56432,Realme Standard Mobile Phones,Electronics,Mobile Phones,2,990.23,0.0,1980.46,260.86,Telangana,Warangal,Cash on Delivery,2022,2,Feb,1,Q1,7,5,Sat,2022-02,1
+RP-001879,2023-10-04,P-26411,Boat Classic Accessories,Electronics,Accessories,1,981.69,0.1,883.52,111.7,Tamil Nadu,Madurai,Credit Card,2023,10,Oct,4,Q4,40,2,Wed,2023-10,0
+RP-001123,2024-08-11,P-47843,Decathlon Pro Sportswear,Sports & Fitness,Sportswear,1,2028.77,0.05,1927.33,358.57,Telangana,Warangal,Cash on Delivery,2024,8,Aug,3,Q3,32,6,Sun,2024-08,1
+RP-004369,2022-07-18,P-34925,Hasbro Standard Action Figures,Toys & Games,Action Figures,2,2271.87,0.1,4089.37,1442.33,West Bengal,Howrah,Net Banking,2022,7,Jul,3,Q3,29,0,Mon,2022-07,0
+RP-002541,2023-08-21,P-30125,Manyavar Pro Women's Wear,Clothing,Women'S Wear,1,5041.07,0.3,3528.75,1244.0,Karnataka,Mysuru,Cash on Delivery,2023,8,Aug,3,Q3,34,0,Mon,2023-08,0
+RP-000566,2024-01-06,P-44347,Butterfly Smart Appliances,Home & Kitchen,Appliances,2,3712.18,0.1,6681.92,1265.95,Gujarat,Ahmedabad,Debit Card,2024,1,Jan,1,Q1,1,5,Sat,2024-01,1
+RP-003922,2024-09-20,P-36986,Godrej Smart Bedding,Home & Kitchen,Bedding,1,3618.71,0.25,2714.03,770.71,Madhya Pradesh,Jabalpur,Debit Card,2024,9,Sep,3,Q3,38,4,Fri,2024-09,0
+RP-003776,2023-08-02,P-57866,Manyavar Lite Women's Wear,Clothing,Women'S Wear,1,660.32,0.1,594.29,150.42,Madhya Pradesh,Indore,Net Banking,2023,8,Aug,3,Q3,31,2,Wed,2023-08,0
+RP-009522,2023-12-03,P-25603,Itsy Bitsy Premium Educational,Toys & Games,Educational,2,4237.78,0.25,6356.67,2103.19,Madhya Pradesh,Indore,Credit Card,2023,12,Dec,4,Q4,48,6,Sun,2023-12,1
+RP-001173,2022-11-07,P-27893,Biotique Essential Skincare,Beauty & Personal Care,Skincare,4,3302.59,0.35,8586.73,3861.53,Telangana,Hyderabad,Credit Card,2022,11,Nov,4,Q4,45,0,Mon,2022-11,0
+RP-003503,2022-01-01,P-54402,S Chand Premium Fiction,Books,Fiction,1,151.22,0.05,143.66,31.14,Maharashtra,Nagpur,EMI,2022,1,Jan,1,Q1,52,5,Sat,2022-01,1
+RP-002876,2022-10-07,P-29528,Nilkamal Deluxe Bedding,Home & Kitchen,Bedding,1,12959.15,0.1,11663.24,2281.17,West Bengal,Kolkata,EMI,2022,10,Oct,4,Q4,40,4,Fri,2022-10,0
+RP-006585,2023-07-17,P-31266,Hasbro Essential Outdoor Toys,Toys & Games,Outdoor Toys,1,221.55,0.15,188.32,69.45,Telangana,Karimnagar,UPI,2023,7,Jul,3,Q3,29,0,Mon,2023-07,0
+RP-003594,2022-04-30,P-17666,Mi Smart Laptops,Electronics,Laptops,2,13630.5,0.2,21808.8,1351.93,Karnataka,Mysuru,Cash on Delivery,2022,4,Apr,2,Q2,17,5,Sat,2022-04,1
+RP-002786,2024-02-05,P-27727,FabIndia Lite Kids' Wear,Clothing,Kids' Wear,1,219.53,0.2,175.62,65.89,Delhi,Gurgaon,Debit Card,2024,2,Feb,1,Q1,6,0,Mon,2024-02,0
+RP-004784,2023-11-04,P-49777,Lakme Premium Men's Grooming,Beauty & Personal Care,Men'S Grooming,2,471.89,0.1,849.4,290.11,Tamil Nadu,Madurai,EMI,2023,11,Nov,4,Q4,44,5,Sat,2023-11,1
+RP-008395,2022-03-26,P-47698,Manyavar Essential Kids' Wear,Clothing,Kids' Wear,1,1174.96,0.2,939.97,241.73,Maharashtra,Pune,Debit Card,2022,3,Mar,1,Q1,12,5,Sat,2022-03,1
+RP-004542,2022-02-11,P-35096,Hasbro Premium Outdoor Toys,Toys & Games,Outdoor Toys,1,521.81,0.25,391.36,150.5,Uttar Pradesh,Lucknow,Debit Card,2022,2,Feb,1,Q1,6,4,Fri,2022-02,0
+RP-007222,2022-09-18,P-58716,Levi's Essential Kids' Wear,Clothing,Kids' Wear,1,571.35,0.15,485.65,199.49,Gujarat,Vadodara,UPI,2022,9,Sep,3,Q3,37,6,Sun,2022-09,1
+RP-004292,2022-03-31,P-56939,Godrej Standard Cookware,Home & Kitchen,Cookware,1,1318.34,0.3,922.84,184.61,Telangana,Warangal,Credit Card,2022,3,Mar,1,Q1,13,3,Thu,2022-03,0
+RP-005846,2024-10-11,P-40821,FabIndia Pro Footwear,Clothing,Footwear,3,2594.06,0.25,5836.64,2031.47,Tamil Nadu,Coimbatore,Credit Card,2024,10,Oct,4,Q4,41,4,Fri,2024-10,0
+RP-001163,2024-07-30,P-39387,United Colors Smart Women's Wear,Clothing,Women'S Wear,1,553.22,0.2,442.58,177.53,Madhya Pradesh,Indore,UPI,2024,7,Jul,3,Q3,31,1,Tue,2024-07,0
+RP-004480,2024-12-09,P-52183,Butterfly Pro Bedding,Home & Kitchen,Bedding,3,348.92,0.1,942.08,174.96,Uttar Pradesh,Lucknow,EMI,2024,12,Dec,4,Q4,50,0,Mon,2024-12,0
+RP-007489,2022-08-05,P-54402,S Chand Premium Fiction,Books,Fiction,1,164.4,0.2,131.52,17.93,Madhya Pradesh,Jabalpur,UPI,2022,8,Aug,3,Q3,31,4,Fri,2022-08,0
+RP-006590,2023-08-29,P-22988,Prestige Deluxe Furniture,Home & Kitchen,Furniture,1,5599.82,0.15,4759.85,739.59,Gujarat,Ahmedabad,EMI,2023,8,Aug,3,Q3,35,1,Tue,2023-08,0
+RP-004960,2024-03-09,P-43493,United Colors Premium Men's Wear,Clothing,Men'S Wear,1,1004.86,0.25,753.64,322.49,Punjab,Amritsar,UPI,2024,3,Mar,1,Q1,10,5,Sat,2024-03,1
+RP-003649,2022-10-31,P-26862,OnePlus Deluxe Tablets,Electronics,Tablets,1,29111.69,0.1,26200.52,2396.68,Maharashtra,Mumbai,UPI,2022,10,Oct,4,Q4,44,0,Mon,2022-10,0
+RP-006861,2022-10-07,P-36567,Lakme Standard Makeup,Beauty & Personal Care,Makeup,3,1378.56,0.1,3722.11,1007.64,Delhi,New Delhi,EMI,2022,10,Oct,4,Q4,40,4,Fri,2022-10,0
+RP-004950,2024-02-04,P-39418,Prestige Lite Cookware,Home & Kitchen,Cookware,1,6634.59,0.15,5639.4,928.62,Maharashtra,Pune,EMI,2024,2,Feb,1,Q1,5,6,Sun,2024-02,1
